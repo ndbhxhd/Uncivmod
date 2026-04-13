@@ -1,8 +1,7 @@
-[
-    {
-        "name": "Civilian",
-        "movementType": "Land"
-    },
+[{
+    "name": "Civilian",
+    "movementType": "Land"
+},
     {
         "name": "Icebreaker",
         "movementType": "Water",
@@ -40,20 +39,13 @@
         "movementType": "Land"
     },
     {
-        "name": "Ranged Heavy",
-        "movementType": "Land"
-    },
-    {
-        "name": "Ranged Support",
-        "movementType": "Land"
-    },
-    {
         "name": "Archery",
         "movementType": "Land"
     },
     {
         "name": "Recon",
-        "uniques": ["Ignores terrain cost", "Can see invisible [Land] units"],
+        "uniques": ["Ignores terrain cost",
+            "Can see invisible [Land] units"],
         "movementType": "Land"
     },
     {
@@ -127,7 +119,7 @@
         "movementType": "Water"
     },
     {
-        "name": "Anti Air",
+        "name": "Anti-Air",
         "uniques": [
             "[+50]% Strength <vs [Aircraft] units>",
             "[+100]% Strength <vs [Helicopter] units>",
@@ -138,7 +130,7 @@
     {
         "name": "Counter Missile",
         "uniques": ["Cannot intercept [Aircraft] units"],
-        "movementType": "air"
+        "movementType": "Air"
     },
     {
         "name": "Fighter",
@@ -177,12 +169,15 @@
     },
     {
         "name": "Drone",
-        "uniques": ["Land", "Can see over obstacles", "[+2] Sight"],
+        "uniques": ["Land",
+            "Can see over obstacles",
+            "[+2] Sight"],
         "movementType": "Land"
     },
     {
         "name": "Atomic Bomber",
-        "uniques": ["Aircraft", "Self-destructs when attacking"],
+        "uniques": ["Aircraft",
+            "Self-destructs when attacking"],
         "movementType": "Air"
     },
     {
@@ -193,7 +188,8 @@
     {
         "name": "Nuclear Missile",
         "movementType": "Air",
-        "uniques": ["Self-destructs when attacking", "Nuke"]
+        "uniques": ["Self-destructs when attacking",
+            "Nuke"]
     },
     {
         "name": "Helicopter",
@@ -206,7 +202,8 @@
     {
         "name": "Satellite",
         "movementType": "Air",
-        "uniques": ["Cannot be intercepted", "Satellite"]
+        "uniques": ["Cannot be intercepted",
+            "Satellite"]
     },
     {
         "name": "Trade Plane",
@@ -251,5 +248,4 @@
     {
         "name": "AtomicBomber",
         "movementType": "Air"
-    }
-]
+    }]
