@@ -1,4 +1,7 @@
 {
+      "name": "Uncivmod",
+  "author": "ndbhxhd",
+  "version": "1.0",
     "constants":
     {
         "maxLakeSize": 5,
@@ -22,9 +25,5 @@
         "Allow raze capital": true,
         "Can trade civilization introductions for [500] Gold": true
     },
-    "isBaseRuleset": true,
-  "name": "Uncivmod",
-  "author": "ndbhxhd",
-  "version": "1.0"
-
+    "isBaseRuleset": true
 }
