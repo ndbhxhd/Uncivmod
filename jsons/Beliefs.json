@@ -1,16 +1,15 @@
-[
-    {
-        "name": "Altars of Worship",
-        "type": "Pantheon",
-        "uniques": ["[+25]% Production when constructing [All] wonders [in cities following this religion]"]
-        // ToDo: Should only be ancient/classical era wonders, but implementing that is another can of worms
-        // For that we really should need an era.matchesFilter(), so we could write something like:
-        //"uniques": ["[+15]% Production when constructing [Ancient era] wonders [in cities following this religion]",
-        // "[+15]% Production when constructing [Classical era] wonders [in cities following this religion]"]
-        // For now this feels like overkill, but I'll leave this here for the future
+[{
+    "name": "Altars of Worship",
+    "type": "Pantheon",
+    "uniques": ["[+25]% Production when constructing [All] wonders [in cities following this religion]"]
+    // ToDo: Should only be ancient/classical era wonders, but implementing that is another can of worms
+    // For that we really should need an era.matchesFilter(), so we could write something like:
+    //"uniques": ["[+15]% Production when constructing [Ancient era] wonders [in cities following this religion]",
+    // "[+15]% Production when constructing [Classical era] wonders [in cities following this religion]"]
+    // For now this feels like overkill, but I'll leave this here for the future
 
-        // Alternatively, we could approximate this with "[+15]% Production when constructing [All] wonders [in cities following this religion] <during the [Ancient era]>"
-    },
+    // Alternatively, we could approximate this with "[+15]% Production when constructing [All] wonders [in cities following this religion] <during the [Ancient era]>"
+},
     {
         "name": "Ancestor Worship",
         "type": "Pantheon",
@@ -228,7 +227,7 @@
     {
         "name": "Spirit Trees",
         "type": "Pantheon",
-        "uniques": ["[+1 Food, +1 Faith] from every [Lumber mill]"]
+        "uniques": ["[+1 Food, +1 Faith] from every [Lumber Mill]"]
     },
     {
         "name": "Starlight Guidance",
@@ -314,7 +313,7 @@
     {
         "name": "Initiation Rites",
         "type": "Founder",
-        "uniques": ["[+500 Gold] when a city adopts this religion for the first time <(modified by game speed)>"]
+        "uniques": ["[+500 Gold] when a city adopts this religion for the first time <modified by game speed>"]
     },
     {
         "name": "Messiah",
@@ -345,7 +344,7 @@
             "Resting point for Influence with City-States following this religion [+45]"
         ]
     },
-     {
+    {
         "name": "Reliquary",
         "type": "Founder",
         "uniques": [
@@ -401,7 +400,8 @@
     {
         "name": "Divine inspiration",
         "type": "Follower",
-        "uniques": ["[+3 Faith, +2 Culture] from every [Wonder]","[+3 Faith, +2 Culture] from every [Natural Wonder]"]
+        "uniques": ["[+3 Faith, +2 Culture] from every [Wonder]",
+            "[+3 Faith, +2 Culture] from every [Natural Wonder]"]
     },
     {
         "name": "Feed the World",
@@ -667,5 +667,4 @@
             "Reformation belief",
             "Unavailable"
         ]
-    }
-]
+    }]
