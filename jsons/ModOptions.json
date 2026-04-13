@@ -22,5 +22,9 @@
         "Allow raze capital": true,
         "Can trade civilization introductions for [500] Gold": true
     },
-    "isBaseRuleset": true
+    "isBaseRuleset": true,
+  "name": "My Civ Mod",
+  "author": "YourName",
+  "version": "1.0"
+
 }
