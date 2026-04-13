@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Cultured",
+        "friendBonusUniques": [
+            "[+3 Culture] <before the [Medieval era]>",
+            "[+6 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+13 Culture] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+6 Culture] <before the [Medieval era]>",
+            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Culture] <starting from the [Industrial era]>"
+        ],
+        "color": [139,96,255]
+    },
+    {
+        "name": "Maritime",
+        "friendBonusUniques": [
+            "[+3 Food] [in capital]"
+        ],
+        "allyBonusUniques": [
+            "[+5 Food] [in capital]",
+            "[+3 Food] [in all cities]"
+        ],
+        "color": [56,255,112]
+    },
+    {
+        "name": "Mercantile",
+        "friendBonusUniques": [
+            "[+2 Happiness] <before the [Medieval era]>",
+            "[+3 Happiness] <starting from the [Medieval era]>"
+        ],
+        "allyBonusUniques": [
+            "[+2 Happiness] <before the [Medieval era]>",
+            "[+4 Happiness] <starting from the [Medieval era]>",
+            "Provides a unique luxury"
+        ],
+        "color": [255,216,0]
+    },
+    {
+        "name": "Militaristic",
+        "friendBonusUniques": [
+            "Provides military units every ≈[15] turns"
+        ],
+        "allyBonusUniques": [
+            "Provides military units every ≈[10] turns"
+        ],
+        "color": [255,0,0]
+    },
+    {
+        "name": "Religious",
+        "friendBonusUniques": [
+            "[+3 Faith] <before the [Classical era]>",
+            "[+3 Faith] <starting from the [Classical era]> <before the [Medieval era]>",
+            "[+6 Faith] <starting from the [Medieval era]> <before the [Renaissance era]>",
+            "[+6 Faith] <starting from the [Renaissance era]> <before the [Industrial era]>",
+            "[+13 Faith] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+6 Faith] <before the [Classical era]>",
+            "[+6 Faith] <starting from the [Classical era]> <before the [Medieval era]>",
+            "[+12 Faith] <starting from the [Medieval era]> <before the [Renaissance era]>",
+            "[+12 Faith] <starting from the [Renaissance era]> <before the [Industrial era]>",
+            "[+26 Faith] <starting from the [Industrial era]>"
+        ],
+        "color": [255,255,255]
+    },
+    {
+        "name": "Merchant",
+        "friendBonusUniques": [
+            "[+6 Gold] <before the [Medieval era]>",
+            "[+12 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+26 Gold] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques": [
+            "[+12 Gold] <before the [Medieval era]>",
+            "[+24 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+52 Gold] <starting from the [Industrial era]>"
+        ],
+        "color": [222, 222, 24]
+    }
+]

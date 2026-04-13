@@ -1,0 +1,5399 @@
+[
+    //Piety Complete
+    {
+        "name": "Purchase Great General",
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia",
+            "Free [Great General] appears",
+            "Only available <after adopting [Piety Complete]>",
+            "Unavailable <if [Great General purchased] is constructed> <hidden from users>",
+            "Only available <in [Capital] cities>",
+            "Gain a free [Great General purchased] [in all cities] <hidden from users>",
+            "Remove [Purchase Great General] [in this city] <hidden from users>",
+            "Piety Complete Building"
+        ]
+    },
+    {
+        "name": "Great General purchased",
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia",
+            "Destroyed when the city is captured",
+            "Gain a free [Great General purchased] [in all cities] <hidden from users>"
+        ]
+    },
+    {
+        "name": "Purchase Great Artist",
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia",
+            "Free [Great Artist] appears",
+            "Only available <after adopting [Piety Complete]>",
+            "Unavailable <if [Great Artist purchased] is constructed> <hidden from users>",
+            "Only available <in [Capital] cities>",
+            "Gain a free [Great Artist purchased] [in all cities] <hidden from users>",
+            "Remove [Purchase Great Artist] [in this city] <hidden from users>",
+            "Piety Complete Building"
+        ]
+    },
+    {
+        "name": "Great Artist purchased",
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia",
+            "Destroyed when the city is captured",
+            "Gain a free [Great Artist purchased] [in all cities] <hidden from users>"
+        ]
+    },
+    {
+        "name": "Purchase Great Writer",
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia",
+            "Free [Great Writer] appears",
+            "Only available <after adopting [Piety Complete]>",
+            "Unavailable <if [Great Writer purchased] is constructed> <hidden from users>",
+            "Only available <in [Capital] cities>",
+            "Gain a free [Great Writer purchased] [in all cities] <hidden from users>",
+            "Remove [Purchase Great Writer] [in this city] <hidden from users>",
+            "Piety Complete Building"
+        ]
+    },
+    {
+        "name": "Great Writer purchased",
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia",
+            "Destroyed when the city is captured",
+            "Gain a free [Great Writer purchased] [in all cities] <hidden from users>"
+        ]
+    },
+    {
+        "name": "Purchase Great Musician",
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia",
+            "Free [Great Musician] appears",
+            "Only available <after adopting [Piety Complete]>",
+            "Unavailable <if [Great Musician purchased] is constructed> <hidden from users>",
+            "Only available <in [Capital] cities>",
+            "Gain a free [Great Musician purchased] [in all cities] <hidden from users>",
+            "Remove [Purchase Great Musician] [in this city] <hidden from users>",
+            "Piety Complete Building"
+        ]
+    },
+    {
+        "name": "Great Musician purchased",
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia",
+            "Destroyed when the city is captured",
+            "Gain a free [Great Musician purchased] [in all cities] <hidden from users>"
+        ]
+    },
+    {
+        "name": "Purchase Great Merchant",
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia",
+            "Free [Great Merchant] appears",
+            "Only available <after adopting [Piety Complete]>",
+            "Unavailable <if [Great Merchant purchased] is constructed> <hidden from users>",
+            "Only available <in [Capital] cities>",
+            "Gain a free [Great Merchant purchased] [in all cities] <hidden from users>",
+            "Remove [Purchase Great Merchant] [in this city] <hidden from users>",
+            "Piety Complete Building"
+        ]
+    },
+    {
+        "name": "Great Merchant purchased",
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia",
+            "Destroyed when the city is captured",
+            "Gain a free [Great Merchant purchased] [in all cities] <hidden from users>"
+        ]
+    },
+    {
+        "name": "Purchase Great Engineer",
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia",
+            "Free [Great Engineer] appears",
+            "Only available <after adopting [Piety Complete]>",
+            "Unavailable <if [Great Engineer purchased] is constructed> <hidden from users>",
+            "Only available <in [Capital] cities>",
+            "Gain a free [Great Engineer purchased] [in all cities] <hidden from users>",
+            "Remove [Purchase Great Engineer] [in this city] <hidden from users>",
+            "Piety Complete Building"
+        ]
+    },
+    {
+        "name": "Great Engineer purchased",
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia",
+            "Destroyed when the city is captured",
+            "Gain a free [Great Engineer purchased] [in all cities] <hidden from users>"
+        ]
+    },
+    {
+        "name": "Purchase Great Admiral",
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia",
+            "Free [Great Admiral] appears",
+            "Only available <in [Coastal] cities>",
+            "Only available <after adopting [Piety Complete]>",
+            "Unavailable <if [Great Admiral purchased] is constructed> <hidden from users>",
+            "Only available <in [Capital] cities>",
+            "Gain a free [Great Admiral purchased] [in all cities] <hidden from users>",
+            "Remove [Purchase Great Admiral] [in this city] <hidden from users>",
+            "Piety Complete Building"
+        ]
+    },
+    {
+        "name": "Great Admiral purchased",
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia",
+            "Destroyed when the city is captured",
+            "Gain a free [Great Admiral purchased] [in all cities] <hidden from users>"
+        ]
+    },
+
+    // Religious buildings
+    {
+        "name": "Cathedral",
+        "culture": 10,
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Can be purchased for [150] [Faith] [in all cities]",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Cathedrals] religion>"
+        ]
+    },
+    {
+        "name": "Mosque",
+        "culture": 1,
+        "faith": 1,
+        "happiness": 1,
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Can be purchased for [250] [Faith] [in all cities]",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Mosques] religion>"
+        ]
+    },
+    {
+        "name": "Pagoda",
+        "faith": 2,
+        "culture": 1,
+        "happiness": 1,
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "[10]% Food is carried over after population increases [in this city]",
+            "Can be purchased for [200] [Faith] [in all cities]",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Pagodas] religion>"
+        ]
+    },
+    {
+        "name": "Gurdwara",
+        "culture": 1,
+        "faith": 4,
+        "science": 4,
+        "happiness": 1,
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Can be purchased for [270] [Faith] [in all cities]",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Gurdwaras] religion>"
+        ]
+    },
+    {
+        "name": "Synagogue",
+        "culture": 1,
+        "faith": 1,
+        "production": 1,
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "[+5]% Production when constructing [All] buildings [in this city]",
+            "Can be purchased for [300] [Faith] [in all cities]",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Synagogues] religion>"
+        ]
+    },
+    {
+        "name": "Vihara",
+        "faith": 1,
+        "happiness": 1,
+        "specialistSlots": {
+            "Merchant": 1
+        },
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "[+25]% [Gold] [in this city]",
+            "Can be purchased for [150] [Faith] [in all cities]",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Viharas] religion>"
+        ]
+    },
+    {
+        "name": "Mandir",
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "[+1 Food, +1 Production] from [Luxury resource] tiles [in this city]",
+            "Can be purchased for [270] [Faith] [in all cities]",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Mandirs] religion>"
+        ]
+    },
+    {
+        "name": "Georgian Cathedral",
+        "replaces": "Cathedral",
+        "uniqueTo": "Georgia",
+        "cost": 135,
+        "culture": 5,
+        "production": 2,
+        "uniques": [
+            "Unsellable",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Cathedrals] religion>",
+            "Will not be displayed in Civilopedia"
+        ]
+    },
+    {
+        "name": "Georgian Mosque",
+        "replaces": "Mosque",
+        "uniqueTo": "Georgia",
+        "cost": 75,
+        "culture": 1,
+        "faith": 3,
+        "production": 2,
+        "happiness": 1,
+        "uniques": [
+            "Unsellable",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Mosques] religion>",
+            "Will not be displayed in Civilopedia"
+        ]
+    },
+    {
+        "name": "Georgian Pagoda",
+        "replaces": "Pagoda",
+        "uniqueTo": "Georgia",
+        "cost": 100,
+        "faith": 2,
+        "production": 2,
+        "culture": 1,
+        "happiness": 1,
+        "uniques": [
+            "Unsellable",
+            "[10]% Food is carried over after population increases [in this city]",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Pagodas] religion>",
+            "Will not be displayed in Civilopedia"
+        ]
+    },
+    {
+        "name": "Georgian Gurdwara",
+        "replaces": "Gurdwara",
+        "uniqueTo": "Georgia",
+        "cost": 135,
+        "culture": 1,
+        "faith": 4,
+        "production": 2,
+        "science": 4,
+        "happiness": 1,
+        "uniques": [
+            "Unsellable",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Gurdwaras] religion>",
+            "Will not be displayed in Civilopedia"
+        ]
+    },
+    {
+        "name": "Georgian Synagogue",
+        "replaces": "Synagogue",
+        "uniqueTo": "Georgia",
+        "cost": 100,
+        "culture": 1,
+        "faith": 2,
+        "production": 3,
+        "uniques": [
+            "Unsellable",
+            "[+15]% Production when constructing [All] buildings [in this city]",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Synagogues] religion>",
+            "Will not be displayed in Civilopedia"
+        ]
+    },
+    {
+        "name": "Georgian Vihara",
+        "replaces": "Vihara",
+        "uniqueTo": "Georgia",
+        "cost": 75,
+        "faith": 1,
+        "production": 2,
+        "happiness": 1,
+        "specialistSlots": {
+            "Merchant": 1
+        },
+        "uniques": [
+            "Unsellable",
+            "[+25]% [Gold] [in this city]",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Viharas] religion>",
+            "Will not be displayed in Civilopedia"
+        ]
+    },
+    {
+        "name": "Georgian Mandir",
+        "production": 2,
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "[+1 Food, +1 Production] from [Luxury resource] tiles [in this city]",
+            "Can be purchased for [270] [Faith] [in all cities]",
+            "Only available <when religion is enabled>",
+            "Only available <in cities with a [Mandirs] religion>"
+        ]
+    },
+    // Uniques
+    {
+        "name": "Art Hall",
+        "culture": 5,
+        "faith": 5,
+        "uniques": ["Unbuildable", "Unsellable"]
+    },
+    {
+        "name": "Writing Auditorium",
+        "culture": 3,
+        "science": 2,
+        "uniques": ["Unbuildable", "Unsellable"]
+    },
+    {
+        "name": "Vocal Chamber",
+        "culture": 4,
+        "happiness": 1,
+        "specialistSlots": {
+            "Musician": 1
+        },
+        "uniques": ["Unbuildable", "Unsellable"]
+    },
+    {
+        "name": "Fine Art Specialist",
+        "culture": 3,
+        "happiness": 2,
+        "specialistSlots": {
+            "Artist": 1,
+            "Writer": 1,
+            "Musician": 1
+        },
+        "uniques": [
+            "Unbuildable",
+            "Unsellable",
+            "Never destroyed when the city is captured"
+        ]
+    },
+    {
+        "name": "boliviaGreatArtistAbility",
+        "uniques": [
+            "[+1 Production] from every [Mine]",
+            "Remove [boliviaGreatWriterAbility] [in all cities]",
+            "Will not be displayed in Civilopedia",
+            "Moves to new capital when capital changes",
+            "Unbuildable",
+            "Unsellable"
+        ]
+    },
+    {
+        "name": "boliviaGreatWriterAbility",
+        "uniques": [
+            "[+1 Food] from every [Mine]",
+            "Remove [boliviaGreatArtistAbility] [in all cities]",
+            "Will not be displayed in Civilopedia",
+            "Moves to new capital when capital changes",
+            "Unbuildable",
+            "Unsellable"
+        ]
+    },
+    /*{
+        "name": "~limit",
+        "gold": 2,
+        "cost": -1,
+        "uniques": [
+            "Never destroyed when the city is captured",
+            "Will not be displayed in Civilopedia",
+            "Unbuildable", "Unsellable"
+        ]
+    },*/
+    {
+        "name": "Cloves",
+        // Indonesian luxury
+        "uniqueTo": "Indonesia",
+        "cost": 0,
+        "uniques": [
+            "Provides [2] [Cloves]",
+            "Never destroyed when the city is captured",
+            "Unsellable",
+            "Only available <in cities without a [Cloves]>",
+            "Only available <in cities without a [Nutmeg]>",
+            "Only available <in cities without a [Pepper]>",
+            "Must be next to [Coast]",
+            "Limited to [1] per Civilization",
+            "Will not be displayed in Civilopedia"
+        ]
+    },
+    {
+        "name": "Nutmeg",
+        // Indonesian luxury
+        "uniqueTo": "Indonesia",
+        "cost": 0,
+        "uniques": [
+            "Provides [2] [Nutmeg]",
+            "Never destroyed when the city is captured",
+            "Unsellable",
+            "Only available <in cities without a [Cloves]>",
+            "Only available <in cities without a [Nutmeg]>",
+            "Only available <in cities without a [Pepper]>",
+            "Must be next to [Coast]",
+            "Limited to [1] per Civilization",
+            "Will not be displayed in Civilopedia"
+        ]
+    },
+    {
+        "name": "Pepper",
+        // Indonesian luxury
+        "uniqueTo": "Indonesia",
+        "cost": 0,
+        "uniques": [
+            "Provides [2] [Pepper]",
+            "Never destroyed when the city is captured",
+            "Unsellable",
+            "Only available <in cities without a [Cloves]>",
+            "Only available <in cities without a [Nutmeg]>",
+            "Only available <in cities without a [Pepper]>",
+            "Must be next to [Coast]",
+            "Limited to [1] per Civilization",
+            "Will not be displayed in Civilopedia"
+        ]
+    },
+    {
+        "name": "~CS",
+        "uniques": [
+            "Unsellable",
+            "Will not be displayed in Civilopedia",
+            "Unbuildable",
+            "Destroyed when the city is captured"
+        ]
+    },
+    {
+        "name": "Watch Tower",
+        "cityStrength": 7,
+        "cityHealth": 50,
+        "hurryCostModifier": 25,
+        "uniques": ["Unsellable", "Unbuildable", "Cannot be purchased"]
+    },
+    {
+        "name": "Castle Builders",
+        "cityStrength": 5,
+        "uniqueTo": "Normandy",
+        "uniques": ["Unsellable", "Unbuildable", "Cannot be purchased"]
+    },
+    {
+        "name": "Ulugh Beg's Observatory",
+        "cityStrength": 5,
+        "uniqueTo": "Timurids",
+        "percentStatBonus": {
+            "science": 15,
+            "gold": 15,
+            "culture": 15
+        },
+        "uniques": [
+            "Unsellable",
+            "Unbuildable",
+            "Cannot be purchased",
+            "Only available <in cities with a [Palace]>",
+            "Destroyed when the city is captured"
+        ]
+    },
+    {
+        "name": "Governor's Mansion",
+        "happiness": 2,
+        "uniques": [
+            "Unsellable",
+            "Unbuildable",
+            "[+3] population [in this city]",
+            "Gain control over [6] tiles [in this city] <upon founding a city>"
+        ]
+    },
+    {
+        "name": "Bahai Kubo",
+        "uniqueTo": "Philippines",
+        "cost": 0,
+        "uniques": [
+            "Unsellable",
+            "Never destroyed when the city is captured",
+            "[+1] population [in this city]",
+            "Limited to [2] per Civilization",
+            //TODO: stockpile resource for prevent 'could be captured, then rebuilt in a new city'
+            "Will not be displayed in Civilopedia",
+            "Only available <in cities without a [Palace]>",
+            "Automatically built in all cities where it is buildable"
+        ]
+    },
+
+    // Ancient Era
+    // Always available
+    {
+        "name": "Palace",
+        "isNationalWonder": true,
+        "production": 3,
+        "science": 3,
+        "gold": 3,
+        "culture": 1,
+        "cityStrength": 2,
+        "cost": 0,
+        "uniques": [
+            "Indicates the capital city",
+            "Comment [Has 1 Great Work of Writing Slot]"
+        ]
+    },
+    {
+        "name": "Palace Great Writing Slot",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Writing",
+        "uniques": [
+            "Great Work",
+            "GW Writing",
+            "Only available <in cities with a [Palace]>",
+            "Provides [1] [Great Work of Writing]",
+            "Instantly consumes [1] [Great Work of Writing]"
+        ]
+    },
+    {
+        "name": "Orszaggyules",
+        "uniqueTo": "Hungary",
+        "replaces": "Palace",
+        "isNationalWonder": false,
+        "cost": 100,
+        "production": 3,
+        "science": 3,
+        "gold": 3,
+        "culture": 1,
+        "cityStrength": 2,
+        "requiredTech": "Mathematics",
+        "uniques": [
+            "Indicates the capital city",
+            "[+25]% Great Person generation [in this city]",
+            "[+10]% Production when constructing [All] buildings [in this city]",
+            "Limited to [2] per Civilization",
+            "Comment [Has 1 Great Work of Writing Slot]"
+        ]
+    },
+    //Information era
+    {
+        "name": "Autoplant",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "production": 10,
+        "specialistSlots": { "Engineer": 1 },
+        "uniques": [
+            "[+1 Gold] from every [E-Commerce Server]",
+            "[+10]% Production when constructing [Robot Infantry] units [in this city]",
+            "[+10]% Production when constructing [Automaton] units [in this city]",
+            "Only available <in cities without a [Genejack Facility]>",
+            "Only available <in cities without a [Biofactory]>",
+            "Only available <in cities without a [Biogenesis Pod]>"
+        ],
+        "requiredBuilding": "Factory",
+        "requiredTech": "Distributed Computing"
+    },
+    {
+        "name": "Aquaculture Lab",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "specialistSlots": { "Scientist": 1 },
+        "uniques": [
+            "[+1 Food, +1 Gold] from [Fishing Boats] tiles [in this city]",
+            "Only available <in cities without a [Undersea Mining Platform]>"
+        ],
+        "requiredBuilding": "Lighthouse",
+        "requiredTech": "Cloning"
+    },
+    {
+        "name": "Cloning Lab",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "uniques": [
+            "[+2 Food] from [Cattle] tiles [in this city]",
+            "[+2 Food] from [Sheep] tiles [in this city]",
+            "[+2 Production] from [Horses] tiles [in this city]",
+            "[15]% Food is carried over after population increases [in this city]",
+            "Only available <in cities without a [Vertical Farm]>",
+            "Only available <in cities without a [Mycoprotein Vats]>",
+            "Only available <in cities without a [Orbital Habitat]>"
+        ],
+        "requiredBuilding": "Genemod Lab",
+        "requiredTech": "Cloning"
+    },
+    {
+        "name": "E-Commerce Server",
+        "cost": 500,
+        "hurryCostModifier": 160,
+        "gold": 4,
+        "percentStatBonus": { "gold": 25 },
+        "specialistSlots": { "Merchant": 2 },
+        "uniques": [
+            "[+2 Gold] from each Trade Route",
+            "Only available <in cities with a [Server Hub]>"
+        ],
+        "requiredBuilding": "Stock Exchange",
+        "requiredTech": "The Internet"
+    },
+    {
+        "name": "Entertainment Server",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "culture": 4,
+        "percentStatBonus": { "culture": 25 },
+        "specialistSlots": { "Artist": 2 },
+        "uniques": [
+            "[+2 Culture] from each Trade Route <in this city>",
+            "Only available <in cities with a [Server Hub]>"
+        ],
+        "requiredBuilding": "Broadcast Tower",
+        "requiredTech": "Memetics"
+    },
+    {
+        "name": "Genemod Lab",
+        "cost": 500,
+        "hurryCostModifier": 160,
+        "food": 4,
+        "uniques": [
+            "[+25]% Great Person generation [in this city]",
+            "[+2 Food] from [Wheat] tiles [in this city]",
+            "[+2 Food] from [Deer] tiles [in this city]",
+            "[+2 Food] from [Bananas] tiles [in this city]",
+            "[+2 Food] from [Fish] tiles [in this city]",
+            "Only available <in cities without a [Vertical Farm]>",
+            "Only available <in cities without a [Mycoprotein Vats]>",
+            "Only available <in cities without a [Orbital Habitat]>"
+        ],
+        "requiredBuilding": "Genemod Lab",
+        "requiredTech": "Genetic Manipulation"
+    },
+    {
+        "name": "Geofront",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "cityStrength": 18,
+        "cityHealth": 50,
+        "uniques": [
+            "Population loss from nuclear attacks [-20]% [in this city]",
+            "Only available <in cities with a [Server Hub]>"
+        ],
+        "requiredBuilding": "Bomb Shelter",
+        "requiredTech": "Artificial Environments"
+    },
+    {
+        "name": "Geothermal Plant",
+        "cost": 500,
+        "hurryCostModifier": 160,
+        "production": 5,
+        "percentStatBonus": { "production": 15 },
+        "uniques": [
+            "Must be next to [Mountain]",
+            "Only available <in cities without a [Solar Plant]>",
+            "Only available <in cities without a [Nuclear Plant]>",
+            "Only available <in cities without a [Tidal Plant]>"
+        ],
+        "requiredBuilding": "Factory",
+        "requiredTech": "Environmentalism"
+    },
+    {
+        "name": "Information Hub",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "culture": 3,
+        "happiness": 2,
+        "specialistSlots": { "Scientist": 1 },
+        "uniques": [
+            "[+1 Happiness] from every [Colosseum] <in this city>",
+            "[+1 Happiness] from every [Theatre] <in this city>",
+            "[+1 Happiness] from every [Stadium] <in this city>",
+            "Only available <in cities without a [Network Backbone]>",
+            "Only available <in cities without a [Telepresence Hub]>",
+            "Only available <in cities without a [AI Network]>"
+        ],
+        "requiredBuilding": "Server Hub",
+        "requiredTech": "High-Energy Physics"
+    },
+    {
+        "name": "Nanomaterial Plant",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "uniques": [
+            "[+2 Production] from [Oil] tiles [in this city]",
+            "[+2 Production] from [Coal] tiles [in this city]",
+            "Provides [4] [Nanomaterial]"
+        ],
+        "requiredTech": "Nanomaterials"
+    },
+    {
+        "name": "Research Server",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "science": 4,
+        "specialistSlots": { "Scientist": 1 },
+        "requiredBuilding": "Server Hub",
+        "requiredTech": "Distributed Computing"
+    },
+    {
+        "name": "Server Hub",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "science": 2,
+        "gold": 2,
+        "culture": 2,
+        "requiredTech": "The Internet"
+    },
+    {
+        "name": "Tidal Plant",
+        "cost": 500,
+        "hurryCostModifier": 160,
+        "production": 5,
+        "percentStatBonus": { "production": 15 },
+        "uniques": [
+            "Must be next to [Coast]",
+            "Only available <in cities without a [Solar Plant]>",
+            "Only available <in cities without a [Nuclear Plant]>",
+            "Only available <in cities without a [Geothermal Plant]>"
+        ],
+        "requiredBuilding": "Factory",
+        "requiredTech": "Environmentalism"
+    },
+    {
+        "name": "Vertical Farm",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "food": 6,
+        "happiness": 2,
+        "uniques": [
+            "[+1 Food] from [Hydroponics Dome] tiles [in this city]",
+            "Only available <in cities without a [Cloning Lab]>",
+            "Only available <in cities without a [Ecosanctuary]>",
+            "Only available <in cities without a [Genemod Lab]>",
+            "Only available <in cities without a [Transgenic Nursery]>"
+        ],
+        "requiredBuilding": "Aqueduct",
+        "requiredTech": "Artificial Environments"
+    },
+    {
+        "name": "VR Training Centre",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "uniques": ["New [Military] units start with [25] XP [in this city]"],
+        "requiredBuilding": "Military Academy",
+        "requiredTech": "Memetics"
+    },
+
+    //Future era
+
+    {
+        "name": "Biofactory",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "uniques": [
+            "[+1 Production] from [Plains] tiles [in this city]",
+            "[+1 Production] from [Grassland] tiles [in this city]",
+            "Only available <in cities without a [Autoplant]>",
+            "Only available <in cities without a [Drone Hive]>",
+            "Only available <in cities without a [Utility Fog Generator]>"
+        ],
+        "requiredBuilding": "Factory",
+        "requiredTech": "Ecotheory"
+    },
+    {
+        "name": "Ecosanctuary",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "uniques": [
+            "[+1 Happiness, +1 Culture] from [Nature Preserve] tiles [in this city]",
+            "Only available <in cities without a [Vertical Farm]>",
+            "Only available <in cities without a [Mycoprotein Vats]>",
+            "Only available <in cities without a [Orbital Habitat]>"
+        ],
+        "requiredTech": "Ecotheory"
+    },
+    {
+        "name": "Implant Clinic",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "percentStatBonus": { "production": 15 },
+        "percentStatBonus": { "gold": 25 },
+        "requiredBuilding": "Hospital",
+        "requiredTech": "Implants"
+    },
+    {
+        "name": "Network Backbone",
+        "cost": 660,
+        "science": 2,
+        "culture": 2,
+        "hurryCostModifier": 160,
+        "uniques": [
+            "[+1 Science] from every [Research Server]",
+            "[+1 Gold] from every [Communications Array]",
+            "[+1 Culture] from every [Entertainment Server]",
+            "Only available <in cities without a [Information Hub]>",
+            "Only available <in cities without a [Distribution Hub]>",
+            "Only available <in cities without a [Metroplex Hub]>"
+        ],
+        "requiredBuilding": "Server Hub",
+        "requiredTech": "Cognitive Technology"
+    },
+    {
+        "name": "Undersea Mining Platform",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "specialistSlots": { "Engineer": 1 },
+        "uniques": [
+            "[+2 Production] from [Coast] tiles [in this city]",
+            "[+2 Production] from [Ocean] tiles [in this city]",
+            "Only available <in cities without a [Aquaculture Lab]>"
+        ],
+        "requiredBuilding": "Harbor",
+        "requiredTech": "Cognitive Technology"
+    },
+    {
+        "name": "Converter",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "requiredNearbyImprovedResources": ["Coal", "Oil"],
+        "uniques": [
+            "[+2 Gold] from [Coal] tiles [in this city]",
+            "[+2 Gold] from [Oil] tiles [in this city]",
+            "Provides [2] [Nanomaterial]"
+        ],
+        "requiredTech": "Microscale Engineering"
+    },
+    {
+        "name": "Space Station",
+        "cost": 820,
+        "hurryCostModifier": 160,
+        "percentStatBonus": { "production": 25 },
+        "percentStatBonus": { "science": 25 },
+        "requiredBuilding": "Launch Facility",
+        "requiredTech": "Orbital Development"
+    },
+    {
+        "name": "Research Module",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "specialistSlots": { "Scientist": 4 },
+        "requiredBuilding": "Space Station",
+        "requiredTech": "Orbital Development"
+    },
+    {
+        "name": "Engineering Module",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "specialistSlots": { "Engineer": 4 },
+        "requiredBuilding": "Space Station",
+        "requiredTech": "Orbital Development"
+    },
+    {
+        "name": "Comm Module",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "specialistSlots": { "Merchant": 4 },
+        "requiredBuilding": "Space Station",
+        "requiredTech": "Orbital Development"
+    },
+    {
+        "name": "Mycoprotein Vats",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "uniques": [
+            "[+1 Food] per [4] population [in this city]",
+            "Only available <in cities without a [Ecosanctuary]>",
+            "Only available <in cities without a [Cloning Lab]>",
+            "Only available <in cities without a [Genemod Lab]>",
+            "Only available <in cities without a [Transgenic Nursery]>"
+        ],
+        "requiredBuilding": "Vertical Farm",
+        "requiredTech": "Ecotheory"
+    },
+    {
+        "name": "Tidal Array",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "percentStatBonus": { "gold": 10 },
+        "percentStatBonus": { "production": 10 },
+        "gold": 5,
+        "production": 5,
+        "uniques": [
+            "[+1 Production, +1 Gold] from [Water resource] tiles [in this city]"
+        ],
+        "requiredBuilding": "Tidal Plant",
+        "requiredTech": "Transgenics"
+    },
+    {
+        "name": "Transgenic Nursery",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "uniques": [
+            "[+1 Food] from [Forest] tiles [in this city]",
+            "[+1 Production] from [Jungle] tiles [in this city]",
+            "[+1 Food, +1 Production] from [Marsh] tiles [in this city]",
+            "Only available <in cities without a [Vertical Farm]>",
+            "Only available <in cities without a [Mycoprotein Vats]>",
+            "Only available <in cities without a [Orbital Habitat]>"
+        ],
+        "requiredBuilding": "Cloning Lab",
+        "requiredTech": "Transgenics"
+    },
+    {
+        "name": "Cyberclinic",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "percentStatBonus": { "gold": 25 },
+        "percentStatBonus": { "production": 25 },
+        "uniques": [
+            "Only available <in cities without a [Bioenhancement Centre]>"
+        ],
+        "requiredBuilding": "Research Lab",
+        "requiredTech": "Neural Interface"
+    },
+    {
+        "name": "Drone Hive",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "production": 8,
+        "specialistSlots": { "Engineer": 1 },
+        "uniques": [
+            "[+1 Production] from [Generator] tiles [in this city]",
+            "[+10]% Production when constructing [All] buildings [in this city]",
+            "[+15]% Production when constructing [Robot Infantry] units [in this city]",
+            "[+15]% Production when constructing [Automaton] units [in this city]",
+            "Only available <in cities without a [Biofactory]>",
+            "Only available <in cities without a [Genejack Facility]>",
+            "Only available <in cities without a [Biogenesis Pod]>"
+        ],
+        "requiredBuilding": "Autoplant",
+        "requiredTech": "Autonomous Systems"
+    },
+    {
+        "name": "Distribution Hub",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "specialistSlots": { "Engineer": 2 },
+        "uniques": [
+            "[+1 Production] per [4] population [in this city]",
+            "[+1 Production] from [Industrial Complex] tiles [in this city]",
+            "Only available <in cities with a [Factory]>",
+            "Only available <in cities without a [Network Backbone]>",
+            "Only available <in cities without a [Telepresence Hub]>",
+            "Only available <in cities without a [AI Network]>"
+        ],
+        "requiredBuilding": "Information Hub",
+        "requiredTech": "Nuclear Fusion"
+    },
+    {
+        "name": "Fusion Reactor",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "specialistSlots": { "Engineer": 2 },
+        "percentStatBonus": { "production": 20 },
+        "production": 7,
+        "uniques": ["[+1 Production] per [4] population [in this city]"],
+        "requiredBuilding": "Nuclear Plant",
+        "requiredTech": "Nuclear Fusion"
+    },
+    {
+        "name": "Aerospace Complex",
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Can carry [6] extra [Air] units",
+            "[+25]% Production when constructing [Suborbital Bomber] units [in this city]",
+            "[+15]% Production when constructing [Drone Fighter] units [in this city]",
+            "[+50]% Production when constructing [Spaceship part] units [in this city]"
+        ],
+        "requiredTech": "Arcologies"
+    },
+    {
+        "name": "Orbital Habitat",
+        "cost": 660,
+        "hurryCostModifier": 160,
+        "gold": 3,
+        "uniques": [
+            "[+1 Food] from every specialist [in this city]",
+            "Only available <in cities with a [Mycoprotein Vats]>",
+            "Only available <in cities without a [Ecosanctuary]>",
+            "Only available <in cities without a [Genemod Lab]>",
+            "Only available <in cities without a [Cloning Lab]>",
+            "Only available <in cities without a [Transgenic Nursery]>"
+        ],
+        "requiredBuilding": "Space Station",
+        "requiredTech": "Arcologies"
+    },
+
+    {
+        "name": "Biogenesis Pod",
+        "cost": 780,
+        "hurryCostModifier": 160,
+        "gold": 2,
+        // Land units gain Gengineered promotion
+        "uniques": [
+            "[+1 Production] from [Forest] tiles [in this city]",
+            "[+15]% Production when constructing [Mutant] units [in this city]",
+            "[+15]% Production when constructing [Chimera] units [in this city]",
+            "[+15]% Production when constructing [Bio-Titan] units [in this city]",
+            "Only available <in cities without a [Ecosanctuary]>",
+            "Only available <in cities without a [Genemod Lab]>",
+            "Only available <in cities without a [Cloning Lab]>",
+            "Only available <in cities without a [Transgenic Nursery]>"
+        ],
+        "requiredBuilding": "Biofactory",
+        "requiredTech": "Designer Lifeforms"
+    },
+    {
+        "name": "Bioenhancement Centre",
+        "cost": 780,
+        "hurryCostModifier": 160,
+        // Melee, Gun, Ranged, and Scout units receive the Biomod promotion
+        "uniques": [
+            "[+25]% Production when constructing [Organic Infantry] units [in this city]",
+            "[+25]% Production when constructing [Biotrooper] units [in this city]",
+            "Only available <in cities without a [Cyberclinic]>",
+            "Only available <in cities with a [Biofactory]>"
+        ],
+        "requiredBuilding": "Implant Clinic",
+        "requiredTech": "Biomodification"
+    },
+    {
+        "name": "Genejack Facility",
+        "cost": 780,
+        "hurryCostModifier": 160,
+        "gold": 2,
+        "uniques": [
+            "[+1 Gold] from [Grassland] tiles [in this city]",
+            "[+1 Gold] from [Plains] tiles [in this city]",
+            "[+1 Production] from [Desert] tiles [in this city]",
+            "[+1 Production] from [Tundra] tiles [in this city]",
+            "[+1 Production] from [Snow] tiles [in this city]",
+            "Provides [1] [Nanomaterial]",
+            "Only available <in cities without a [Autoplant]>",
+            "Only available <in cities without a [Drone Hive]>",
+            "Only available <in cities without a [Utility Fog Generator]>"
+        ],
+        "requiredBuilding": "Biofactory",
+        "requiredTech": "Designer Lifeforms"
+    },
+    {
+        "name": "Telepresence Hub",
+        "cost": 780,
+        "hurryCostModifier": 160,
+        "production": 4,
+        "uniques": [
+            "[+1 Gold, +1 Production] from every [Cyberclinic]",
+            "Only available <in cities without a [Information Hub]>",
+            "Only available <in cities without a [Distribution Hub]>",
+            "Only available <in cities without a [Metroplex Hub]>"
+        ],
+        "requiredBuilding": "Network Backbone",
+        "requiredTech": "Cybernetics"
+    },
+    {
+        "name": "AI Network",
+        "cost": 780,
+        "hurryCostModifier": 160,
+        "science": 6,
+        "culture": 6,
+        "uniques": [
+            "[+1 Science, +1 Culture] from every [AI Network]",
+            "[+1 Production, +1 Gold] from [Support Node] tiles [in this city]",
+            "Only available <in cities without a [Information Hub]>",
+            "Only available <in cities without a [Distribution Hub]>",
+            "Only available <in cities without a [Metroplex Hub]>"
+        ],
+        "requiredBuilding": "Network Backbone",
+        "requiredTech": "Artificial Intelligence"
+    },
+    {
+        "name": "Nanoforge",
+        "cost": 780,
+        "hurryCostModifier": 160,
+        "specialistSlots": { "Engineer": 2 },
+        "uniques": [
+            "[+35]% Production when constructing [Military] units [in this city]",
+            "Only available <in cities without a [Biofactory]>",
+            "Only available <in cities without a [Genejack Facility]>",
+            "Only available <in cities without a [Biogenesis Pod]>"
+        ],
+        "requiredBuilding": "Autoplant",
+        "requiredTech": "Nanotechnology"
+    },
+    {
+        "name": "Nucleonic Foundry",
+        "cost": 780,
+        "hurryCostModifier": 160,
+        "uniques": [
+            "[+4 Production, +2 Gold] from [Aluminum] tiles [in this city]",
+            "[+4 Production, +2 Gold] from [Uranium] tiles [in this city]",
+            "Provides [6] [Nanomaterial]",
+            "Consumes [2] [Uranium]",
+            "Only available <in cities without a [Biofactory]>",
+            "Only available <in cities without a [Genejack Facility]>",
+            "Only available <in cities without a [Biogenesis Pod]>"
+        ],
+        "requiredBuilding": "Fusion Reactor",
+        "requiredTech": "Nanotechnology"
+    },
+
+    {
+        "name": "Birthing Pods",
+        "cost": 780,
+        "hurryCostModifier": 160,
+        "percentStatBonus": { "production": 25 },
+        "percentStatBonus": { "gold": 25 },
+        "percentStatBonus": { "science": 25 },
+        "happiness": 2,
+        "uniques": [
+            "Only available <in cities with a [Implant Clinic]>",
+            "Only available <in cities without a [Vertical Farm]>",
+            "Only available <in cities without a [Mycoprotein Vats]>",
+            "Only available <in cities without a [Orbital Habitat]>"
+        ],
+        "requiredBuilding": "Genemod Lab",
+        "requiredTech": "Human Augmentation"
+    },
+    {
+        "name": "Brain Uploading Facility",
+        "cost": 780,
+        "hurryCostModifier": 160,
+        "uniques": [
+            "[-25]% growth [in this city]",
+            "[+2 Science, +2 Production, +2 Gold, +2 Culture, +2 Faith] per [4] population [in this city]",
+            "Only available <in cities without a [Bioenhancement Centre]>"
+        ],
+        "requiredBuilding": "Cyberclinic",
+        "requiredTech": "Digital Society"
+    },
+    {
+        "name": "Utility Fog Generator",
+        "cost": 780,
+        "hurryCostModifier": 160,
+        "production": 6,
+        "happiness": 2,
+        "cityStrength": 12,
+        "cityHealth": 100,
+        "uniques": [
+            "[+20]% Production when constructing [All] buildings [in this city]",
+            "Provides [6] [Nanomaterial]",
+            "Only available <in cities without a [Biofactory]>",
+            "Only available <in cities without a [Genejack Facility]>",
+            "Only available <in cities without a [Biogenesis Pod]>"
+        ],
+        "requiredBuilding": "Drone Hive",
+        "requiredTech": "Smart Materials"
+    },
+    {
+        "name": "Metroplex Hub",
+        "cost": 780,
+        "hurryCostModifier": 160,
+        "specialistSlots": { "Merchant": 2 },
+        "uniques": [
+            "[+1 Gold] per [4] population [in this city]",
+            "[+1 Gold] from [Arcology] tiles [in this city]",
+            "Only available <in cities without a [Network Backbone]>",
+            "Only available <in cities without a [Telepresence Hub]>",
+            "Only available <in cities without a [AI Network]>"
+        ],
+        "requiredBuilding": "Distribution Hub",
+        "requiredTech": "Hyperstructures"
+    },
+
+    //Wonders
+    {
+        "name": "Enrichment Centre",
+        "isWonder": true,
+        "percentStatBonus": { "science": 100 },
+        "uniques": ["[+1 Science] per [1] population [in this city]"],
+        "requiredTech": "Particle Physics",
+        "quote": ""
+    },
+    {
+        "name": "Helios Microwave Power Satellite",
+        "isWonder": true,
+        "greatPersonPoints": { "Great Engineer": 2 }, //Damages units next to cities switch a Solar Plant
+        "uniques": [
+            "[+1 Gold, +1 Production] from [Desert] tiles [in this city]",
+            "[+100]% Yield from every [Solar Plant]",
+            "Gain a free [Solar Plant] [in this city]",
+            "Must be next to [Desert]"
+        ],
+        "requiredTech": "High-Energy Physics",
+        "quote": ""
+    },
+    {
+        "name": "Jurassic Park",
+        "isWonder": true,
+        "greatPersonPoints": { "Great Scientist": 2 },
+        "gold": 6,
+        "science": 6,
+        "happiness": 6,
+        "uniques": [
+            "[+2 Gold] from every [Stadium]",
+            "[+2 Science] from every [Stadium]",
+            "[+4 Happiness] from every [Stadium]",
+            "Gain a free [Stadium] [in this city]",
+            "A [Triceratops] rebels <every [2] turns> <with [5]% chance> <before discovering [Designer Lifeforms]> <hidden from users>"
+        ],
+        "requiredTech": "Genetic Manipulation",
+        "quote": ""
+    },
+    {
+        "name": "Shanghai Tower",
+        "isWonder": true,
+        "specialistSlots": { "Merchant": 2 },
+        "greatPersonPoints": { "Great Merchant": 2 },
+        "culture": 2,
+        "uniques": ["Gain [1000] [Gold]", "[+2 Gold] from every [Merchant]"],
+        "requiredTech": "Globalization",
+        "quote": ""
+    },
+    {
+        "name": "Burj Al-Arab",
+        "isWonder": true,
+        "gold": 3,
+        "culture": 2,
+        "happiness": 4,
+        "uniques": ["[+1 Gold, +1 Culture] from every [Broadcast Tower]"],
+        "requiredTech": "Memetics",
+        "quote": ""
+    },
+
+    {
+        "name": "Angelnet",
+        "isWonder": true,
+        "uniques": [
+            "[+100]% Yield from every [Utility Fog Generator]",
+            "[+2 Happiness] from all [Utility Fog Generator] buildings",
+            "Gain a free [Utility Fog Generator] [in this city]"
+        ],
+        "requiredTech": "Smart Materials",
+        "quote": ""
+    },
+    {
+        "name": "Citadel Station",
+        "isWonder": true,
+        "uniques": [
+            "[+2 Gold, +2 Production] from every [Engineer]",
+            "[+2 Gold, +2 Science] from every [Scientist]"
+        ],
+        "requiredTech": "Energy Theory",
+        "quote": ""
+    },
+    {
+        "name": "Digital Emancipation",
+        "isWonder": true,
+        "uniques": [
+            "[+8 Production, +6 Gold] from every [Drone Hive]",
+            "[+1 Science, +1 Production, +1 Gold, +1 Culture] per [4] population [in all cities] <in cities with a [Brain Uploading Facility]>",
+            "[+6 Science, +6 Culture, +6 Gold] from every [AI Network]",
+            "[-100]% maintenance cost for [Drone Hive] buildings [in all cities]",
+            "[-100]% maintenance cost for [Brain Uploading Facility] buildings [in all cities]",
+            "[-100]% maintenance cost for [AI Network] buildings [in all cities]"
+        ],
+        "requiredTech": "Digital Society",
+        "quote": ""
+    },
+    {
+        "name": "Kalt Geymsla Data Haven",
+        "isWonder": true,
+        "greatPersonPoints": { "Great Scientist": 2 },
+        "uniques": [
+            "[+2 Gold] from every [Server Hub]",
+            "[+2 Culture, +2 Science] from [Tundra] tiles [in this city]",
+            "[+2 Culture, +2 Science] from [Snow] tiles [in this city]",
+            "Must be next to [Tundra]"
+        ],
+        "requiredTech": "Neural Interface",
+        "quote": ""
+    },
+    {
+        "name": "Mnemosyne Facility",
+        "isWonder": true,
+        "uniques": ["New [Military] units start with [50] XP [in this city]"],
+        "requiredTech": "Cybernetics",
+        "quote": ""
+    },
+    {
+        "name": "Nephilim Gene Template",
+        "isWonder": true,
+        "uniques": [
+            "[+1 Science, +1 Production, +1 Gold] per [2] population [in all cities]",
+            "[+2 Happiness] from every [Genemod Lab]"
+        ],
+        "requiredTech": "Human Augmentation",
+        "quote": ""
+    },
+    {
+        "name": "Orbital Refinery",
+        "isWonder": true,
+        "specialistSlots": { "Engineer": 3 },
+        "uniques": [
+            "[+2 Production] from every [Factory]",
+            "[+2 Production] from every [Nanomaterial Plant]",
+            "Provides [12] [Nanomaterial]"
+        ],
+        "requiredTech": "Human Augmentation",
+        "quote": ""
+    },
+    //Pholus Mutagen
+    {
+        "name": "Skynet",
+        "isWonder": true,
+        "uniques": ["[+20]% Strength <for [All] units>"],
+        "requiredTech": "Artificial Intelligence",
+        "quote": ""
+    },
+    {
+        "name": "Utsäde Gene Vault",
+        "isWonder": true,
+        "greatPersonPoints": { "Great Scientist": 2 },
+        "uniques": [
+            "[+2 Science] from every [Nature Preserve]",
+            "[+2 Gold] from every [Genocentre]",
+            "[+2 Culture] from every [Eco-Commune]"
+        ],
+        "requiredTech": "Ecotheory",
+        "quote": ""
+    },
+    {
+        "name": "Virtual Idol",
+        "isWonder": true,
+        "greatPersonPoints": { "Great Artist": 2 },
+        "percentStatBonus": { "culture": 75 },
+        "uniques": ["Free [Great Artist] appears", "Comment"],
+        "requiredTech": "Cognitive Technology",
+        "quote": ""
+    },
+
+    //Hyperstructures
+
+    {
+        "name": "Bionic Tower",
+        "isWonder": true,
+        "greatPersonPoints": { "Great Scientist": 2 },
+        "uniques": [
+            "[-50]% Food consumption by [Specialists] [in all cities]",
+            "[-50]% Unhappiness from [Specialists] [in all cities]",
+            "Must be next to [Coast]",
+            "Hyperstructure",
+            "Consumes [2] [Nanomaterial]",
+            "Only available <in cities without a [Hyperstructure]>"
+        ],
+        "requiredTech": "Human Augmentation",
+        "quote": ""
+    },
+    {
+        "name": "Buenos Aires Forum",
+        "isWonder": true,
+        "greatPersonPoints": { "Great Scientist": 2 },
+        //Golden Age Points for every pop. in this city
+        "uniques": [
+            "Empire enters golden age",
+            "[+50]% Golden Age length",
+            "Must be next to [River]",
+            "Hyperstructure",
+            "Consumes [2] [Nanomaterial]",
+            "Only available <in cities without a [Hyperstructure]>"
+        ],
+        "requiredTech": "Hyperstructures",
+        "quote": ""
+    },
+    {
+        "name": "Floating Islands",
+        "isWonder": true,
+        "greatPersonPoints": { "Great Scientist": 3 },
+        "uniques": [
+            "[+3 Culture, +3 Gold] from [Coast] tiles [in this city]",
+            "[+3 Culture, +3 Gold] from [Ocean] tiles [in this city]",
+            "[+2 Culture, +2 Gold, +1 Food, +1 Production] from [Atoll] tiles [in this city]",
+            "Must be next to [Coast]",
+            "Hyperstructure",
+            "Consumes [2] [Nanomaterial]",
+            "Only available <in cities without a [Hyperstructure]>"
+        ],
+        "requiredTech": "Terraforming",
+        "quote": ""
+    },
+    {
+        "name": "Shimizu Mega City Pyramid",
+        "isWonder": true,
+        "greatPersonPoints": { "Great Engineer": 3 },
+        "production": 20,
+        "gold": 20,
+        "science": 20,
+        "uniques": [
+            "[+2 Happiness] from every [Autoplant]",
+            "[+2 Happiness] from every [Drone Hive]",
+            "[-100]% maintenance cost for [All] buildings [in this city]",
+            "Must be next to [Coast]",
+            "Hyperstructure",
+            "Consumes [2] [Nanomaterial]",
+            "Only available <in cities without a [Hyperstructure]>"
+        ],
+        "requiredTech": "Digital Society",
+        "quote": ""
+    },
+    {
+        "name": "Sky City",
+        "isWonder": true,
+        "greatPersonPoints": { "Great Engineer": 2 },
+        "uniques": [
+            "[+4 Food, +4 Gold, +2 Happiness] from every [Vertical Farm]",
+            "Gain a free [Vertical Farm] [in this city]",
+            "Hyperstructure",
+            "Consumes [2] [Nanomaterial]",
+            "Only available <in cities without a [Hyperstructure]>"
+        ],
+        "requiredTech": "Hyperstructures",
+        "quote": ""
+    },
+    {
+        "name": "Ultima Tower",
+        "isWonder": true,
+        "greatPersonPoints": { "Great Engineer": 2 },
+        "happiness": 10,
+        "uniques": [
+            "[+2] population [in all cities]",
+            "Hyperstructure",
+            "Consumes [2] [Nanomaterial]",
+            "Only available <in cities without a [Hyperstructure]>"
+        ],
+        "requiredTech": "Hyperstructures",
+        "quote": ""
+    },
+
+    //National Wonders
+    {
+        "name": "Borehole",
+        "cost": 125,
+        "isNationalWonder": true,
+        "percentStatBonus": { "production": 10 },
+        "specialistSlots": { "Engineer": 2 },
+        "uniques": [
+            "[+15]% [Production] from every [Geothermal Plant]",
+            "[+1 Production, +1 Gold] from every [Mine]",
+            "Only available <in cities with a [Geothermal Plant]>",
+            "Cost increases by [30] per owned city"
+        ],
+        "requiredTech": "Autonomous Systems"
+    },
+    {
+        "name": "Central Command",
+        "cost": 125,
+        "isNationalWonder": true,
+        "uniques": [
+            "[+6 Culture] from every [Information Hub]",
+            "[+6 Production] from every [Distribution Hub]",
+            "[+6 Gold] from every [Metroplex Hub]",
+            "Only available <if [Information Hub] is constructed in all this city>",
+            "Only available <in [Capital] cities>",
+            "Cost increases by [30] per owned city"
+        ],
+        "requiredTech": "Autonomous Systems"
+    },
+    {
+        "name": "Launch Facility",
+        "cost": 125,
+        "isNationalWonder": true,
+        "percentStatBonus": { "gold": 20 },
+        "percentStatBonus": { "science": 20 },
+        "specialistSlots": { "Scientist": 2 },
+        "uniques": [
+            "[+15]% Production when constructing [Air] units [in this city]",
+            "[+15]% Production when constructing [Missile] units [in this city]",
+            "[+15]% Production when constructing [Helicopter] units [in this city]",
+            "Consumes [2] [Aluminum]",
+            "Cost increases by [30] per owned city"
+        ],
+        "requiredTech": "Stealth"
+    },
+    {
+        "name": "Moon Base",
+        "cost": 125,
+        "isNationalWonder": true,
+        "specialistSlots": { "Scientist": 2 },
+        "uniques": [
+            "[+6 Science] from every [Research Module]",
+            "[+6 Production] from every [Engineering Module]",
+            "[+6 Production] from every [Fusion Reactor]",
+            "[+6 Gold] from every [Comm Module]",
+            "Consumes [2] [Nanomaterial]",
+            "Only available <in cities with a [Space Station]>",
+            "Consumes [2] [Nanomaterial]",
+            "Cost increases by [30] per owned city"
+        ],
+        "requiredTech": "Energy Theory"
+    },
+    {
+        "name": "Particle Accelerator",
+        "cost": 125,
+        "isNationalWonder": true,
+        "science": 8,
+        "specialistSlots": { "Scientist": 3 },
+        "uniques": [
+            "Free [Great Scientist] appears",
+            "[+2 Gold] from every [Academy]",
+            "[+2 Science] from every [Academy] <after discovering [Artificial Intelligence]>",
+            "[+2 Gold] from every [Academy] <after discovering [Energy Theory]>",
+            "Only available <if [Research Lab] is constructed in this city>",
+            "Cost increases by [30] per owned city"
+        ],
+        "requiredTech": "Particle Physics"
+    },
+    {
+        "name": "Monument",
+        "culture": 2,
+        "cost": 40,
+        "hurryCostModifier": 40,
+        "maintenance": 1,
+        "uniques": ["Destroyed when the city is captured"]
+    },
+    {
+        "name": "Town Square",
+        "replaces": "Monument",
+        "uniqueTo": "The United States of America",
+        "culture": 3,
+        "happiness": 1,
+        "cost": 30,
+        "maintenance": 1,
+        "uniques": [
+            "Destroyed when the city is captured",
+            "[+10]% Production when constructing [Civilian] units [in this city]"
+        ]
+    },
+    {
+        "name": "Stele",
+        "replaces": "Monument",
+        "uniqueTo": "Ethiopia",
+        "culture": 2,
+        "faith": 2,
+        "cost": 40,
+        "hurryCostModifier": 40,
+        "maintenance": 1,
+        "uniques": ["Destroyed when the city is captured"]
+    },
+    {
+        "name": "Pillar of Ashoka",
+        "replaces": "Monument",
+        "uniqueTo": "Maurya",
+        "culture": 2,
+        "cost": 20,
+        "hurryCostModifier": 40,
+        "maintenance": 0,
+        "requiredTech": "Pottery",
+        "uniques": ["Destroyed when the city is captured"]
+    },
+    // Column 1
+    {
+        "name": "Granary",
+        "food": 2,
+        "maintenance": 1,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+1 Food] from [Deer] tiles [in this city]",
+            "[+1 Food] from [Bison] tiles [in this city]",
+            "[+1 Food] from [Bananas] tiles [in this city]",
+            "[+1 Food] from [Wheat] tiles [in this city]",
+            "[+1 Food] from [Maize] tiles [in this city]"
+        ],
+        "requiredTech": "Pottery"
+    },
+    {
+        "name": "Farming Festival",
+        "replaces": "Granary",
+        "uniqueTo": "The United States of America",
+        "food": 2,
+        "happiness": 2,
+        "science": 2,
+        "cost": 20,
+        "maintenance": 1,
+        "requiredTech": "Pottery",
+        "uniques": [
+            "[10]% Food is carried over after population increases [in this city]"
+        ]
+    },
+    {
+        "name": "Khambar",
+        "uniqueTo": "Bulgaria",
+        "replaces": "Granary",
+        "cost": 48,
+        "food": 2,
+        "maintenance": 1,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+1 Food] from [Deer] tiles [in this city]",
+            "[+1 Food] from [Bison] tiles [in this city]",
+            "[+1 Food] from [Bananas] tiles [in this city]",
+            "[+1 Food, +1 Gold] from [Wheat] tiles [in this city]",
+            "[+1 Food, +1 Gold] from [Maize] tiles [in this city]"
+        ],
+        "requiredTech": "Pottery"
+    },
+    {
+        "name": "Mala'e",
+        "replaces": "Granary",
+        "uniqueTo": "Tonga",
+        "faith": 1,
+        "food": 2,
+        "maintenance": 1,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+1 Food] from [Deer] tiles [in this city]",
+            "[+1 Food] from [Bison] tiles [in this city]",
+            "[+1 Food] from [Bananas] tiles [in this city]",
+            "[+1 Food] from [Wheat] tiles [in this city]",
+            "[+1 Food] from [Maize] tiles [in this city]",
+            "[+2 Food, +2 Culture] <with [3] to [6] neighboring [Coast] tiles>"
+        ],
+        "requiredTech": "Sailing"
+    },
+    {
+        "name": "Cacicazgo",
+        "uniqueTo": "Colombia",
+        "replaces": "Granary",
+        "cost": 66,
+        "food": 2,
+        "production": 1,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+1 Food] from [Deer] tiles [in this city]",
+            "[+1 Food] from [Bison] tiles [in this city]",
+            "[+1 Food] from [Bananas] tiles [in this city]",
+            "[+1 Food] from [Wheat] tiles [in this city]",
+            "[+1 Food] from [Maize] tiles [in this city]",
+            "[+3 Production] from [Land Trade Route (Production)] tiles [in this city] <in cities without a [Workshop]>",
+            "[+6 Production] from [Sea Trade Route (Production)] tiles [in this city] <in cities without a [Workshop]>"
+        ],
+        "requiredTech": "Pottery"
+    },
+    {
+        "name": "Shrine",
+        "faith": 2,
+        "cost": 40,
+        "maintenance": 1,
+        "requiredTech": "Pottery",
+        "uniques": ["Only available <when religion is enabled>"]
+    },
+    {
+        "name": "Community Hall",
+        "replaces": "Shrine",
+        "uniqueTo": "The United States of America",
+        "faith": 3,
+        "happiness": 1,
+        "culture": 1,
+        "cost": 30,
+        "maintenance": 1,
+        "requiredTech": "Pottery",
+        "uniques": [
+            "[+10]% Production when constructing [Civilian] units [in this city]",
+            "Destroyed when the city is captured"
+        ]
+    },
+    {
+        "name": "Sauna",
+        "replaces": "Shrine",
+        "uniqueTo": "Finland",
+        "faith": 1,
+        "cost": 40,
+        "maintenance": 1,
+        "requiredTech": "Pottery",
+        "uniques": [
+            "All newly-trained [relevant] units [in this city] receive the [Sauna] promotion",
+            "[+2 Culture] from [Lakes] tiles [in this city]",
+            "Only available <when religion is enabled>"
+        ]
+    },
+    {
+        "name": "Pyramid",
+        "replaces": "Shrine",
+        "uniqueTo": "The Maya",
+        "faith": 2,
+        "science": 2,
+        "cost": 40,
+        "maintenance": 1,
+        "requiredTech": "Pottery",
+        "uniques": ["Only available <when religion is enabled>"]
+    },
+    {
+        "name": "Temple of Artemis",
+        "culture": 3,
+        "gold": 3,
+        "production": 3,
+        "isWonder": true,
+        "greatPersonPoints": {
+            "Great Engineer": 1
+        },
+        "uniques": [
+            "[+25]% Production when constructing [Ranged] units [in this city]",
+            "[+25]% Production when constructing [WaterRanged] units [in this city]",
+            "Only available <after adopting [Honor]>"
+        ],
+        "requiredTech": "Archery",
+        "quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson"
+    },
+    // Column 2
+    {
+        "name": "Stone Works",
+        "happiness": 1,
+        "production": 1,
+        "requiredNearbyImprovedResources": ["Marble", "Stone", "Obsidian"],
+        "maintenance": 1,
+        "hurryCostModifier": 0,
+        "uniques": [
+            "[+1 Production] from [Stone] tiles [in this city]",
+            "[+1 Production] from [Obsidian] tiles [in this city]",
+            "[+1 Production] from [Marble] tiles [in this city]"
+        ],
+        "requiredTech": "Calendar"
+    },
+    {
+        "name": "Kyawwat",
+        "replaces": "Stone Works",
+        "uniqueTo": "Burma",
+        "happiness": 1,
+        "production": 1,
+        "maintenance": 1,
+        "hurryCostModifier": 0,
+        "uniques": [
+            "[+1 Production] from [Stone] tiles [in this city]",
+            "[+1 Production] from [Obsidian] tiles [in this city]",
+            "[+1 Production] from [Marble] tiles [in this city]",
+            "[+1 Production] from [Salt] tiles [in this city]",
+            "[+1 Production] from [Iron] tiles [in this city]"
+        ],
+        "requiredTech": "Calendar"
+    },
+    {
+        "name": "Stone Mason",
+        "replaces": "Stone Works",
+        "uniqueTo": "Zimbabwe",
+        "production": 1,
+        "maintenance": 1,
+        "hurryCostModifier": 0,
+        "uniques": [
+            "[+1 Production] from [Stone] tiles [in this city]",
+            "[+1 Production] from [Obsidian] tiles [in this city]",
+            "[+1 Production] from [Marble] tiles [in this city]",
+            "[+2 Culture] <after discovering [Masonry]>"
+        ],
+        "requiredTech": "Calendar"
+    },
+    {
+        "name": "Stonehenge",
+        "faith": 6,
+        "culture": 1,
+        "isWonder": true,
+        "greatPersonPoints": {
+            "Great Engineer": 1
+        },
+        "requiredTech": "Calendar",
+        "uniques": [
+            "[-25]% Culture cost of natural border growth [in all cities]",
+            "[-25]% Gold cost of acquiring tiles [in all cities]"
+        ],
+        "quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
+    },
+    {
+        "name": "Library",
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "uniques": ["[+1 Science] per [2] population [in this city]"],
+        "requiredTech": "Writing"
+    },
+    {
+        "name": "Department of Education",
+        "replaces": "Library",
+        "uniqueTo": "The United States of America",
+        "science": 2,
+        "culture": 2,
+        "cost": 30,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Science] per [2] population [in this city]",
+            "[+15]% Production when constructing [Civilian] units [in this city]"
+        ],
+        "requiredTech": "Writing"
+    },
+    {
+        "name": "Akkadian Library",
+        "replaces": "Library",
+        "uniqueTo": "Akkad",
+        "hurryCostModifier": 25,
+        "science": 1,
+        "uniques": ["[+1 Science] per [2] population [in this city]"],
+        "requiredTech": "Writing"
+    },
+    {
+        "name": "Royal Library",
+        "replaces": "Library",
+        "uniqueTo": "Assyria",
+        "hurryCostModifier": 25,
+        "science": 1,
+        "culture": 1,
+        "maintenance": 1,
+        "uniques": [
+            "[+1 Science] per [2] population [in this city]",
+            "Comment [Has 1 Great Work of Writing Slot]",
+            "New [Military] units start with [15] XP [in this city] <in cities with a [Royal Library Great Writing Slot]>"
+        ],
+        "requiredTech": "Writing"
+    },
+    {
+        "name": "Royal Library Great Writing Slot",
+        "uniqueTo": "Assyria",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Writing",
+        "uniques": [
+            "Great Work",
+            "GW Writing",
+            "Only available <in cities with a [Royal Library]>",
+            "Provides [1] [Great Work of Writing]",
+            "Instantly consumes [1] [Great Work of Writing]"
+        ]
+    },
+    {
+        "name": "Paper Maker",
+        "replaces": "Library",
+        "uniqueTo": "China",
+        "hurryCostModifier": 25,
+        "gold": 2,
+        "uniques": ["[+1 Science] per [2] population [in this city]"],
+        "requiredTech": "Writing"
+    },
+    {
+        "name": "The Great Library",
+        "science": 3,
+        "culture": 1,
+        "greatPersonPoints": {
+            "Great Scientist": 1
+        },
+        "isWonder": true,
+        "requiredTech": "Writing",
+        "uniques": [
+            "Free Technology",
+            "Gain a free [Library] [in this city]",
+            "Comment [Has [2] Great Work of Writing Slots]"
+        ],
+        "quote": "'Libraries are as the shrine where all the relics of the ancient saints, full of true virtue, and all that without delusion or imposture are preserved and reposed.' - Sir Francis Bacon"
+    },
+    {
+        "name": "Great Library Great Writing Slot 1",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Writing",
+        "uniques": [
+            "Great Work",
+            "GW Writing",
+            "Only available <in cities with a [The Great Library]>",
+            "Provides [1] [Great Work of Writing]",
+            "Instantly consumes [1] [Great Work of Writing]",
+            "[+1 Culture] <in cities with a [Great Library Great Writing Slot 2]>"
+        ]
+    },
+    {
+        "name": "Great Library Great Writing Slot 2",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Writing",
+        "uniques": [
+            "Great Work",
+            "GW Writing",
+            "Only available <in cities with a [The Great Library]>",
+            "Provides [1] [Great Work of Writing]",
+            "Instantly consumes [1] [Great Work of Writing]",
+            "[+1 Culture] <in cities with a [Great Library Great Writing Slot 1]>"
+        ]
+    },
+    {
+        "name": "Circus",
+        "requiredNearbyImprovedResources": [
+            "Ivory",
+            "Truffles",
+            "Furs",
+            "Horses"
+        ],
+        "happiness": 2,
+        "hurryCostModifier": 25,
+        "requiredTech": "Trapping"
+    },
+    {
+        "name": "Plaza de Toros",
+        "replaces": "Circus",
+        "uniqueTo": "Spain",
+        "requiredNearbyImprovedResources": [
+            "Ivory",
+            "Truffles",
+            "Furs",
+            "Horses",
+            "Cattle"
+        ],
+        "happiness": 2,
+        "culture": 2,
+        "hurryCostModifier": 25,
+        "requiredTech": "Trapping"
+    },
+    {
+        "name": "Water Mill",
+        "maintenance": 2,
+        "food": 2,
+        "production": 2,
+        "hurryCostModifier": 25,
+        "uniques": ["Must be on [River]"],
+        "requiredTech": "The Wheel"
+    },
+    {
+        "name": "Floating Gardens",
+        "replaces": "Water Mill",
+        "uniqueTo": "Aztecs",
+        "food": 2,
+        "production": 1,
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "percentStatBonus": {
+            "food": 10
+        },
+        "uniques": [
+            "[+1 Food] from [Lakes] tiles [in this city]",
+            "Must be next to [Fresh water]"
+        ],
+        "requiredTech": "The Wheel"
+    },
+    {
+        "name": "Walls",
+        "cityStrength": 5,
+        "cityHealth": 50,
+        "hurryCostModifier": 25,
+        "requiredTech": "Masonry",
+        "uniques": ["Destroyed when the city is captured"]
+    },
+    {
+        "name": "Walls of Babylon",
+        "replaces": "Walls",
+        "uniqueTo": "Babylon",
+        "cost": 65,
+        "cityStrength": 6,
+        "cityHealth": 100,
+        "hurryCostModifier": 25,
+        "requiredTech": "Masonry",
+        "uniques": ["Destroyed when the city is captured"]
+    },
+    {
+        "name": "Murus Gallicus",
+        "replaces": "Walls",
+        "uniqueTo": "Gaul",
+        "cost": 65,
+        "production": 1,
+        "happiness": 1,
+        "cityStrength": 6,
+        "cityHealth": 50,
+        "hurryCostModifier": 25,
+        "requiredTech": "Masonry",
+        "uniques": [
+            "Destroyed when the city is captured",
+            "[+1 Production] <after discovering [Metal Casting]>"
+        ]
+    },
+    {
+        "name": "Lion's Gate",
+        "replaces": "Walls",
+        "uniqueTo": "Hittites",
+        "cost": 60,
+        "gold": 2,
+        "culture": 2,
+        "cityStrength": 5,
+        "cityHealth": 50,
+        "hurryCostModifier": 25,
+        "requiredTech": "Masonry",
+        "uniques": ["Destroyed when the city is captured"]
+    },
+    {
+        "name": "Rova",
+        "replaces": "Walls",
+        "uniqueTo": "Madagascar",
+        "faith": 2,
+        "food": 2,
+        "cityStrength": 5,
+        "cityHealth": 50,
+        "hurryCostModifier": 25,
+        "requiredTech": "Masonry",
+        "uniques": [
+            "Can be purchased for [225] [Faith] [in all cities]",
+            "Destroyed when the city is captured"
+        ]
+    },
+    {
+        "name": "Tsikhe",
+        "replaces": "Walls",
+        "uniqueTo": "Georgia",
+        "cityStrength": 5,
+        "cityHealth": 50,
+        "faith": 3,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+1 Culture] from [Strategic resource] tiles [in this city]",
+            "All newly-trained [relevant] units [in this city] receive the [Georgia Golden Age from Victories] promotion",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Masonry"
+    },
+    {
+        "name": "The Pyramids",
+        "culture": 1,
+        "greatPersonPoints": {
+            "Great Engineer": 2
+        },
+        "isWonder": true,
+        "uniques": [
+            "Can build [all] improvements at a [+35]% rate",
+            "[3] free [Worker] units appear",
+            "Only available <after adopting [Liberty]>"
+        ],
+        "requiredTech": "Masonry",
+        "quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
+    },
+    {
+        "name": "Mausoleum of Halicarnassus",
+        "culture": 1,
+        "greatPersonPoints": {
+            "Great Merchant": 1
+        },
+        "isWonder": true,
+        "uniques": [
+            "Gain [100] [Gold] <upon expending a [Great Person] unit>",
+            "[+2 Gold] from [Marble] tiles [in this city]",
+            "[+2 Gold] from [Stone] tiles [in this city]",
+            "[+2 Gold] from [Obsidian] tiles [in this city]"
+        ],
+        "requiredTech": "Masonry",
+        "quote": "'The whole earth is the tomb of heroic men and their story is not given only on stone over their clay but abides everywhere without visible symbol woven into the stuff of other men's lives.' - Pericles"
+    },
+    {
+        "name": "Barracks",
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "uniques": [
+            "New [Military] units start with [15] XP [in this city]",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Bronze Working"
+    },
+    {
+        "name": "US Army Academy",
+        "replaces": "Barracks",
+        "uniqueTo": "The United States of America",
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "uniques": [
+            "New [Military] units start with [20] Experience [in this city]",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Bronze Working"
+    },
+    {
+        "name": "Dojo",
+        "replaces": "Barracks",
+        "uniqueTo": "Japan",
+        "hurryCostModifier": 25,
+        "science": 2,
+        "maintenance": 1,
+        "uniques": [
+            "New [Military] units start with [15] XP [in this city]",
+            "Destroyed when the city is captured",
+            "All newly-trained [Melee] units [in this city] receive the [Dojo] promotion"
+        ],
+        "requiredTech": "Bronze Working"
+    },
+    {
+        "name": "Krepost",
+        "replaces": "Barracks",
+        "uniqueTo": "Russia",
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "uniques": [
+            "[-25]% Culture cost of natural border growth [in this city]",
+            "[-25]% Gold cost of acquiring tiles [in this city]",
+            "New [Military] units start with [15] XP [in this city]",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Bronze Working"
+    },
+    {
+        "name": "Ikanda",
+        "replaces": "Barracks",
+        "uniqueTo": "Zulu",
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "uniques": [
+            "New [Military] units start with [15] XP [in this city]",
+            "Destroyed when the city is captured",
+            "All newly-trained [Sword] units [in this city] receive the [Buffalo Horns I] promotion",
+            "All newly-trained [Mounted] units [in this city] receive the [Buffalo Horns I] promotion"
+        ],
+        "requiredTech": "Bronze Working"
+    },
+    {
+        "name": "Statue of Zeus",
+        "culture": 3,
+        "isWonder": true,
+        "uniques": [
+            "[+15]% Production when constructing [Military] units [in this city]",
+            "[+10]% Strength <for [All] units> <vs cities> <when attacking>"
+        ],
+        "requiredTech": "Bronze Working",
+        "quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad"
+    },
+
+    // Classical Era
+    // Column 3
+    {
+        "name": "Lighthouse",
+        "cost": 75,
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "uniques": [
+            "Must be next to [Coast]",
+            "[+1 Food] from [Ocean] tiles [in this city]",
+            "[+1 Food] from [Coast] tiles [in this city]",
+            "[+1 Food] from [Fish] tiles [in this city]",
+            "[+1 Production] from [Water resource] tiles [in this city]"
+        ],
+        "requiredTech": "Optics"
+    },
+    {
+        "name": "Cothon",
+        "replaces": "Lighthouse",
+        "uniqueTo": "Carthage",
+        "cost": 75,
+        "food": 1,
+        "production": 1,
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "uniques": [
+            "Must be next to [Coast]",
+            "[+1 Food] from [Ocean] tiles [in this city]",
+            "[+1 Food] from [Coast] tiles [in this city]",
+            "[+1 Food] from [Fish] tiles [in this city]",
+            "[+1 Production] from [Water resource] tiles [in this city]"
+        ],
+        "requiredTech": "Optics"
+    },
+    {
+        "name": "The Great Lighthouse",
+        "cost": 185,
+        "culture": 1,
+        "greatPersonPoints": {
+            "Great Merchant": 1
+        },
+        "isWonder": true,
+        "uniques": [
+            "Must be next to [Coast]",
+            "[+1] Movement <for [{Military} {Water}] units>",
+            "[+1 Gold] from [Water] tiles [in this city]",
+            "[+1] Sight <for [{Military} {Water}] units>",
+            "Gain a free [Lighthouse] [in this city]",
+            "Free [Quinquereme] appears"
+        ],
+        "requiredTech": "Optics",
+        "quote": "'They that go down to the sea in ships, that do business in great waters; these see the works of the Lord, and his wonders in the deep.' - The Bible, Psalms 107:23-24"
+    },
+    {
+        "name": "Caravansary",
+        "cost": 100,
+        "hurryCostModifier": 25,
+        "gold": 2,
+        "uniques": [
+            "[+3 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
+            "Provides [1] [Horses]"
+        ],
+        "requiredTech": "Horseback Riding"
+    },
+    {
+        "name": "Yam Route",
+        "replaces": "Caravansary",
+        "uniqueTo": "Golden Horde",
+        "cost": 100,
+        "hurryCostModifier": 25,
+        "science": 3,
+        "uniques": [
+            "[+4 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
+            "Provides [1] [Horses]"
+        ],
+        "requiredTech": "The Wheel"
+    },
+    {
+        "name": "Rock-Cut Tomb",
+        "uniqueTo": "Nabataea",
+        "replaces": "Caravansary",
+        "cost": 100,
+        "hurryCostModifier": 25,
+        "gold": 3,
+        "food": 2,
+        "uniques": [
+            "[+4 Gold, +1 Food] from [Land Trade Route (Gold)] tiles [in this city]",
+            "Provides [1] [Horses]"
+        ],
+        //+1 Food for every trade rout leaving this city
+        "requiredTech": "Horseback Riding"
+    },
+    {
+        "name": "Serai",
+        "uniqueTo": "Timurids",
+        "replaces": "Caravansary",
+        "cost": 100,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+4 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
+            "[+1 Gold] per [3] population [in this city]",
+            "Provides [1] [Horses]"
+        ],
+        "requiredTech": "Horseback Riding"
+    },
+    {
+        "name": "Stable",
+        "maintenance": 1,
+        "requiredNearbyImprovedResources": ["Horses", "Sheep", "Cattle"],
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+20]% Production when constructing [Mounted] units [in this city]",
+            "[+1 Production] from [Cattle] tiles [in this city]",
+            "[+1 Production] from [Horses] tiles [in this city]",
+            "[+1 Production] from [Sheep] tiles [in this city]"
+        ],
+        "requiredTech": "Horseback Riding"
+    },
+    {
+        "name": "Ocupada Estable",
+        "replaces": "Stable",
+        "uniqueTo": "Argentina",
+        "maintenance": 1,
+        "requiredNearbyImprovedResources": ["Horses", "Sheep", "Cattle"],
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+15]% Production when constructing [Mounted] units [in this city]",
+            "[+1 Production, +1 Food] from [Cattle] tiles [in this city]",
+            "[+1 Production, +1 Food] from [Horses] tiles [in this city]",
+            "[+1 Production, +1 Food] from [Sheep] tiles [in this city]"
+        ],
+        "requiredTech": "Horseback Riding"
+    },
+    {
+        "name": "Ducal Stable",
+        "replaces": "Stable",
+        "uniqueTo": "Poland",
+        "requiredNearbyImprovedResources": ["Horses", "Sheep", "Cattle"],
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+15]% Production when constructing [Mounted] units [in this city]",
+            "[+1 Production, +1 Gold] from [Cattle] tiles [in this city]",
+            "[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
+            "[+1 Production, +1 Gold] from [Sheep] tiles [in this city]",
+            "New [Mounted] units start with [15] XP [in this city]"
+        ],
+        "requiredTech": "Horseback Riding"
+    },
+    {
+        "name": "Quara U'y",
+        "replaces": "Stable",
+        "uniqueTo": "The Huns",
+        "maintenance": 1,
+        "requiredNearbyImprovedResources": ["Horses", "Sheep", "Cattle"],
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Provides [2] [Horses]",
+            "[+15]% Production when constructing [Mounted] units [in this city]",
+            "[+1 Production] from [Cattle] tiles [in this city]",
+            "[+1 Production, +1 Faith] from [Horses] tiles [in this city]",
+            "[+1 Production] from [Sheep] tiles [in this city]"
+        ],
+        "requiredTech": "Horseback Riding"
+    },
+    {
+        "name": "Circus Maximus",
+        "cost": 125,
+        "happiness": 5,
+        "culture": 1,
+        "isNationalWonder": true,
+        "uniques": [
+            "Only available <if [Colosseum] is constructed in this City>",
+            "Cost increases by [30] per owned city"
+        ],
+        "requiredTech": "Horseback Riding"
+    },
+    {
+        "name": "Courthouse",
+        "maintenance": 4,
+        "hurryCostModifier": 50,
+        "uniques": [
+            "Removes extra unhappiness from annexed cities",
+            "Can only be built <in [Annexed] cities>"
+        ],
+        "requiredTech": "Mathematics"
+    },
+    {
+        "name": "Outremer",
+        "uniqueTo": "Jerusalem",
+        "replaces": "Courthouse",
+        "maintenance": 2,
+        "culture": 2,
+        "faith": 2,
+        "happiness": 2,
+        "hurryCostModifier": 50,
+        "uniques": [
+            "Removes extra unhappiness from annexed cities",
+            "Can only be built <in [Annexed] cities>"
+        ],
+        "requiredTech": "Mathematics"
+    },
+    {
+        "name": "Hanging Gardens",
+        "food": 6,
+        "culture": 1,
+        "isWonder": true,
+        "greatPersonPoints": {
+            "Great Engineer": 1
+        },
+        "requiredTech": "Mathematics",
+        "uniques": [
+            "Gain a free [Garden] [in this city]",
+            "Only available <after adopting [Tradition]>"
+        ],
+        "quote": "'I think that if ever a mortal heard the word of God it would be in a garden at the cool of the day.' - F. Frankfort Moore"
+    },
+    {
+        "name": "Colosseum",
+        "maintenance": 1,
+        "happiness": 2,
+        "cost": 100,
+        "hurryCostModifier": 25,
+        "requiredTech": "Construction"
+    },
+    {
+        "name": "Mead Hall",
+        "replaces": "Colosseum",
+        "uniqueTo": "Franks",
+        "cost": 75,
+        "happiness": 3,
+        "culture": 1,
+        "hurryCostModifier": 25,
+        "requiredTech": "Construction"
+    },
+    {
+        "name": "Slave Market",
+        "replaces": "Colosseum",
+        "uniqueTo": "Kongo",
+        "production": 4,
+        "gold": 5,
+        "hurryCostModifier": 25,
+        "requiredTech": "Construction",
+        "uniques": [
+            "[+3 Production, +2 Gold] <after discovering [Industrialization]>",
+            "[-1] population [in this city]"
+        ]
+    },
+    {
+        "name": "Terracotta Army",
+        "culture": 1,
+        "isWonder": true,
+        "requiredTech": "Construction",
+        "uniques": [
+            "Free [Warrior] appears",
+            "Free [Archer] appears",
+            "Free [Horseman] appears",
+            "Free [Spearman] appears",
+            "Free [Scout] appears",
+            "Free [Chariot Archer] appears",
+            "Free [Composite Bowman] appears",
+            "Free [Catapult] appears"
+        ],
+        "quote": "'Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.' - Sun Tzu"
+    },
+    // Column 4
+    {
+        "name": "Temple",
+        "faith": 3,
+        "requiredBuilding": "Shrine",
+        "maintenance": 2,
+        "hurryCostModifier": 25,
+        "requiredTech": "Philosophy"
+    },
+    {
+        "name": "Burial Tomb",
+        "replaces": "Temple",
+        "uniqueTo": "Egypt",
+        "uniques": [
+            "[+100]% Gold given to enemy if city is captured <in this city>"
+        ],
+        "faith": 3,
+        "happiness": 2,
+        "requiredBuilding": "Shrine",
+        "hurryCostModifier": 25,
+        "requiredTech": "Philosophy"
+    },
+    {
+        "name": "Ayyubid Burial Tomb",
+        "uniqueTo": "Ayyubids",
+        "uniques": [
+            "[+100]% Gold given to enemy if city is captured <in this city>",
+            "Cannot be purchased",
+            "Unbuildable",
+            "Unsellable"
+        ],
+        "faith": 3,
+        "happiness": 2,
+        "requiredBuilding": "Shrine",
+        "hurryCostModifier": 25,
+        "requiredTech": "Philosophy"
+    },
+    {
+        "name": "Stave Church",
+        "replaces": "Temple",
+        "uniqueTo": "Norway",
+        "cost": 75,
+        "faith": 3,
+        "requiredBuilding": "Shrine",
+        "hurryCostModifier": 25,
+        "requiredTech": "Philosophy",
+        "uniques": [
+            "[+1 Production] from [Tundra] tiles [in this city]",
+            "[+1 Production] from [Snow] tiles [in this city]"
+        ]
+    },
+    {
+        "name": "Mud Pyramid Mosque",
+        "replaces": "Temple",
+        "uniqueTo": "Songhai",
+        "hurryCostModifier": 25,
+        "culture": 2,
+        "faith": 3,
+        "requiredBuilding": "Shrine",
+        "requiredTech": "Philosophy"
+    },
+    {
+        "name": "Ziggurat",
+        "replaces": "Temple",
+        "uniqueTo": "Sumeria",
+        "faith": 3,
+        "requiredBuilding": "Shrine",
+        "maintenance": 1,
+        "hurryCostModifier": 25,
+        "percentStatBonus": {
+            "science": 10
+        },
+        "requiredTech": "Philosophy"
+    },
+    {
+        "name": "National College",
+        "cost": 125,
+        "science": 3,
+        "culture": 1,
+        "isNationalWonder": true,
+        "percentStatBonus": {
+            "science": 50
+        },
+        "uniques": [
+            "Only available <if [Library] is constructed in this City>",
+            "Cost increases by [30] per owned city"
+        ],
+        "requiredTech": "Philosophy"
+    },
+    {
+        "name": "King Soloman's Temple",
+        "replaces": "National College",
+        "uniqueTo": "Israel",
+        "cost": 125,
+        "science": 3,
+        "faith": 3,
+        "culture": 1,
+        "percentStatBonus": {
+            "science": 55
+        },
+        "isNationalWonder": true,
+        "requiredTech": "Philosophy",
+        "uniques": [
+            "Shown while unbuilable",
+            "Unbuildable",
+            "Can be purchased for [300] [Gold] [in all cities]",
+            "Can be purchased for [390] [Faith] [in all cities]",
+            "Only available <if [Library] is constructed in all [non-[Puppeted]] cities>",
+            "Gain [75] [Faith] <upon expending a [Great Person] unit>",
+            "Gain [75] [Science] <upon expending a [Great Person] unit>"
+        ]
+    },
+    {
+        "name": "The Oracle",
+        "culture": 1,
+        "greatPersonPoints": {
+            "Great Scientist": 1
+        },
+        "isWonder": true,
+        "uniques": ["Free Social Policy"],
+        "requiredTech": "Philosophy",
+        "quote": "'The ancient Oracle said that I was the wisest of all the Greeks. It is because I alone, of all the Greeks, know that I know nothing' - Socrates"
+    },
+    {
+        "name": "Great Mosque of Djenne",
+        "culture": 3,
+        "faith": 6,
+        "happiness": 3,
+        "greatPersonPoints": {
+            "Great Engineer": 1
+        },
+        "isWonder": true,
+        "uniques": [
+            "All newly-trained [Great Prophet] units [in this city] receive the [Devout] promotion",
+            "All newly-trained [Missionary] units [in this city] receive the [Devout] promotion",
+            "Only available <after adopting [Piety]>"
+        ],
+        "requiredTech": "Philosophy",
+        "quote": "'With the magnificence of eternity before us, let time, with all its fluctuations, dwindle into its own littleness.' - Thomas Chalmers"
+    },
+    {
+        "name": "Amphitheater",
+        "culture": 2,
+        "requiredBuilding": "Monument",
+        "maintenance": 1,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Destroyed when the city is captured",
+            "Comment [Has 1 Great Work of Writing Slot]"
+        ],
+        "requiredTech": "Drama and Poetry"
+    },
+    {
+        "name": "Amphitheater Great Writing Slot",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Writing",
+        "uniques": [
+            "Great Work",
+            "GW Writing",
+            "Only available <in cities with a [Amphitheater]>",
+            "Provides [1] [Great Work of Writing]",
+            "Instantly consumes [1] [Great Work of Writing]"
+        ]
+    },
+    {
+        "name": "Hippodrome",
+        "replaces": "Amphitheater",
+        "uniqueTo": "Byzantium",
+        "cost": 95,
+        "culture": 2,
+        "faith": 2,
+        "happiness": 1,
+        "requiredBuilding": "Monument",
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Destroyed when the city is captured",
+            "Comment [Has 1 Great Work of Writing Slot]"
+        ],
+        "requiredTech": "Drama and Poetry"
+    },
+    {
+        "name": "Odeon",
+        "replaces": "Amphitheater",
+        "uniqueTo": "Greece",
+        "culture": 4,
+        "gold": 1,
+        "specialistSlots": {
+            "Writer": 1
+        },
+        "requiredBuilding": "Monument",
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Destroyed when the city is captured",
+            "Comment [Has 1 Great Work of Writing Slot]"
+        ],
+        "requiredTech": "Writing"
+    },
+    {
+        "name": "Garden",
+        "uniques": [
+            "[+20]% Great Person generation [in this city]",
+            "Must be next to [Fresh water]"
+        ],
+        "cost": 120,
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "requiredTech": "Drama and Poetry"
+    },
+    {
+        "name": "Candi",
+        "replaces": "Garden",
+        "uniqueTo": "Indonesia",
+        "cost": 90,
+        "faith": 6,
+        "uniques": ["[+20]% Great Person generation [in this city]"],
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "requiredTech": "Drama and Poetry"
+    },
+    {
+        "name": "Baray",
+        "replaces": "Garden",
+        "uniqueTo": "Khmer",
+        "uniques": [
+            "[10]% Food is carried over after population increases [in this city]",
+            "[+2 Food, +2 Faith] <after discovering [Drama and Poetry]>",
+            "[+20]% Great Person generation [in this city]"
+        ],
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "requiredTech": "Drama and Poetry"
+    },
+    {
+        "name": "Painted Monastery",
+        "replaces": "Garden",
+        "uniqueTo": "Romania",
+        "cost": 100,
+        "production": 1,
+        "faith": 2,
+        "greatPersonPoints": {
+            "Great Artist": 1
+        },
+        "uniques": ["[+20]% Great Person generation [in this city]"],
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "requiredTech": "Drama and Poetry"
+    },
+    {
+        "name": "National Epic",
+        "cost": 125,
+        "culture": 1,
+        "isNationalWonder": true,
+        "uniques": [
+            "Only available <if [Monument] is constructed in this City>",
+            "[+25]% Great Person generation [in this city]",
+            "Cost increases by [30] per owned city",
+            "Comment [Has 1 Great Work of Writing Slot]"
+        ],
+        "requiredTech": "Drama and Poetry"
+    },
+    {
+        "name": "National Epic Great Writing Slot",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Writing",
+        "uniques": [
+            "Great Work",
+            "GW Writing",
+            "Only available <in cities with a [National Epic]>",
+            "Provides [1] [Great Work of Writing]",
+            "Instantly consumes [1] [Great Work of Writing]"
+        ]
+    },
+    {
+        "name": "King Ezana's Stele",
+        "replaces": "National Epic",
+        "uniqueTo": "Aksum",
+        "cost": 125,
+        "culture": 4,
+        "faith": 4,
+        "isNationalWonder": true,
+        "uniques": [
+            "Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>",
+            "[+25]% Great Person generation [in this city]",
+            "[+1 Food, +1 Gold, +1 Production, +1 Faith] from every [Monument]",
+            "Cost increases by [30] per owned city",
+            "Comment [Has 1 Great Work of Writing Slot]"
+        ],
+        "requiredTech": "Drama and Poetry"
+    },
+    {
+        "name": "Writer Guild",
+        "cost": 150,
+        "maintenance": 1,
+        "greatPersonPoints": {
+            "Great Writer": 1
+        },
+        "specialistSlots": {
+            "Writer": 2
+        },
+        "isNationalWonder": true,
+        "requiredTech": "Drama and Poetry"
+    },
+    {
+        "name": "Parthenon",
+        "culture": 4,
+        "isWonder": true,
+        "requiredTech": "Drama and Poetry",
+        "uniques": [
+            "Instantly provides [1] [Great Work of Writing]",
+            "Comment [Has 1 Great Work of Writing Slot]"
+        ],
+        "quote": "'Earth proudly wears the Parthenon as the best gem upon her zone.' - Ralph Waldo Emerson"
+    },
+    {
+        "name": "Parthenon Great Writing Slot",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Writing",
+        "uniques": [
+            "Great Work",
+            "GW Writing",
+            "Only available <in cities with a [Parthenon]>",
+            "Provides [1] [Great Work of Writing]",
+            "Instantly consumes [1] [Great Work of Writing]"
+        ]
+    },
+    {
+        "name": "Market",
+        "gold": 2,
+        "specialistSlots": {
+            "Merchant": 1
+        },
+        "hurryCostModifier": 25,
+        "percentStatBonus": {
+            "gold": 20
+        },
+        "uniques": [
+            "[+1 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
+            "[+1 Gold] from [Sea Trade Route (Gold)] tiles [in this city]"
+        ],
+        "requiredTech": "Currency"
+    },
+    {
+        "name": "War Treasury",
+        "replaces": "Market",
+        "uniqueTo": "The United States of America",
+        "happiness": 1,
+        "gold": 2,
+        "specialistSlots": {
+            "Merchant": 1
+        },
+        "hurryCostModifier": 25,
+        "percentStatBonus": {
+            "gold": 20
+        },
+        "uniques": [
+            "[+1 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
+            "[+1 Gold] from [Sea Trade Route (Gold)] tiles [in this city]"
+        ],
+        "requiredTech": "Currency"
+    },
+    {
+        "name": "Bazaar",
+        "replaces": "Market",
+        "uniqueTo": "Arabia",
+        "happiness": 1,
+        "gold": 2,
+        "specialistSlots": {
+            "Merchant": 1
+        },
+        "hurryCostModifier": 25,
+        "percentStatBonus": {
+            "gold": 20
+        },
+        "uniques": [
+            "[+1 Gold] from [Luxury resource] tiles [in this city]",
+            "[+2 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
+            "[+2 Gold] from [Sea Trade Route (Gold)] tiles [in this city]",
+            "[+2 Gold] from [Oil] tiles [in this city]",
+            "[+2 Gold] from [Oasis] tiles [in this city]"
+        ],
+        "requiredTech": "Currency"
+    },
+    {
+        "name": "Knyaz Court",
+        "replaces": "Market",
+        "uniqueTo": "Ukraine",
+        "gold": 2,
+        "specialistSlots": {
+            "Merchant": 1
+        },
+        "hurryCostModifier": 25,
+        "percentStatBonus": {
+            "gold": 20
+        },
+        "uniques": [
+            "Gain [50] [Gold] <upon expending a [Great Person] unit>",
+            "[+1 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
+            "[+1 Gold] from [Sea Trade Route (Gold)] tiles [in this city]"
+        ],
+        "requiredTech": "Currency"
+    },
+    {
+        "name": "Mint",
+        "gold": 2,
+        "requiredNearbyImprovedResources": ["Gold Ore", "Silver", "Copper"],
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+2 Gold] from [Gold Ore] tiles [in this city]",
+            "[+2 Gold] from [Silver] tiles [in this city]",
+            "[+2 Gold] from [Copper] tiles [in this city]"
+        ],
+        "requiredTech": "Currency"
+    },
+    {
+        "name": "Silversmith",
+        "uniqueTo": "Celts",
+        "replaces": "Mint",
+        "cost": 75,
+        "production": 2,
+        "gold": 1,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+2 Gold] from [Gold Ore] tiles [in this city]",
+            "[+2 Gold] from [Silver] tiles [in this city]",
+            "[+2 Gold] from [Copper] tiles [in this city]"
+        ],
+        "requiredTech": "Currency"
+    },
+    {
+        "name": "Petra",
+        "culture": 1,
+        "isWonder": true,
+        "greatPersonPoints": {
+            "Great Engineer": 1
+        },
+        "uniques": [
+            "Must be next to [Desert]",
+            "[+1 Food, +1 Production] from [Desert] tiles without [Flood plains] [in this city]",
+            "[+6 Culture] [in this city] <after discovering [Archaeology]>",
+            "Provides [1] [Trade Route]",
+            "Free [Caravan] appears"
+        ],
+        "requiredTech": "Currency",
+        "quote": "'...who drinks the water I shall give him, says the Lord, will have a spring inside him welling up for eternal life. Let them bring me to your holy mountain in the place where you dwell. Across the desert and through the mountain to the Canyon of the Crescent Moon...' - Indiana Jones"
+    },
+    {
+        "name": "Aqueduct",
+        "maintenance": 1,
+        "hurryCostModifier": 0,
+        "uniques": [
+            "[40]% Food is carried over after population increases [in this city]"
+        ],
+        "requiredTech": "Engineering"
+    },
+    {
+        "name": "Great Wall",
+        "culture": 3,
+        "greatPersonPoints": {
+            "Great Engineer": 1
+        },
+        "isWonder": true,
+        "uniques": [
+            "Gain a free [Walls] [in this city]",
+            "Gain a free [Watch Tower] [in all cities]"
+        ],
+        "requiredTech": "Engineering",
+        "quote": "'The art of war teaches us to rely not on the likelihood of the enemy's not attacking, but rather on the fact that we have made our position unassailable.' - Sun Tzu"
+    },
+    {
+        "name": "Heroic Epic",
+        "cost": 125,
+        "culture": 1,
+        "isNationalWonder": true,
+        "uniques": [
+            "Only available <if [Barracks] is constructed in this City>",
+            "All newly-trained [non-air] units [in all cities] receive the [Morale] promotion",
+            "Cost increases by [30] per owned city",
+            "Comment [Has 1 Great Work of Writing Slot]"
+        ],
+        "requiredTech": "Iron Working"
+    },
+    {
+        "name": "Heroic Epic Great Writing Slot",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Writing",
+        "uniques": [
+            "Great Work",
+            "GW Writing",
+            "Only available <in cities with a [Heroic Epic]>",
+            "Provides [1] [Great Work of Writing]",
+            "Instantly consumes [1] [Great Work of Writing]"
+        ]
+    },
+    {
+        "name": "Colossus",
+        "cost": 185,
+        "culture": 1,
+        "gold": 5,
+        "greatPersonPoints": {
+            "Great Merchant": 1
+        },
+        "isWonder": true,
+        "uniques": [
+            "Must be next to [Coast]",
+            "[+2 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
+            "[+2 Gold] from [Sea Trade Route (Gold)] tiles [in this city]",
+            "Free [Cargo Ship] appears",
+            "Provides [1] [Trade Route]"
+        ],
+        "requiredTech": "Iron Working",
+        "quote": "'Why man, he doth bestride the narrow world like a colossus, and we petty men walk under his huge legs, and peep about to find ourselves dishonorable graves.' - William Shakespeare, Julius Caesar"
+    },
+
+    // Medieval Era
+    // Column 5
+    {
+        "name": "Censer Maker",
+        "cost": 75,
+        "culture": 2,
+        "maintenance": 1,
+        "requiredNearbyImprovedResources": ["Incense", "Tobacco", "Perfume"],
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+1 Culture] from [Incense] tiles [in this city]",
+            "[+1 Culture] from [Tobacco] tiles [in this city]",
+            "[+1 Culture] from [Perfume] tiles [in this city]"
+        ],
+        "requiredTech": "Economics"
+    },
+    {
+        "name": "Agri-Factory",
+        "uniqueTo": "The United States of America",
+        "food": 5,
+        "specialistSlots": {
+            "Engineer": 1
+        },
+        "maintenance": 2,
+        "cost": 100,
+        "uniques": [
+            "[+1 Food] from [Farm] tiles [in this city]",
+            "[+1 Gold] from [Farm] tiles [in this city]",
+            "[+2 Food] from [Manufactory] tiles [in this city]"
+        ],
+        "requiredTech": "Metal Casting"
+    },
+    {
+        "name": "Hagia Sophia",
+        "faith": 3,
+        "isWonder": true,
+        "uniques": [
+            "Gain a free [Temple] [in this city]",
+            "Free [Great Prophet] appears",
+            "Only available <when religion is enabled>"
+        ],
+        "requiredTech": "Theology",
+        "quote": "'For it soars to a height to match the sky, and as if surging up from among the other buildings it stands on high and looks down upon the remainder of the city, adorning it, because it is a part of it, but glorying in its own beauty' - Procopius, De Aedificis"
+    },
+    {
+        "name": "Grand Temple",
+        "cost": 125,
+        "culture": 1,
+        "faith": 10,
+        "uniques": [
+            "Only available <if [Temple] is constructed in this City",
+            "Cost increases by [30] per owned city",
+            "[+200]% Natural religion spread [in this city]",
+            "Only available <when religion is enabled>",
+            "Can only be built <in [Holy] cities>"
+        ],
+        "requiredTech": "Theology",
+        "isNationalWonder": true
+    },
+    {
+        "name": "Grand Cathedral of Vilnius",
+        "replaces": "Grand Temple",
+        "uniqueTo": "Lithuania",
+        "cost": 95,
+        "culture": 1,
+        "faith": 15,
+        "uniques": [
+            "Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>",
+            "Cost increases by [30] per owned city",
+            "Only available <when religion is enabled>"
+        ],
+        "requiredTech": "Theology",
+        "isNationalWonder": true
+    },
+    {
+        "name": "Saint Peter's Basilica",
+        "replaces": "Grand Temple",
+        "uniqueTo": "Papal State",
+        "cost": 125,
+        "culture": 1,
+        "faith": 17,
+        "uniques": [
+            "Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>",
+            "Cost increases by [30] per owned city",
+            "[+170]% Natural religion spread [in this city]",
+            "Only available <when religion is enabled>",
+            "Can only be built <in [Holy] cities>",
+            "Gain a free [Cathedral] [in this city]",
+            "Free [Great Prophet] appears"
+        ],
+        "requiredTech": "Theology",
+        "isNationalWonder": true
+    },
+    {
+        "name": "Borobudur",
+        "faith": 5,
+        "isWonder": true,
+        "greatPersonPoints": {
+            "Great Engineer": 1
+        },
+        "uniques": [
+            "Gain a free [Garden] [in this city]",
+            "[3] free [Missionary] units appear",
+            "Can only be built <in [Holy] cities>",
+            "Only available <when religion is enabled>"
+        ],
+        "requiredTech": "Theology",
+        "quote": "'When you realize how perfect everything is, you will tilt your head back and laugh at the sky' - Gautama Buddha"
+    },
+    {
+        "name": "Chichen Itza",
+        "culture": 1,
+        "happiness": 4,
+        "greatPersonPoints": {
+            "Great Engineer": 1
+        },
+        "isWonder": true,
+        "uniques": ["[+50]% Golden Age length"],
+        "requiredTech": "Civil Service",
+        "quote": "'The katun is established at Chichen Itza. The settlement of the Itza shall take place there. The quetzal shall come, the green bird shall come. Ah Kantenal shall come. It is the word of God. The Itza shall come.' - The Books of Chilam Balam"
+    },
+    {
+        "name": "Mercenary Office",
+        "cost": 150,
+        "cityStrength": 5,
+        "cityHealth": 15,
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "uniques": [
+            "May buy [] units with [Gold] for [1] times their normal Production cost",
+            "May buy [] units with [Gold] for [1] times their normal Production cost",
+            "May buy [] units with [Gold] for [1] times their normal Production cost",
+            "May buy [] units with [Gold] for [1] times their normal Production cost"
+        ],
+        "requiredTech": "Civil Service"
+    },
+    {
+        "name": "Huey Teocalli",
+        "faith": 4,
+        "greatPersonPoints": {
+            "Great Engineer": 1
+        },
+        "isWonder": true,
+        "uniques": [
+            "Must be next to [Lakes]",
+            "[+3 Culture, +2 Food] from [Lakes] tiles [in this city]"
+        ],
+        "requiredTech": "Civil Service"
+    },
+    {
+        "name": "Brewery",
+        "maintenance": 0,
+        "requiredNearbyImprovedResources": [
+            "Tea",
+            "Salt",
+            "Wine",
+            "Sugar",
+            "Coffee"
+        ],
+        "cost": 100,
+        "gold": 2,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+2 Gold] from [Sugar] tiles [in this city]",
+            "[+2 Gold] from [Coffee] tiles [in this city]",
+            "[+2 Gold] from [Wine] tiles [in this city]",
+            "[+2 Gold] from [Salt] tiles [in this city]",
+            "[+2 Gold] from [Tea] tiles [in this city]"
+        ],
+        "requiredTech": "Guilds"
+    },
+    {
+        "name": "East India Company",
+        "cost": 125,
+        "gold": 4,
+        "percentStatBonus": {
+            "gold": 10
+        },
+        "isNationalWonder": true,
+        "uniques": [
+            "Only available <if [Market] is constructed in this City>",
+            "Cost increases by [30] per owned city",
+            "Provides [2] [Trade Route]",
+            "[+3 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
+            "[+3 Gold] from [Sea Trade Route (Gold)] tiles [in this city]"
+        ],
+        "requiredTech": "Guilds"
+    },
+    {
+        "name": "Grand Canal of Venice",
+        "uniqueTo": "Venice",
+        "replaces": "East India Company",
+        "cost": 125,
+        "gold": 4,
+        "percentStatBonus": {
+            "gold": 25
+        },
+        "isNationalWonder": true,
+        "uniques": [
+            "Cost increases by [30] per owned city",
+            "Provides [2] [Trade Route]",
+            "[+4 Gold] from [Land Trade Route (Gold)] tiles [in this city]",
+            "[+4 Gold] from [Sea Trade Route (Gold)] tiles [in this city]"
+        ],
+        "requiredTech": "Currency"
+    },
+    {
+        "name": "Artist Guild",
+        "cost": 150,
+        "maintenance": 1,
+        "greatPersonPoints": {
+            "Great Artist": 2
+        },
+        "specialistSlots": {
+            "Artist": 2
+        },
+        "isNationalWonder": true,
+        "requiredTech": "Guilds"
+    },
+    {
+        "name": "Machu Picchu",
+        "gold": 5,
+        "faith": 2,
+        "greatPersonPoints": {
+            "Great Merchant": 1
+        },
+        "culture": 1,
+        "isWonder": true,
+        "uniques": [
+            "[+30]% [Gold] from Trade Routes",
+            "Must have an owned [Mountain] within [3] tiles"
+        ],
+        "requiredTech": "Guilds",
+        "quote": "'Few romances can ever surpass that of the granite citadel on top of the beetling precipices of Machu Picchu, the crown of Inca Land.' - Hiram Bingham"
+    },
+    {
+        "name": "Workshop",
+        "maintenance": 2,
+        "production": 2,
+        "specialistSlots": {
+            "Engineer": 1
+        },
+        "hurryCostModifier": 25,
+        "percentStatBonus": {
+            "production": 15
+        },
+        "requiredTech": "Metal Casting"
+    },
+    {
+        "name": "Longhouse",
+        "replaces": "Workshop",
+        "uniqueTo": "Iroquois",
+        "cost": 75,
+        "maintenance": 2,
+        "production": 2,
+        "specialistSlots": {
+            "Engineer": 1
+        },
+        "hurryCostModifier": 25,
+        "percentStatBonus": {
+            "production": 15
+        },
+        "uniques": [
+            "[+1 Production] from [Forest] tiles [in this city]",
+            "[+1 Production] from [Jungle] tiles [in this city]"
+        ],
+        "requiredTech": "Metal Casting"
+    },
+    {
+        "name": "Coral Port",
+        "uniqueTo": "Kilwa",
+        "replaces": "Workshop",
+        "maintenance": 2,
+        "production": 2,
+        "specialistSlots": {
+            "Engineer": 1
+        },
+        "hurryCostModifier": 25,
+        "percentStatBonus": {
+            "production": 15
+        },
+        "uniques": [
+            "[+2 Production] from [Coral] tiles [in this city]",
+            "[+1 Culture] from [Fish] tiles [in this city]",
+            "[+1 Culture] from [Crab] tiles [in this city]",
+            "[+1 Culture] from [Pearls] tiles [in this city]",
+            "[+2 Gold] from [Whales] tiles [in this city]"
+        ],
+        "requiredTech": "Metal Casting"
+    },
+    {
+        "name": "Forge",
+        "maintenance": 1,
+        "hurryCostModifier": 25,
+        "requiredNearbyImprovedResources": ["Iron"],
+        "requiredTech": "Metal Casting",
+        "uniques": [
+            "[+15]% Production when constructing [Land] units [in this city]",
+            "[+1 Production] from [Iron] tiles [in this city]"
+        ]
+    },
+    {
+        "name": "Blast Furnace",
+        "replaces": "Forge",
+        "uniqueTo": "Nubia",
+        "culture": 2,
+        "hurryCostModifier": 25,
+        "requiredTech": "Metal Casting",
+        "uniques": [
+            "[+15]% Production when constructing [Land] units [in this city]",
+            "[+1 Production, +2 Culture] from [Iron] tiles [in this city]",
+            "All newly-trained [Ranged] units [in this city] receive the [Accuracy I] promotion",
+            "All newly-trained [Scout] units [in this city] receive the [Accuracy I] promotion",
+            "All newly-trained [Siege] units [in this city] receive the [Accuracy I] promotion"
+        ]
+    },
+    {
+        "name": "Althing",
+        "culture": 1,
+        "isWonder": true,
+        "greatPersonPoints": {
+            "Great Scientist": 1
+        },
+        "uniques": [
+            "Must be next to [Tundra]",
+            "[+1 Culture, +3 Production] from [Tundra] tiles [in this city]"
+        ],
+        "requiredTech": "Metal Casting"
+    },
+    // Column 6
+    {
+        "name": "Harbor",
+        "cost": 120,
+        "maintenance": 2,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Connects trade routes over water",
+            "Must be next to [Coast]",
+            "[+1 Gold] from [Sea Trade Route (Gold)] tiles [in this city]"
+        ],
+        "requiredTech": "Compass"
+    },
+    {
+        "name": "Minaa",
+        "uniqueTo": "Oman",
+        "replaces": "Harbor",
+        "cost": 120,
+        "cityStrength": 5,
+        "maintenance": 2,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Connects trade routes over water",
+            "Must be next to [Coast]",
+            "[+1 Gold, +2 Production] from [Sea Trade Route (Gold)] tiles [in this city]",
+            "[+2 Production] from [Sea Trade Route (Food)] tiles [in this city]",
+            "[+2 Production] from [Sea Trade Route (Production)] tiles [in this city]"
+        ],
+        "requiredTech": "Compass"
+    },
+    {
+        "name": "Trade Harbor",
+        "replaces": "Harbor",
+        "uniqueTo": "Phoenicia",
+        "cost": 120,
+        "maintenance": 2,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Connects trade routes over water",
+            "Must be next to [Coast]",
+            "[+1 Gold] from [Sea Trade Route (Gold)] tiles [in this city]",
+            "[+1 Production] from [Water resource] tiles [in this city]",
+            "[+15]% Production when constructing [Water] units [in this city]"
+        ],
+        "requiredTech": "Compass"
+    },
+    {
+        "name": "Feitoria",
+        "uniqueTo": "Portugal",
+        "replaces": "Harbor",
+        "cost": 100,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Connects trade routes over water",
+            "Must be next to [Coast]",
+            "[+1 Gold] from [Sea Trade Route (Gold)] tiles [in this city]",
+            "[+1 Gold] from [Water resource] tiles [in this city]",
+            "New [Water] units start with [15] XP [in this city]"
+        ],
+        "requiredTech": "Compass"
+    },
+    {
+        "name": "Tower of Belem",
+        "cost": 300,
+        "culture": 2,
+        "happiness": 2,
+        "isWonder": true,
+        "uniques": [
+            "Instantly gain [4] [Golden Age points] <upon turn end>",
+            "[+1 Production, +1 Gold] [in all coastal cities]",
+            "Only available <after adopting [Exploration]>"
+        ],
+        "requiredTech": "Compass"
+    },
+    {
+        "name": "University",
+        "maintenance": 2,
+        "hurryCostModifier": 15,
+        "percentStatBonus": {
+            "science": 33
+        },
+        "specialistSlots": {
+            "Scientist": 2
+        },
+        "requiredBuilding": "Library",
+        "uniques": ["[+3 Science] from [Jungle] tiles [in this city]"],
+        "requiredTech": "Education"
+    },
+    {
+        "name": "Madrasah",
+        "replaces": "University",
+        "uniqueTo": "Ayyubids",
+        "maintenance": 2,
+        "faith": 2,
+        "hurryCostModifier": 15,
+        "percentStatBonus": {
+            "science": 33
+        },
+        "specialistSlots": {
+            "Scientist": 2
+        },
+        "requiredBuilding": "Library",
+        "uniques": [
+            "[+3 Science] from [Jungle] tiles [in this city]",
+            "[+2 Science] from [Oasis] tiles [in this city]",
+            "[+1 Science] from [Flood plains] tiles [in this city]"
+        ],
+        "requiredTech": "Education"
+    },
+    {
+        "name": "Wat",
+        "replaces": "University",
+        "cost": 120,
+        "uniqueTo": "Siam",
+        "hurryCostModifier": 15,
+        "percentStatBonus": {
+            "science": 33
+        },
+        "specialistSlots": {
+            "Scientist": 2
+        },
+        "culture": 3,
+        "requiredBuilding": "Library",
+        "uniques": ["[+3 Science] from [Jungle] tiles [in this city]"],
+        "requiredTech": "Education"
+    },
+    {
+        "name": "Oxford University",
+        "cost": 125,
+        "science": 3,
+        "culture": 1,
+        "isNationalWonder": true,
+        "uniques": [
+            "Only available <if [University] is constructed in this City>",
+            "Free Technology",
+            "Cost increases by [30] per owned city",
+            "Comment [Has [2] Great Work of Writing Slots]"
+        ],
+        "requiredTech": "Education"
+    },
+    {
+        "name": "Oxford University Great Writing Slot 1",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Writing",
+        "uniques": [
+            "Great Work",
+            "GW Writing",
+            "Only available <in cities with a [Oxford University]>",
+            "Provides [1] [Great Work of Writing]",
+            "Instantly consumes [1] [Great Work of Writing]",
+            "[+1 Culture] <in cities with a [Oxford University Great Writing Slot 2]>"
+        ]
+    },
+    {
+        "name": "Oxford University Great Writing Slot 2",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Writing",
+        "uniques": [
+            "Great Work",
+            "GW Writing",
+            "Only available <in cities with a [Oxford University]>",
+            "Provides [1] [Great Work of Writing]",
+            "Instantly consumes [1] [Great Work of Writing]",
+            "[+1 Culture] <in cities with a [Oxford University Great Writing Slot 1]>"
+        ]
+    },
+    {
+        "name": "Angkor Wat",
+        "culture": 5,
+        "science": 5,
+        "greatPersonPoints": {
+            "Great Scientist": 1
+        },
+        "isWonder": true,
+        "uniques": ["Gain a free [University] [in this city]"],
+        "requiredTech": "Education",
+        "quote": "'The temple is like no other building in the world. It has towers and decoration and all the refinements which the human genius can conceive of.' - Antonio da Magdalena"
+    },
+    {
+        "name": "Castle",
+        "cityStrength": 7,
+        "cityHealth": 25,
+        "hurryCostModifier": 25,
+        "requiredBuilding": "Walls",
+        "requiredTech": "Chivalry",
+        "uniques": ["Destroyed when the city is captured"]
+    },
+    {
+        "name": "Mughal Fort",
+        "cost": 150,
+        "replaces": "Castle",
+        "uniqueTo": "India",
+        "cityStrength": 7,
+        "cityHealth": 25,
+        "culture": 4,
+        "happiness": 2,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+2 Culture] [in this city] <after discovering [Flight]>",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Chivalry"
+    },
+    {
+        "name": "Alcazaba",
+        "uniqueTo": "The Moors",
+        "replaces": "Castle",
+        "cityStrength": 7,
+        "cityHealth": 25,
+        "science": 3,
+        "hurryCostModifier": 25,
+        "requiredBuilding": "Walls",
+        "requiredTech": "Chivalry",
+        "uniques": [
+            "[+10]% growth [in this city]",
+            "Destroyed when the city is captured"
+        ]
+    },
+    {
+        "name": "Alhambra",
+        "culture": 1,
+        "isWonder": true,
+        "percentStatBonus": {
+            "culture": 20
+        },
+        "uniques": [
+            "All newly-trained [relevant] units [in all cities] receive the [] promotion",
+            "Gain a free [Castle] [in this city]"
+        ],
+        "requiredTech": "Chivalry",
+        "quote": "'Justice is an unassailable fortress, built on the brow of a mountain which cannot be overthrown by the violence of torrents, nor demolished by the force of armies.' - Joseph Addison"
+    },
+    {
+        "name": "Gemcutter",
+        "cost": 75,
+        "culture": 1,
+        "requiredNearbyImprovedResources": [
+            "Gems",
+            "Amber",
+            "Lapis Lazuli",
+            "Jade"
+        ],
+        "maintenance": 1,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+1 Culture] from [Jade] tiles [in this city]",
+            "[+1 Culture] from [Lapis Lazuli] tiles [in this city]",
+            "[+1 Culture] from [Amber] tiles [in this city]",
+            "[+1 Culture] from [Gems] tiles [in this city]"
+        ],
+        "requiredTech": "Machinery"
+    },
+    {
+        "name": "Ironworks",
+        "cost": 125,
+        "production": 10,
+        "culture": 1,
+        "isNationalWonder": true,
+        "uniques": [
+            "Only available <if [Workshop] is constructed in this City>",
+            "Cost increases by [30] per owned city"
+        ],
+        "requiredTech": "Machinery"
+    },
+    {
+        "name": "Falu Gruva",
+        "replaces": "Ironworks",
+        "uniqueTo": "Sweden",
+        "cost": 125,
+        "production": 8,
+        "culture": 1,
+        "isNationalWonder": true,
+        "uniques": [
+            "Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>",
+            "Cost increases by [30] per owned city",
+            "[+1 Production] from [Hill] tiles [in this city]",
+            "[+6 Culture] <after discovering [Flight]>"
+        ],
+        "requiredTech": "Metal Casting"
+    },
+    {
+        "name": "Notre Dame",
+        "faith": 4,
+        "happiness": 10,
+        "greatPersonPoints": {
+            "Great Artist": 1
+        },
+        "isWonder": true,
+        "requiredTech": "Physics",
+        "quote": "'Architecture has recorded the great ideas of the human race. Not only every religious symbol, but every human thought has its page in that vast book.' - Victor Hugo"
+    },
+    {
+        "name": "Armory",
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "requiredBuilding": "Barracks",
+        "uniques": [
+            "New [Military] units start with [15] XP [in this city]",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Steel"
+    },
+    {
+        "name": "US Naval Academy",
+        "uniqueTo": "The United States of America",
+        "cost": 300,
+        "maintenance": 2,
+        "uniques": [
+            "New [Military ] units start with [20] XP [in this city]",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Steel"
+    },
+    {
+        "name": "Reislaufer Post",
+        "replaces": "Armory",
+        "uniqueTo": "Switzerland",
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "requiredBuilding": "Barracks",
+        "uniques": [
+            "Free [Reislaufer] appears",
+            "New [Military] units start with [15] XP [in this city]",
+            "All newly-trained [{Land} {Military}] units [in this city] receive the [Mountaineer] promotion",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Steel"
+    },
+    {
+        "name": "Vo Khi",
+        "replaces": "Armory",
+        "uniqueTo": "Vietnam",
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "uniques": [
+            "New [Military] units start with [15] XP [in this city]",
+            "Destroyed when the city is captured",
+            "[+1 Food, +1 Culture, +1 Production] from [Marsh] tiles [in this city]",
+            "[+1 Culture] from [Jungle] tiles [in this city]"
+        ],
+        "requiredTech": "Metal Casting"
+    },
+
+    // Renaissance Era
+    // Column 7
+    {
+        "name": "Observatory",
+        "maintenance": 1,
+        "science": 4,
+        "hurryCostModifier": 15,
+        "requiredBuilding": "Library",
+        "uniques": [
+            "[+5 Science] from [Mountain] tiles [in this city]",
+            "[+2 Science] from [Tundra] tiles [in this city]"
+        ],
+        "requiredTech": "Astronomy"
+    },
+    {
+        "name": "Darbas",
+        "replaces": "Observatory",
+        "uniqueTo": "Armenia",
+        "maintenance": 1,
+        "science": 4,
+        "culture": 4,
+        "hurryCostModifier": 15,
+        "requiredBuilding": "Library",
+        "uniques": [
+            "[+5 Science, +2 Culture] from [Mountain] tiles [in this city]",
+            "[+2 Science] from [Tundra] tiles [in this city]"
+        ],
+        "requiredTech": "Astronomy"
+    },
+    {
+        "name": "Opera House",
+        "culture": 2,
+        "hurryCostModifier": 10,
+        "requiredBuilding": "Amphitheater",
+        "maintenance": 2,
+        "requiredTech": "Acoustics",
+        "uniques": [
+            "Destroyed when the city is captured",
+            "Comment [Has 1 Great Work of Music Slot]"
+        ]
+    },
+    {
+        "name": "Opera House Great Music Slot",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Music",
+        "uniques": [
+            "Great Work",
+            "GW Music",
+            "Only available <in cities with a [Opera House]>",
+            "Provides [1] [Great Work of Music]",
+            "Instantly consumes [1] [Great Work of Music]"
+        ]
+    },
+    {
+        "name": "Staatsmuseum",
+        "replaces": "Opera House",
+        "uniqueTo": "Boers",
+        "cost": 175,
+        "culture": 3,
+        "specialistSlots": {
+            "Artist": 1
+        },
+        "hurryCostModifier": 10,
+        "requiredBuilding": "Amphitheater",
+        "maintenance": 2,
+        "requiredTech": "Acoustics",
+        "uniques": [
+            "Destroyed when the city is captured",
+            "Comment [Has 1 Great Work of Music Slot]"
+        ]
+    },
+    {
+        "name": "Ceilidh Hall",
+        "replaces": "Opera House",
+        "uniqueTo": "Scotland",
+        "culture": 3,
+        "happiness": 3,
+        "hurryCostModifier": 10,
+        "requiredBuilding": "Amphitheater",
+        "maintenance": 2,
+        "requiredTech": "Acoustics",
+        "uniques": [
+            "Destroyed when the city is captured",
+            "Comment [Has 1 Great Work of Music Slot]"
+        ]
+    },
+    {
+        "name": "Musician Guild",
+        "cost": 200,
+        "maintenance": 1,
+        "greatPersonPoints": {
+            "Great Musician": 3
+        },
+        "specialistSlots": {
+            "Musician": 2
+        },
+        "isNationalWonder": true,
+        "requiredTech": "Acoustics"
+    },
+    {
+        "name": "Sistine Chapel",
+        "culture": 1,
+        "isWonder": true,
+        "uniques": [
+            "[+25]% [Culture] [in all cities]",
+            "Comment [Has [2] Great Work of Art Slots]"
+        ],
+        "requiredTech": "Acoustics",
+        "quote": "'I live and love in God's peculiar light.' - Michelangelo Buonarroti"
+    },
+    {
+        "name": "Sistine Chapel Great Art Slot 1",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Art",
+        "uniques": [
+            "Great Work",
+            "GW Art",
+            "Only available <in cities with a [Sistine Chapel]>",
+            "Provides [1] [Great Work of Art]",
+            "Instantly consumes [1] [Great Work of Art]",
+            "[+1 Culture] <in cities with a [Sistine Chapel Great Art Slot 2]>"
+        ]
+    },
+    {
+        "name": "Sistine Chapel Great Art Slot 2",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Art",
+        "uniques": [
+            "Great Work",
+            "GW Art",
+            "Only available <in cities with a [Sistine Chapel]>",
+            "Provides [1] [Great Work of Art]",
+            "Instantly consumes [1] [Great Work of Art]",
+            "[+1 Culture] <in cities with a [Sistine Chapel Great Art Slot 1]>"
+        ]
+    },
+    {
+        "name": "Bank",
+        "gold": 2,
+        "specialistSlots": {
+            "Merchant": 1
+        },
+        "hurryCostModifier": 15,
+        "percentStatBonus": {
+            "gold": 25
+        },
+        "requiredBuilding": "Market",
+        "requiredTech": "Banking"
+    },
+    {
+        "name": "Department of Treasury",
+        "replaces": "Bank",
+        "gold": 4,
+        "specialistSlots": {
+            "Merchant": 1
+        },
+        "hurryCostModifier": 15,
+        "percentStatBonus": {
+            "gold": 25
+        },
+        "requiredBuilding": "Market",
+        "requiredTech": "Banking",
+        "uniqueTo": "The United States of America",
+        "uniques": [
+            "Doubles Gold given to enemy if city is captured",
+            "Destroyed when the city is captured",
+            "All newly-trained [Military] units [in this city] receive the [Combat Pay] promotion"
+        ]
+    },
+    {
+        "name": "Hanse",
+        "replaces": "Bank",
+        "uniqueTo": "Germany",
+        "gold": 2,
+        "specialistSlots": {
+            "Merchant": 1
+        },
+        "hurryCostModifier": 15,
+        "percentStatBonus": {
+            "gold": 25,
+            "production": 25
+        },
+        //"uniques": ["+5% Production for every Trade Route with a City-State in the empire"],
+        "requiredBuilding": "Market",
+        "requiredTech": "Banking"
+    },
+    {
+        "name": "Canton Factory",
+        "replaces": "Bank",
+        "uniqueTo": "Manchuria",
+        "cost": 100,
+        "gold": 2,
+        "specialistSlots": {
+            "Merchant": 2
+        },
+        "hurryCostModifier": 15,
+        "percentStatBonus": {
+            "gold": 35
+        },
+        "requiredBuilding": "Market",
+        "requiredTech": "Banking"
+    },
+    {
+        "name": "Satrap's Court",
+        "replaces": "Bank",
+        "uniqueTo": "Persia",
+        "gold": 3,
+        "specialistSlots": {
+            "Merchant": 1
+        },
+        "happiness": 2,
+        "hurryCostModifier": 15,
+        "percentStatBonus": {
+            "gold": 25
+        },
+        "requiredBuilding": "Market",
+        "requiredTech": "Banking"
+    },
+    {
+        "name": "Constabulary",
+        "cost": 160,
+        "maintenance": 1,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Only available <when espionage is enabled>",
+            "[-25]% enemy spy effectiveness [in this city]"
+        ],
+        "requiredTech": "Banking"
+    },
+    {
+        "name": "Convict Penitentiary",
+        "replaces": "Constabulary",
+        "uniqueTo": "Australia",
+        "cost": 120,
+        "gold": 1,
+        "production": 1,
+        "hurryCostModifier": 25,
+        "percentStatBonus": {
+            "gold": 5,
+            "production": 5
+        },
+        "uniques": [
+            "Only available <when espionage is enabled>",
+            "[-25]% enemy spy effectiveness [in this city]"
+        ],
+        "requiredTech": "Machinery"
+    },
+    {
+        "name": "Grocer",
+        "maintenance": 1,
+        "requiredNearbyImprovedResources": [
+            "Citrus",
+            "Olives",
+            "Truffles",
+            "Cocoa",
+            "Spices",
+            "Coconut"
+        ],
+        "cost": 100,
+        "food": 1,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+1 Food] from [Truffles] tiles [in this city]",
+            "[+1 Food] from [Spices] tiles [in this city]",
+            "[+1 Food] from [Cocoa] tiles [in this city]",
+            "[+1 Food] from [Olives] tiles [in this city]",
+            "[+1 Food] from [Citrus] tiles [in this city]",
+            "[+1 Food] from [Coconut] tiles [in this city]"
+        ],
+        "requiredTech": "Banking"
+    },
+    {
+        "name": "Forbidden Palace",
+        "culture": 1,
+        "isWonder": true,
+        "uniques": [
+            "[-10]% Unhappiness from [Population] [in all cities]",
+            "Only available <after adopting [Patronage]>"
+        ],
+        "requiredTech": "Banking",
+        "quote": "'Most of us can, as we choose, make of this world either a palace or a prison' - John Lubbock"
+    },
+    {
+        "name": "Zoo",
+        "cost": 180,
+        "happiness": 2,
+        "hurryCostModifier": 10,
+        "maintenance": 2,
+        "requiredBuilding": "Colosseum",
+        "requiredTech": "Printing Press"
+    },
+    {
+        "name": "National Church",
+        "replaces": "Zoo",
+        "uniqueTo": "Philippines",
+        "cost": 150,
+        "happiness": 2,
+        "faith": 2,
+        "culture": 1,
+        "hurryCostModifier": 10,
+        "maintenance": 2,
+        "requiredTech": "Compass",
+        "uniques": ["New [Military] units start with [15] XP [in this city]"]
+    },
+    {
+        "name": "Stade",
+        "replaces": "Zoo",
+        "uniqueTo": "Belgium",
+        "cost": 150,
+        "happiness": 3,
+        "gold": 1,
+        "culture": 1,
+        "hurryCostModifier": 10,
+        "requiredTech": "Printing Press"
+    },
+    {
+        "name": "Irish Pub",
+        "replaces": "Zoo",
+        "uniqueTo": "Ireland",
+        "cost": 180,
+        "happiness": 2,
+        "food": 3,
+        "hurryCostModifier": 10,
+        "requiredBuilding": "Colosseum",
+        "uniques": [
+            "[+1 Production] from [Coffee] tiles [in this city]",
+            "[+1 Production] from [Wine] tiles [in this city]",
+            "[+1 Production] from [Tea] tiles [in this city]"
+        ],
+        "requiredTech": "Printing Press"
+    },
+    {
+        "name": "Leaning Tower of Pisa",
+        "culture": 1,
+        "isWonder": true,
+        "uniques": ["[+25]% Great Person generation [in all cities]"],
+        "requiredTech": "Printing Press",
+        "quote": "'Don't clap too hard - it's a very old building.' - John Osbourne"
+    },
+    {
+        "name": "Globe Theatre",
+        "culture": 2,
+        "isWonder": true,
+        "greatPersonPoints": {
+            "Great Writer": 1
+        },
+        "uniques": [
+            "Free [Great Writer] appears",
+            "Comment [Has [2] Great Work of Writing Slots]"
+        ],
+        "requiredTech": "Printing Press",
+        "quote": "'Totus mundus agit histrionem.' - Inscription above main entrance to the Globe Theatre"
+    },
+    {
+        "name": "Globe Theatre Great Writing Slot 1",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Writing",
+        "uniques": [
+            "Great Work",
+            "GW Writing",
+            "Only available <in cities with a [Globe Theatre]>",
+            "Provides [1] [Great Work of Writing]",
+            "Instantly consumes [1] [Great Work of Writing]",
+            "[+1 Culture] <in cities with a [Globe Theatre Great Writing Slot 2]>"
+        ]
+    },
+    {
+        "name": "Globe Theatre Great Writing Slot 2",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Writing",
+        "uniques": [
+            "Great Work",
+            "GW Writing",
+            "Only available <in cities with a [Globe Theatre]>",
+            "Provides [1] [Great Work of Writing]",
+            "Instantly consumes [1] [Great Work of Writing]",
+            "[+1 Culture] <in cities with a [Globe Theatre Great Writing Slot 1]>"
+        ]
+    },
+    {
+        "name": "Himeji Castle",
+        "culture": 3,
+        "isWonder": true,
+        "greatPersonPoints": {
+            "Great Engineer": 2
+        },
+        "uniques": [
+            "[+25]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+            "Gain a free [Castle] [in this city]"
+        ],
+        "requiredTech": "Gunpowder",
+        "quote": "'Bushido is realized in the presence of death. This means choosing death whenever there is a choice between life and death. There is no other reasoning.' - Yamamoto Tsunetomo"
+    },
+    // Column 8
+    {
+        "name": "Seaport",
+        "hurryCostModifier": 25,
+        "maintenance": 3,
+        "requiredBuilding": "Harbor",
+        "uniques": [
+            "[+1 Production, +1 Gold] from [Water resource] tiles [in this city]",
+            "Must be next to [Coast]",
+            "[+15]% Production when constructing [Water] units [in this city]"
+        ],
+        "requiredTech": "Navigation"
+    },
+    //    {
+    //        "name": "Arsenal of Venice",
+    //        "cost": 500,
+    //        "culture": 3,
+    //        "greatPersonPoints": {"Great Engineer": 2},
+    //        "cityStrength": 5,
+    //        "cityHealth": 25,
+    //        "isWonder": true,
+    //        "uniques": [
+    //            "Must be next to [Coast]",
+    //        ],
+    //        "requiredTech": "Navigation"
+    //    },
+    //TODO: reuired new uniq
+    //Naval Units in the city are 33% more expensive to construct
+    //Provides a second naval unit for each Naval Unit built with Production in the city
+    {
+        "name": "Hermitage",
+        "cost": 125,
+        "percentStatBonus": {
+            "culture": 55
+        },
+        "culture": 6,
+        "isNationalWonder": true,
+        "uniques": [
+            "Only available <if [Opera House] is constructed in this City>",
+            "Cost increases by [30] per owned city",
+            "Comment [Has [3] Great Work of Art Slots]"
+        ],
+        "requiredTech": "Architecture"
+    },
+    {
+        "name": "Hermitage Great Art Slot 1",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Art",
+        "uniques": [
+            "Great Work",
+            "GW Art",
+            "Only available <in cities with a [Hermitage]>",
+            "Provides [1] [Great Work of Art]",
+            "Instantly consumes [1] [Great Work of Art]",
+            "[+1 Culture] <in cities with a [Hermitage Great Art Slot 2]> <in cities with a [Hermitage Great Art Slot 3]>"
+        ]
+    },
+    {
+        "name": "Hermitage Great Art Slot 2",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Art",
+        "uniques": [
+            "Great Work",
+            "GW Art",
+            "Only available <in cities with a [Hermitage]>",
+            "Provides [1] [Great Work of Art]",
+            "Instantly consumes [1] [Great Work of Art]",
+            "[+1 Culture] <in cities with a [Hermitage Great Art Slot 1]> <in cities with a [Hermitage Great Art Slot 3]>"
+        ]
+    },
+    {
+        "name": "Hermitage Great Art Slot 3",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Art",
+        "uniques": [
+            "Great Work",
+            "GW Art",
+            "Only available <in cities with a [Hermitage]>",
+            "Provides [1] [Great Work of Art]",
+            "Instantly consumes [1] [Great Work of Art]",
+            "[+1 Culture] <in cities with a [Hermitage Great Art Slot 1]> <in cities with a [Hermitage Great Art Slot 2]>"
+        ]
+    },
+    {
+        "name": "Mysore Palace",
+        "uniqueTo": "Mysore",
+        "replaces": "Hermitage",
+        "cost": 125,
+        "percentStatBonus": {
+            "culture": 50
+        },
+        "culture": 5,
+        "production": 3,
+        "science": 3,
+        "gold": 3,
+        "isNationalWonder": true,
+        "uniques": [
+            "Only available <if [Walls] is constructed in all [non-[Puppeted]] cities>",
+            "Cost increases by [30] per owned city",
+            "Empire enters golden age"
+        ],
+        "requiredTech": "Chivalry"
+    },
+    {
+        "name": "Taj Mahal",
+        "culture": 3,
+        "happiness": 4,
+        "isWonder": true,
+        "uniques": ["Empire enters golden age"],
+        "requiredTech": "Architecture",
+        "quote": "'The Taj Mahal rises above the banks of the river like a solitary tear suspended on the cheek of time.' - Rabindranath Tagore"
+    },
+    {
+        "name": "Porcelain Tower",
+        "culture": 1,
+        "greatPersonPoints": {
+            "Great Scientist": 2
+        },
+        "isWonder": true,
+        "uniques": [
+            "[+3 Science, +3 Culture] from [Luxury resource] tiles [in all cities]",
+            "Only available <after adopting [Rationalism]>"
+        ],
+        "requiredTech": "Architecture",
+        "quote": "'Things always seem fairer when we look back at them, and it is out of that inaccessible tower' - James Russell Lowell"
+    },
+    {
+        "name": "Uffizi",
+        "culture": 2,
+        "isWonder": true,
+        "uniques": [
+            "Free [Great Artist] appears",
+            "Only available <after adopting [Aesthetics]>",
+            "Comment [Has [3] Great Work of Art Slots]"
+        ],
+        "requiredTech": "Architecture",
+        "quote": "'The painter is not simply someone who looks and who sees. Above all, the artist is someone who exposes a personal vision by rendering it visible.' - Marcel Paquet"
+    },
+    {
+        "name": "Uffizi Great Art Slot 1",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Art",
+        "uniques": [
+            "Great Work",
+            "GW Art",
+            "Only available <in cities with a [Uffizi]>",
+            "Provides [1] [Great Work of Art]",
+            "Instantly consumes [1] [Great Work of Art]",
+            "[+1 Culture] <in cities with a [Uffizi Great Art Slot 2]> <in cities with a [Uffizi Great Art Slot 3]>"
+        ]
+    },
+    {
+        "name": "Uffizi Great Art Slot 2",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Art",
+        "uniques": [
+            "Great Work",
+            "GW Art",
+            "Only available <in cities with a [Uffizi]>",
+            "Provides [1] [Great Work of Art]",
+            "Instantly consumes [1] [Great Work of Art]",
+            "[+1 Culture] <in cities with a [Uffizi Great Art Slot 1]> <in cities with a [Uffizi Great Art Slot 3]>"
+        ]
+    },
+    {
+        "name": "Uffizi Great Art Slot 3",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Art",
+        "uniques": [
+            "Great Work",
+            "GW Art",
+            "Only available <in cities with a [Uffizi]>",
+            "Provides [1] [Great Work of Art]",
+            "Instantly consumes [1] [Great Work of Art]",
+            "[+1 Culture] <in cities with a [Uffizi Great Art Slot 2]> <in cities with a [Uffizi Great Art Slot 1]>"
+        ]
+    },
+    {
+        "name": "Windmill",
+        "production": 2,
+        "specialistSlots": {
+            "Engineer": 1
+        },
+        "hurryCostModifier": 25,
+        "maintenance": 2,
+        "uniques": [
+            "[+15]% Production when constructing [All] buildings [in this city]",
+            "[+1 Production] from [Oasis] tiles [in this city]",
+            "[+1 Production] from [Lakes] tiles [in this city]"
+        ],
+        "requiredTech": "Economics"
+    },
+    {
+        "name": "Coffee House",
+        "replaces": "Windmill",
+        "uniqueTo": "Austria",
+        "cost": 150,
+        "production": 2,
+        "percentStatBonus": {
+            "production": 5
+        },
+        "specialistSlots": {
+            "Engineer": 1
+        },
+        "hurryCostModifier": 25,
+        "maintenance": 2,
+        "uniques": [
+            "[+20]% Great Person generation [in this city]",
+            "[+1 Production] from [Oasis] tiles [in this city]",
+            "[+1 Production] from [Lakes] tiles [in this city]"
+        ],
+        "requiredTech": "Printing Press"
+    },
+    {
+        "name": "Hacienda",
+        "replaces": "Windmill",
+        "uniqueTo": "Mexico",
+        "production": 2,
+        "specialistSlots": {
+            "Engineer": 1
+        },
+        "hurryCostModifier": 25,
+        "maintenance": 2,
+        "uniques": [
+            "[+15]% Production when constructing [All] buildings [in this city]",
+            "[+1 Production] from [Oasis] tiles [in this city]",
+            "[+1 Production] from [Lakes] tiles [in this city]",
+            "[+1 Gold] from [Bonus resource] tiles [in this city]",
+            "[+1 Food] from [Strategic resource] tiles [in this city]",
+            "[+1 Production] from [Luxury resource] tiles [in this city]"
+        ],
+        "requiredTech": "Economics"
+    },
+    {
+        "name": "Textile Mill",
+        "cost": 100,
+        "production": 1,
+        "maintenance": 2,
+        "requiredNearbyImprovedResources": ["Cotton", "Silk", "Dyes", "Furs"],
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+2 Production] from [Dyes] tiles [in this city]",
+            "[+2 Production] from [Furs] tiles [in this city]",
+            "[+2 Production] from [Cotton] tiles [in this city]",
+            "[+2 Production] from [Silk] tiles [in this city]"
+        ],
+        "requiredTech": "Economics"
+    },
+    {
+        "name": "Arsenal",
+        "cost": 300,
+        "cityStrength": 9,
+        "cityHealth": 25,
+        "hurryCostModifier": 25,
+        "requiredBuilding": "Castle",
+        "requiredTech": "Metallurgy",
+        "uniques": ["Destroyed when the city is captured"]
+    },
+    {
+        "name": "Red Fort",
+        "happiness": 4,
+        "culture": 8,
+        "cityStrength": 12,
+        "greatPersonPoints": {
+            "Great Scientist": 1
+        },
+        "isWonder": true,
+        "uniques": ["[+45]% City Strength from defensive buildings"],
+        "requiredTech": "Metallurgy",
+        "quote": "'When we build, let us think that we build forever.' - John Ruskin"
+    },
+
+    // Industrial Era
+    // Column 9
+    {
+        "name": "Arms-Factory",
+        "uniqueTo": "The United States of America",
+        "production": 3,
+        "maintenance": 2,
+        "cost": 150,
+        "specialistSlots": {
+            "Engineer": 1
+        },
+        "uniques": [
+            "[+2 Production] from [Iron] tiles [in this city]",
+            "[+2 Production] from [Manufactory] tiles [in this city]",
+            "[+2 Gold] from [Iron] tiles [in this city]",
+            "[+2 Gold] from [Manufactory] tiles [in this city]",
+            "[+20]% Production when constructing [Military] units [in this city]"
+        ],
+        "requiredTech": "Industrialization"
+    },
+    {
+        "name": "Proto-Factory",
+        "uniqueTo": "The United States of America",
+        "production": 4,
+        "gold": 4,
+        "maintenance": 2,
+        "cost": 150,
+        "specialistSlots": {
+            "Engineer": 1
+        },
+        "uniques": [
+            "[+2 Production] from [Manufactory] tiles [in this city]",
+            "[+2 Gold] from [Manufactory] tiles [in this city]"
+        ],
+        "requiredTech": "Industrialization"
+    },
+    {
+        "name": "Museum",
+        "culture": 2,
+        "percentStatBonus": {
+            "culture": 10
+        },
+        "requiredBuilding": "Amphitheater",
+        "maintenance": 3,
+        "hurryCostModifier": 0,
+        "requiredTech": "Archaeology",
+        "uniques": [
+            "Destroyed when the city is captured",
+            "Comment [Has [2] Great Work of Art Slots]"
+        ]
+    },
+    {
+        "name": "Museum Great Art Slot 1",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Art",
+        "uniques": [
+            "Great Work",
+            "GW Art",
+            "Only available <in cities with a [Museum]>",
+            "Provides [1] [Great Work of Art]",
+            "Instantly consumes [1] [Great Work of Art]",
+            "[+1 Culture] <in cities with a [Museum Great Art Slot 2]>"
+        ]
+    },
+    {
+        "name": "Museum Great Art Slot 2",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Art",
+        "uniques": [
+            "Great Work",
+            "GW Art",
+            "Only available <in cities with a [Museum]>",
+            "Provides [1] [Great Work of Art]",
+            "Instantly consumes [1] [Great Work of Art]",
+            "[+1 Culture] <in cities with a [Museum Great Art Slot 1]>"
+        ]
+    },
+    {
+        "name": "Basilica",
+        "replaces": "Museum",
+        "uniqueTo": "Italy",
+        "culture": 2,
+        "percentStatBonus": {
+            "culture": 10
+        },
+        "specialistSlots": {
+            "Artist": 2
+        },
+        "greatPersonPoints": {
+            "Great Artist": 2
+        },
+        "maintenance": 3,
+        "hurryCostModifier": 0,
+        "requiredTech": "Industrialization",
+        "uniques": [
+            "Destroyed when the city is captured",
+            "[+20]% Great Person generation [in this city]",
+            "Comment [Has [2] Great Work of Art Slots]"
+        ]
+    },
+    {
+        "name": "Spomenik",
+        "replaces": "Museum",
+        "uniqueTo": "Yugoslavia",
+        "culture": 2,
+        "percentStatBonus": {
+            "science": 20,
+            "culture": 10
+        },
+        "requiredBuilding": "Amphitheater",
+        "maintenance": 3,
+        "hurryCostModifier": 0,
+        "requiredTech": "Archaeology",
+        "uniques": [
+            "Destroyed when the city is captured",
+            "Comment [Has [2] Great Work of Art Slots]"
+        ]
+    },
+    {
+        "name": "The Louvre",
+        "culture": 2,
+        "isWonder": true,
+        "uniques": [
+            "Instantly provides [2] [Great Work of Art]",
+            "Comment [Has [4] Great Work of Art Slots]"
+        ],
+        "requiredTech": "Archaeology",
+        "quote": "'Every genuine work of art has as much reason for being as the earth and the sun' - Ralph Waldo Emerson"
+    },
+    {
+        "name": "Louvre Great Art Slot 1",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Art",
+        "uniques": [
+            "Great Work",
+            "GW Art",
+            "Only available <in cities with a [The Louvre]>",
+            "Provides [1] [Great Work of Art]",
+            "Instantly consumes [1] [Great Work of Art]",
+            "[+1 Culture] <in cities with a [Louvre Great Art Slot 2]> <in cities with a [Louvre Great Art Slot 3]> <in cities with a [Louvre Great Art Slot 4]>"
+        ]
+    },
+    {
+        "name": "Louvre Great Art Slot 2",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Art",
+        "uniques": [
+            "Great Work",
+            "GW Art",
+            "Only available <in cities with a [The Louvre]>",
+            "Provides [1] [Great Work of Art]",
+            "Instantly consumes [1] [Great Work of Art]",
+            "[+1 Culture] <in cities with a [Louvre Great Art Slot 1]> <in cities with a [Louvre Great Art Slot 3]> <in cities with a [Louvre Great Art Slot 4]>"
+        ]
+    },
+    {
+        "name": "Louvre Great Art Slot 3",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Art",
+        "uniques": [
+            "Great Work",
+            "GW Art",
+            "Only available <in cities with a [The Louvre]>",
+            "Provides [1] [Great Work of Art]",
+            "Instantly consumes [1] [Great Work of Art]",
+            "[+1 Culture] <in cities with a [Louvre Great Art Slot 2]> <in cities with a [Louvre Great Art Slot 1]> <in cities with a [Louvre Great Art Slot 4]>"
+        ]
+    },
+    {
+        "name": "Louvre Great Art Slot 4",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Art",
+        "uniques": [
+            "Great Work",
+            "GW Art",
+            "Only available <in cities with a [The Louvre]>",
+            "Provides [1] [Great Work of Art]",
+            "Instantly consumes [1] [Great Work of Art]",
+            "[+1 Culture] <in cities with a [Louvre Great Art Slot 2]> <in cities with a [Louvre Great Art Slot 3]> <in cities with a [Louvre Great Art Slot 1]>"
+        ]
+    },
+    {
+        "name": "Public School",
+        "science": 3,
+        "specialistSlots": {
+            "Scientist": 1
+        },
+        "requiredBuilding": "University",
+        "maintenance": 3,
+        "hurryCostModifier": 0,
+        "uniques": [
+            "[+1 Science] per [2] population [in this city]",
+            "[+3 Science] from [Forest] tiles [in this city]"
+        ],
+        "requiredTech": "Scientific Theory"
+    },
+    {
+        "name": "Military Research Bureau",
+        "cost": 125,
+        "science": 4,
+        "isNationalWonder": true,
+        "requiredTech": "Scientific Theory",
+        "uniques": [
+            "Destroyed when the city is captured",
+            "Cost increases by [30] per owned city",
+            "Provides [2] [Secret Project]"
+        ]
+    },
+    {
+        "name": "Halkevleri",
+        "replaces": "Public School",
+        "uniqueTo": "Turkey",
+        "cost": 240,
+        "science": 3,
+        "culture": 3,
+        "specialistSlots": {
+            "Scientist": 1
+        },
+        "requiredBuilding": "University",
+        "maintenance": 3,
+        "hurryCostModifier": 0,
+        "uniques": [
+            "[+1 Science] per [2] population [in this city]",
+            "[+3 Science] from [Forest] tiles [in this city]"
+        ],
+        "requiredTech": "Scientific Theory"
+    },
+    {
+        "name": "Factory",
+        "cost": 360,
+        "production": 5,
+        "percentStatBonus": {
+            "production": 15
+        },
+        "specialistSlots": {
+            "Engineer": 2
+        },
+        "requiredBuilding": "Workshop",
+        "maintenance": 3,
+        "hurryCostModifier": 0,
+        "requiredResource": "Coal",
+        "uniques": [
+            "Provides [1] [Factories]",
+            "Adopt [Ideology] <when above [2] [Factories]>",
+            "[+2 Gold] from [Rubber] tiles [in this city]"
+        ],
+        "requiredTech": "Industrialization"
+    },
+    {
+        "name": "Fabrik",
+        "uniqueTo": "Prussia",
+        "replaces": "Factory",
+        "cost": 240,
+        "production": 5,
+        "percentStatBonus": {
+            "production": 15
+        },
+        "specialistSlots": {
+            "Engineer": 2
+        },
+        "requiredBuilding": "Workshop",
+        "maintenance": 3,
+        "hurryCostModifier": 0,
+        "uniques": [
+            "Provides [1] [Factories]",
+            "Adopt [Ideology] <when above [2] [Factories]>",
+            "[+2 Gold] from [Rubber] tiles [in this city]"
+        ],
+        "requiredTech": "Industrialization"
+    },
+    {
+        "name": "Cooperation",
+        "uniqueTo": "Chile",
+        "replaces": "Factory",
+        "happiness": 2,
+        "cost": 360,
+        "production": 5,
+        "percentStatBonus": {
+            "production": 15
+        },
+        "specialistSlots": {
+            "Engineer": 3
+        },
+        "requiredBuilding": "Workshop",
+        "maintenance": 0,
+        "hurryCostModifier": 0,
+        "uniques": [
+            "Provides [1] [Factories]",
+            "Adopt [Ideology]",
+            "[+2 Gold] from [Rubber] tiles [in this city]"
+        ],
+        "requiredTech": "Industrialization"
+    },
+    {
+        "name": "Center of Progress",
+        "cost": 0,
+        "uniques": [
+            "Can be purchased with [Gold] [in all cities]",
+            "Only available <if [Factory] is constructed in all [non-[Puppeted]] cities>",
+            "Adopt [Ideology]",
+            "Automatically built in all cities where it is buildable",
+            "Only available <in [Capital] cities>"
+        ],
+        "requiredTech": "Industrialization"
+    },
+    {
+        "name": "Big Ben",
+        "culture": 1,
+        "gold": 4,
+        "greatPersonPoints": {
+            "Great Merchant": 2
+        },
+        "isWonder": true,
+        "uniques": [
+            "[Gold] cost of purchasing items in cities [-15]%",
+            "Only available <after adopting [Commerce]>"
+        ],
+        "requiredTech": "Industrialization",
+        "quote": "'To achieve great things, two things are needed: a plan, and not quite enough time.' - Leonard Bernstein"
+    },
+    {
+        "name": "Neuschwanstein",
+        "happiness": 2,
+        "culture": 4,
+        "gold": 6,
+        "greatPersonPoints": {
+            "Great Merchant": 1
+        },
+        "isWonder": true,
+        "uniques": [
+            "[+1 Happiness, +2 Culture, +3 Gold] from every [Castle]",
+            "Must have an owned [Mountain] within [3] tiles"
+        ],
+        "requiredTech": "Rifling",
+        "quote": "'...the location is one of the most beautiful to be found, holy and unapproachable, a worthy temple for the divine friend who has brought salvation and true blessing to the world.' - King Ludwig II of Bavaria"
+    },
+    {
+        "name": "Military Academy",
+        "hurryCostModifier": 0,
+        "maintenance": 1,
+        "requiredBuilding": "Armory",
+        "uniques": [
+            "New [Military] units start with [20] XP [in this city]",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Military Science"
+    },
+    {
+        "name": "US Air Force Academy",
+        "replaces": "Military Academy",
+        "uniqueTo": "The United States of America",
+        "cost": 300,
+        "maintenance": 1,
+        "uniques": [
+            "New [Military] units start with [25] Experience [in this city]",
+            "Destroyed when the city is captured"
+        ],
+        "requiredTech": "Military Science"
+    },
+    {
+        "name": "Brandenburg Gate",
+        "culture": 3,
+        "greatPersonPoints": {
+            "Great Scientist": 2
+        },
+        "isWonder": true,
+        "uniques": [
+            "Free [Great General] appears",
+            "New [Military] units start with [35] XP [in all cities]"
+        ],
+        "requiredTech": "Military Science",
+        "quote": "'Pale Death beats equally at the poor man's gate and at the palaces of kings.' - Horace"
+    },
+    // Column 10
+    {
+        "name": "Hospital",
+        "food": 5,
+        "requiredBuilding": "Aqueduct",
+        "maintenance": 2,
+        "hurryCostModifier": 0,
+        "requiredTech": "Biology"
+    },
+    {
+        "name": "Biofuel Plant",
+        "maintenance": 3,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Provides [5] [Coal]",
+            "Provides [5] [Oil]",
+            "Only available <in cities with a [Stable]>"
+        ],
+        "requiredBuilding": "Stable",
+        "requiredResource": "Horses",
+        "requiredTech": "Biology"
+    },
+    {
+        "name": "Oil Refinery",
+        "requiredNearbyImprovedResources": ["Oil"],
+        "cost": 200,
+        "hurryCostModifier": 25,
+        "uniques": ["[+3 Production, +3 Gold] from [Oil] tiles [in this city]"],
+        "requiredTech": "Biology"
+    },
+    {
+        "name": "BMPC Plant",
+        "replaces": "Oil Refinery",
+        "uniqueTo": "Brunei",
+        "gold": 3,
+        "production": 5,
+        "cost": 200,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+3 Production, +3 Gold] from [Oil] tiles [in this city]",
+            "Provides [2] [Oil]"
+        ],
+        "requiredTech": "Biology"
+    },
+    {
+        "name": "Stock Exchange",
+        "gold": 3,
+        "percentStatBonus": {
+            "gold": 25
+        },
+        "specialistSlots": {
+            "Merchant": 2
+        },
+        "hurryCostModifier": 15,
+        "requiredBuilding": "Bank",
+        "requiredTech": "Electricity"
+    },
+    {
+        "name": "Tim Hortons",
+        "uniqueTo": "Canada",
+        "replaces": "Stock Exchange",
+        "cost": 300,
+        "gold": 3,
+        "happiness": 2,
+        "percentStatBonus": {
+            "gold": 25
+        },
+        "specialistSlots": {
+            "Merchant": 2
+        },
+        "hurryCostModifier": 15,
+        "requiredBuilding": "Bank",
+        "uniques": ["[+1 Gold] from [River] tiles [in this city]"],
+        "requiredTech": "Electricity"
+    },
+    {
+        "name": "Hydro Plant",
+        "requiredResource": "Aluminum",
+        "hurryCostModifier": 0,
+        "maintenance": 3,
+        "uniques": [
+            "Must be on [River]",
+            "[+3 Production] from [River] tiles [in this city]"
+        ],
+        "requiredTech": "Electricity"
+    },
+    {
+        "name": "Police Station",
+        "cost": 300,
+        "maintenance": 1,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Only available <when espionage is enabled>",
+            "[-25]% enemy spy effectiveness [in this city]"
+        ],
+        "requiredBuilding": "Constabulary",
+        "requiredTech": "Electricity"
+    },
+    {
+        "name": "Wall street",
+        "culture": 1,
+        "gold": 10,
+        "percentStatBonus": { "gold": 30 },
+        "greatPersonPoints": { "Great Merchant": 2 },
+        "specialistSlots": { "Merchant": 1 },
+        "isWonder": true,
+        "requiredTech": "Electricity",
+        "uniques": ["Gain a free [Stock Exchange] [in this city]"],
+        "quote": "'Greed, for lack of a better word, is good.'— Gordon Gekko"
+    },
+
+    // Modern Era
+    // Column 11
+    {
+        "name": "Stadium",
+        "happiness": 2,
+        "requiredBuilding": "Zoo",
+        "maintenance": 2,
+        "requiredTech": "Refrigeration"
+    },
+    {
+        "name": "Ski Resort",
+        "replaces": "Stadium",
+        "uniqueTo": "Switzerland",
+        "happiness": 3,
+        "culture": 3,
+        "cost": 250,
+        "uniques": ["[+2 Gold] from [Mountain] tiles [in this city]"],
+        "requiredTech": "Electricity"
+    },
+    /*{
+        "name": "Hotel",
+        "cost": 300,
+        "culture": 1,
+        "maintenance": 5,
+        "hurryCostModifier": 25,
+        "requiredTech": "Refrigeration",
+        "uniques": ["[+1 Culture] from [Oasis] tiles [in this city]","[+1 Culture] from [Lakes] tiles [in this city]","[+1 Culture] from every [Great Work] <in this city>","[+25]% [Culture] from every [Improvement] <in this city>"]
+    },*/
+    {
+        "name": "Broadcast Tower",
+        "culture": 2,
+        "percentStatBonus": {
+            "culture": 15
+        },
+        "requiredBuilding": "Opera House",
+        "maintenance": 3,
+        "requiredTech": "Radio",
+        "uniques": [
+            "Destroyed when the city is captured",
+            "Comment [Has 1 Great Work of Music Slot]"
+        ]
+    },
+    {
+        "name": "Communication Tower",
+        "replaces": "Broadcast Tower",
+        "culture": 2,
+        "science": 1,
+        "requiredBuilding": "Opera House",
+        "maintenance": 4,
+        "requiredTech": "Radio",
+        "uniqueTo": "The United States of America",
+        "uniques": [
+            "New [Military] units start with [15] XP [in this city]",
+            "Destroyed when the city is captured",
+            "Comment [Has 1 Great Work of Music Slot]"
+        ]
+    },
+    {
+        "name": "Broadcast Tower Great Music Slot",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Music",
+        "uniques": [
+            "Great Work",
+            "GW Music",
+            "Only available <in cities with a [Broadcast Tower]>",
+            "Provides [1] [Great Work of Music]",
+            "Instantly consumes [1] [Great Work of Music]"
+        ]
+    },
+    {
+        "name": "Eiffel Tower",
+        "culture": 1,
+        "happiness": 5,
+        "greatPersonPoints": {
+            "Great Merchant": 2
+        },
+        "isWonder": true,
+        "uniques": ["Gain a free [Broadcast Tower] [in this city]"],
+        "requiredTech": "Radio",
+        "quote": "'We live only to discover beauty, all else is a form of waiting' - Kahlil Gibran"
+    },
+    {
+        "name": "Broadway",
+        "culture": 2,
+        "isWonder": true,
+        "greatPersonPoints": {
+            "Great Musician": 1
+        },
+        "uniques": [
+            "Free [Great Musician] appears",
+            "Comment [Has [3] Great Work of Music Slots]"
+        ],
+        "requiredTech": "Radio",
+        "quote": "'Broadway is a main artery of New York cultural life - the hardened artery.' - Walter Winchell"
+    },
+    {
+        "name": "Broadway Great Music Slot 1",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Music",
+        "uniques": [
+            "Great Work",
+            "GW Music",
+            "Only available <in cities with a [Broadway]>",
+            "Provides [1] [Great Work of Music]",
+            "Instantly consumes [1] [Great Work of Music]",
+            "[+1 Culture] <in cities with a [Broadway Great Music Slot 2]> <in cities with a [Broadway Great Music Slot 3]>"
+        ]
+    },
+    {
+        "name": "Broadway Great Music Slot 2",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Music",
+        "uniques": [
+            "Great Work",
+            "GW Music",
+            "Only available <in cities with a [Broadway]>",
+            "Provides [1] [Great Work of Music]",
+            "Instantly consumes [1] [Great Work of Music]",
+            "[+1 Culture] <in cities with a [Broadway Great Music Slot 1]> <in cities with a [Broadway Great Music Slot 3]>"
+        ]
+    },
+    {
+        "name": "Broadway Great Music Slot 3",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Music",
+        "uniques": [
+            "Great Work",
+            "GW Music",
+            "Only available <in cities with a [Broadway]>",
+            "Provides [1] [Great Work of Music]",
+            "Instantly consumes [1] [Great Work of Music]",
+            "[+1 Culture] <in cities with a [Broadway Great Music Slot 2]> <in cities with a [Broadway Great Music Slot 1]>"
+        ]
+    },
+    {
+        "name": "National Intelligence Agency",
+        "cost": 120,
+        "culture": 1,
+        "isNationalWonder": true,
+        "uniques": [
+            "Only available <when espionage is enabled>",
+            "Gain an extra spy",
+            "Promotes all spies [1] time(s)",
+            "[-25]% enemy spy effectiveness [in all cities]",
+            "Only available <if [Constabulary] is constructed in this City>",
+            "Cost increases by [30] per owned city"
+        ],
+        "requiredTech": "Radio"
+    },
+    {
+        "name": "Military Base",
+        "cityStrength": 12,
+        "cityHealth": 25,
+        "hurryCostModifier": 25,
+        "requiredBuilding": "Arsenal",
+        "requiredTech": "Replaceable Parts",
+        "uniques": ["Destroyed when the city is captured"]
+    },
+    {
+        "name": "Coastal Artillery",
+        "cost": 400,
+        "cityStrength": 9,
+        "cityHealth": 25,
+        "hurryCostModifier": 25,
+        "maintenance": 2,
+        "requiredBuilding": "Castle",
+        "requiredTech": "Replaceable Parts",
+        "requiredResource": "",
+        "uniques": [
+            "Destroyed when the city is captured",
+            "May buy [Coastal Barrage] units with [Gold] for [1] times their normal Production cost [in this city]"
+        ]
+    },
+    {
+        "name": "Statue of Liberty",
+        "culture": 1,
+        "happiness": 6,
+        "isWonder": true,
+        "uniques": [
+            "[+6] population [in all cities]",
+            "Free Social Policy",
+            "Only available <after adopting [Freedom]>"
+        ],
+        "requiredTech": "Replaceable Parts",
+        "quote": "'Give me your tired, your poor, your huddled masses yearning to breathe free, the wretched refuse of your teeming shore. Send these, the homeless, tempest-tossed to me, I lift my lamp beside the golden door!' - Emma Lazarus"
+    },
+    {
+        "name": "Prora",
+        "happiness": 1,
+        "isWonder": true,
+        "uniques": [
+            "Free Social Policy",
+            "Only available <after adopting [Autocracy]>",
+            "[+1 Happiness] per [2] social policies adopted"
+        ],
+        "requiredTech": "Flight",
+        "quote": "'This loss (of freedom) means the fading from human life of values infinitely precious to it. There only remain ironbound conditions of employment and trivial amusements for leisure.' - A.N. Whitehead"
+    },
+    {
+        "name": "Kremlin",
+        "culture": 1,
+        "isWonder": true,
+        "uniques": [
+            "[+60]% Production when constructing [Armored] units [in all cities]",
+            "Free Social Policy",
+            "Only available <after adopting [Order]>"
+        ],
+        "requiredTech": "Railroads",
+        "quote": "'The Law is a fortress on a hill that armies cannot take or floods wash away.' - The Prophet Muhammed"
+    },
+    {
+        "name": "Panama Canal",
+        "gold": 3,
+        "culture": 1,
+        "greatPersonPoints": {
+            "Great Merchant": 2
+        },
+        "isWonder": true,
+        "uniques": [
+            "Must be next to [Coast]",
+            "Free [Great Merchant] appears",
+            "[+5 Gold] from [Sea Trade Route (Gold)] tiles [in this city]"
+        ],
+        "requiredTech": "Railroads"
+    },
+    // Column 12
+    {
+        "name": "Research Lab",
+        "science": 4,
+        "percentStatBonus": {
+            "science": 50
+        },
+        "specialistSlots": {
+            "Scientist": 1
+        },
+        "requiredBuilding": "Public School",
+        "maintenance": 3,
+        "requiredTech": "Plastics"
+    },
+    {
+        "name": "Military Lab",
+        "replaces": "Research Lab",
+        "requiredTech": "Plastics",
+        "uniqueTo": "The United States of America",
+        "hurryCostModifier": 30,
+        "science": 4,
+        "percentStatBonus": { "science": 50 },
+        "specialistSlots": { "Scientist": 1 },
+        "requiredBuilding": "Public School",
+        "maintenance": 4,
+        "uniques": [
+            "New [Military] units start with [20] Experience [in this city]",
+            "Destroyed when the city is captured"
+        ]
+    },
+    {
+        "name": "Cristo Redentor",
+        "culture": 5,
+        "isWonder": true,
+        "uniques": ["[-27]% Culture cost of adopting new Policies"],
+        "requiredTech": "Plastics",
+        "quote": "'Come to me, all who labor and are heavy burdened, and I will give you rest.' - New Testament, Matthew 11:28"
+    },
+    // Atomic Era
+    // Column 13
+    {
+        "name": "Medical Lab",
+        "requiredBuilding": "Hospital",
+        "maintenance": 3,
+        "requiredTech": "Pharmaceuticals",
+        "uniques": [
+            "[25]% Food is carried over after population increases [in this city]"
+        ]
+    },
+    {
+        "name": "Ore Refinery",
+        "maintenance": 3,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "Provides [5] [Aluminum]",
+            "Provides [5] [Uranium]",
+            "Only available <in cities with a [Forge]>"
+        ],
+        "requiredBuilding": "Forge",
+        "requiredResource": "Iron",
+        "requiredTech": "Atomic Theory"
+    },
+    {
+        "name": "Manhattan Project",
+        "cost": 1000,
+        "isNationalWonder": true,
+        "uniques": [
+            "Enables nuclear weapon",
+            "Triggers a global alert upon completion",
+            "Cannot be hurried"
+        ],
+        "requiredTech": "Atomic Theory"
+    },
+    /*{
+        "name": "Airport",
+        "cost": 400,
+        "maintenance": 5,
+        "hurryCostModifier": 0,
+        "requiredTech": "Radar",
+        "uniques": ["[+1 Culture] from every [Great Work] <in this city>","[+25]% [Culture] from every [Improvement] <in this city>"]
+    },*/
+    {
+        "name": "CN Tower",
+        "isWonder": true,
+        "culture": 1,
+        "greatPersonPoints": {
+            "Great Merchant": 1
+        },
+        "uniques": [
+            "[+5] population [in all cities]",
+            "[+2 Happiness] [in all cities]",
+            "Gain a free [Broadcast Tower] [in this city]"
+        ],
+        "requiredTech": "Radar",
+        "quote": "'Nothing travels faster than light with the possible exception of bad news, which obeys its own special rules.' - Douglas Adams"
+    },
+    {
+        "name": "Pentagon",
+        "isWonder": true,
+        "culture": 1,
+        "greatPersonPoints": {
+            "Great Engineer": 2
+        },
+        "uniques": ["[-40]% Gold cost of upgrading <for [Military] units>"],
+        "requiredTech": "Combined Arms",
+        "quote": "'In preparing for battle I have always found that plans are useless, but planning is indispensable.' - Dwight D. Eisenhower"
+    },
+    // Column 14
+    {
+        "name": "Solar Plant",
+        "production": 5,
+        "percentStatBonus": {
+            "production": 25
+        },
+        "requiredBuilding": "Factory",
+        "maintenance": 3,
+        "requiredTech": "Ecology",
+        "uniques": [
+            "Must be next to [Desert]",
+            "Only available <in cities without a [Nuclear Plant]>"
+        ]
+    },
+    {
+        "name": "Recycling Center",
+        "maintenance": 3,
+        "requiredTech": "Ecology",
+        "uniques": [
+            "Provides [5] [Aluminum]",
+            "Limited to [5] per Civilization"
+        ]
+    },
+    {
+        "name": "Sydney Opera House",
+        "isWonder": true,
+        "percentStatBonus": {
+            "culture": 50
+        },
+        "uniques": [
+            "Free Social Policy",
+            "Comment [Has [2] Great Work of Music Slots]"
+        ],
+        "requiredTech": "Ecology",
+        "quote": "'Those who lose dreaming are lost.' - Australian Aboriginal saying"
+    },
+    {
+        "name": "Sydney Great Music Slot 1",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Music",
+        "uniques": [
+            "Great Work",
+            "GW Music",
+            "Only available <in cities with a [Sydney Opera House]>",
+            "Provides [1] [Great Work of Music]",
+            "Instantly consumes [1] [Great Work of Music]",
+            "[+1 Culture] <in cities with a [Sydney Great Music Slot 2]>"
+        ]
+    },
+    {
+        "name": "Sydney Great Music Slot 2",
+        "culture": 2,
+        "cost": 0,
+        "requiredResource": "Great Work of Music",
+        "uniques": [
+            "Great Work",
+            "GW Music",
+            "Only available <in cities with a [Sydney Opera House]>",
+            "Provides [1] [Great Work of Music]",
+            "Instantly consumes [1] [Great Work of Music]",
+            "[+1 Culture] <in cities with a [Sydney Great Music Slot 1]>"
+        ]
+    },
+    {
+        "name": "Nuclear Plant",
+        "production": 5,
+        "percentStatBonus": {
+            "production": 25
+        },
+        "requiredBuilding": "Factory",
+        "maintenance": 3,
+        "requiredResource": "Uranium",
+        "requiredTech": "Nuclear Fission",
+        "uniques": ["Only available <in cities without a [Solar Plant]>"]
+    },
+    {
+        "name": "Apollo Program",
+        "culture": 1,
+        "science": 177,
+        "Cost": 1000,
+        "isNationalWonder": true,
+        "greatPersonPoints": { "Great Scientist": 1 },
+        "uniques": [
+            "Space Mission",
+            "Triggers a global alert upon completion",
+            "[+68 Science] [in foreign cities]",
+            "Only available <when [Scientific] Victory is enabled>",
+            "Cannot be hurried",
+            "Only available <if [Sputnik Program] is constructed>",
+            "Only available <in cities with at least [30] [Population]>",
+            "Shown while unbuilable"
+        ],
+        "requiredTech": "Satellites"
+    },
+    {
+        "name": "Mars Colonization Program",
+        "culture": 1,
+        "science": 287,
+        "Cost": 2000,
+        "isNationalWonder": true,
+        "greatPersonPoints": { "Great Scientist": 1 },
+        "uniques": [
+            "Space Mission",
+            "Triggers a global alert upon build start",
+            "[+110 Science] [in foreign cities]",
+            "Only available <when [Scientific] Victory is enabled>",
+            "Cannot be hurried",
+            "Only available <if [Apollo Program] is constructed>",
+            "Only available <in cities with at least [35] [Population]>",
+            "Shown while unbuilable"
+        ],
+        "requiredTech": "Nanotechnology"
+    },
+    {
+        "name": "Sputnik Program",
+        "culture": 1,
+        "science": 110,
+        "Cost": 800,
+        "isNationalWonder": true,
+        "greatPersonPoints": { "Great Scientist": 1 },
+        "uniques": [
+            "Space Mission",
+            "Reveals the entire map",
+            "[+42 Science] [in foreign cities]",
+            "Triggers a global alert upon completion",
+            "Cannot be hurried",
+            "Only available <in cities with at least [25] [Population]>",
+            "Shown while unbuilable"
+        ],
+        "requiredTech": "Rocketry"
+    },
+    {
+        "name": "Great Firewall",
+        "isWonder": true,
+        "uniques": [
+            "Only available <when espionage is enabled>",
+            "[-75]% enemy spy effectiveness [in this city]",
+            "[-35]% enemy spy effectiveness [in all cities]"
+        ],
+        "requiredTech": "Computers"
+    },
+    {
+        "name": "Golden Dome System",
+        "cost": 1500,
+        "isNationalWonder": true,
+        "requiredTech": "Lasers",
+        "cityStrength": 30,
+        "cityHealth": 100,
+        "uniques": [
+            "Consumes [1] [Secret Project]",
+            "Will not be displayed in Civilopedia",
+            "Only available <with [Secret Project]>"
+        ]
+    },
+    {
+        "name": "Iron Curtain",
+        "cost": 2000,
+        "isNationalWonder": true,
+        "requiredTech": "Particle Physics",
+        "cityHealth": 200,
+        "uniques": [
+            "Population loss from nuclear attacks [-100]% [in this city]",
+            "Consumes [1] [Secret Project]",
+            "Will not be displayed in Civilopedia",
+            "Only available <with [Secret Project]>",
+            "All newly-trained [Heavy Cavalry] units [in this city] receive the [Iron Curtain Force Field] promotion",
+            "All newly-trained [Light Cavalry] units [in this city] receive the [Iron Curtain Force Field] promotion"
+        ]
+    },
+    {
+        "name": "Skunkworks",
+        "isWonder": true,
+        "science": 6,
+        "production": 6,
+        "isNationalWonder": true,
+        "requiredTech": "Computers",
+        "uniques": ["Provides [3] [Secret Project]"]
+    },
+
+    // Information Era
+    // Column 15
+    {
+        "name": "Bomb Shelter",
+        "cost": 300,
+        "maintenance": 1,
+        "requiredTech": "Telecommunications",
+        "uniques": [
+            "Population loss from nuclear attacks [-80]% [in this city]"
+        ]
+    },
+    /*{
+        "name": "National Visitor's Center",
+        "cost": 400,
+        "isNationalWonder": true,
+        "requiredTech": "Telecommunications",
+        "uniques": ["[+2 Culture] from every [Great Work] <in this city>","[+50]% [Culture] from every [Improvement] <in this city>","Requires a [Hotel] in all cities", "Cost increases by [30] per owned city"]
+    },*/
+    {
+        "name": "Hubble Space Telescope",
+        "science": 10,
+        "isWonder": true,
+        "greatPersonPoints": {
+            "Great Scientist": 3
+        },
+        "uniques": [
+            "[+200]% Production when constructing [Spaceship part] units [in all cities]",
+            "Gain a free [Recycling Center] [in this city]"
+        ],
+        "requiredTech": "Satellites",
+        "quote": "'The wonder is, not that the field of stars is so vast, but that man has measured it.' - Anatole France"
+    },
+    {
+        "name": "Spaceship Factory",
+        "production": 3,
+        "requiredResource": "Aluminum",
+        "cost": 360,
+        "requiredBuilding": "Factory",
+        "uniques": [
+            "[+50]% Production when constructing [Spaceship part] units [in this city]"
+        ],
+        "requiredTech": "Robotics"
+    },
+    // Column 16
+    {
+        "name": "United Nations",
+        "isWonder": true,
+        "culture": 1,
+        "greatPersonPoints": {
+            "Great Merchant": 2
+        },
+        "requiredTech": "Globalization",
+        "uniques": [
+            "Triggers voting for the Diplomatic Victory",
+            "Only available <when [Diplomatic] Victory is enabled>",
+            "Triggers a global alert upon completion"
+        ],
+        "quote": "'More than ever before in human history, we share a common destiny. We can master it only if we face it together. And that is why we have the United Nations.' - Kofi Annan"
+    },
+
+    // All Eras
+    {
+        "name": "Utopia Project",
+        "cost": 1500,
+        "isNationalWonder": true,
+        "uniques": [
+            "Only available <when above [40] [Policies]>",
+            "Triggers a global alert upon build start",
+            "Triggers a Cultural Victory upon completion",
+            "Only available <when [Cultural] Victory is enabled>",
+            "Cannot be hurried"
+        ]
+    }
+]

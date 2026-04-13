@@ -1,0 +1,26 @@
+{
+    "constants":
+    {
+        "maxLakeSize": 5,
+        "riverCountMultiplier": 0.015,
+        "religionLimitBase": 0,
+        "religionLimitMultiplier": 1,
+        "unitSupplyPerPopulation": 10,
+        "pantheonBase": 23,
+        "pantheonGrowth": 0,
+        "tributeGlobalModifier": 50,
+        "tributeLocalModifier": 150,
+        "scoreFromPopulation": 4,
+        "scoreFromWonders": 25,
+        "maxXPfromBarbarians": 10000,
+        "minimalCityDistance": 0,
+        "minimalCityDistanceOnDifferentContinents": 0,
+        "cityWorkRange": 6,
+        "cityExpandRange":6,
+        "minimumWarDuration": 0,
+        "Allow raze holy city": true,
+        "Allow raze capital": true,
+        "Can trade civilization introductions for [500] Gold": true
+    },
+    "isBaseRuleset": true
+}
