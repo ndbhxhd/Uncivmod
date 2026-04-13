@@ -387,13 +387,15 @@
         "name": "Art Hall",
         "culture": 5,
         "faith": 5,
-        "uniques": ["Unbuildable", "Unsellable"]
+        "uniques": ["Unbuildable",
+            "Unsellable"]
     },
     {
         "name": "Writing Auditorium",
         "culture": 3,
         "science": 2,
-        "uniques": ["Unbuildable", "Unsellable"]
+        "uniques": ["Unbuildable",
+            "Unsellable"]
     },
     {
         "name": "Vocal Chamber",
@@ -402,7 +404,8 @@
         "specialistSlots": {
             "Musician": 1
         },
-        "uniques": ["Unbuildable", "Unsellable"]
+        "uniques": ["Unbuildable",
+            "Unsellable"]
     },
     {
         "name": "Fine Art Specialist",
@@ -516,13 +519,17 @@
         "cityStrength": 7,
         "cityHealth": 50,
         "hurryCostModifier": 25,
-        "uniques": ["Unsellable", "Unbuildable", "Cannot be purchased"]
+        "uniques": ["Unsellable",
+            "Unbuildable",
+            "Cannot be purchased"]
     },
     {
         "name": "Castle Builders",
         "cityStrength": 5,
         "uniqueTo": "Normandy",
-        "uniques": ["Unsellable", "Unbuildable", "Cannot be purchased"]
+        "uniques": ["Unsellable",
+            "Unbuildable",
+            "Cannot be purchased"]
     },
     {
         "name": "Ulugh Beg's Observatory",
@@ -622,7 +629,9 @@
         "cost": 660,
         "hurryCostModifier": 160,
         "production": 10,
-        "specialistSlots": { "Engineer": 1 },
+        "specialistSlots": {
+            "Engineer": 1
+        },
         "uniques": [
             "[+1 Gold] from every [E-Commerce Server]",
             "[+10]% Production when constructing [Robot Infantry] units [in this city]",
@@ -638,7 +647,9 @@
         "name": "Aquaculture Lab",
         "cost": 660,
         "hurryCostModifier": 160,
-        "specialistSlots": { "Scientist": 1 },
+        "specialistSlots": {
+            "Scientist": 1
+        },
         "uniques": [
             "[+1 Food, +1 Gold] from [Fishing Boats] tiles [in this city]",
             "Only available <in cities without a [Undersea Mining Platform]>"
@@ -667,8 +678,12 @@
         "cost": 500,
         "hurryCostModifier": 160,
         "gold": 4,
-        "percentStatBonus": { "gold": 25 },
-        "specialistSlots": { "Merchant": 2 },
+        "percentStatBonus": {
+            "gold": 25
+        },
+        "specialistSlots": {
+            "Merchant": 2
+        },
         "uniques": [
             "[+2 Gold] from each Trade Route",
             "Only available <in cities with a [Server Hub]>"
@@ -681,8 +696,12 @@
         "cost": 660,
         "hurryCostModifier": 160,
         "culture": 4,
-        "percentStatBonus": { "culture": 25 },
-        "specialistSlots": { "Artist": 2 },
+        "percentStatBonus": {
+            "culture": 25
+        },
+        "specialistSlots": {
+            "Artist": 2
+        },
         "uniques": [
             "[+2 Culture] from each Trade Route <in this city>",
             "Only available <in cities with a [Server Hub]>"
@@ -726,7 +745,9 @@
         "cost": 500,
         "hurryCostModifier": 160,
         "production": 5,
-        "percentStatBonus": { "production": 15 },
+        "percentStatBonus": {
+            "production": 15
+        },
         "uniques": [
             "Must be next to [Mountain]",
             "Only available <in cities without a [Solar Plant]>",
@@ -742,7 +763,9 @@
         "hurryCostModifier": 160,
         "culture": 3,
         "happiness": 2,
-        "specialistSlots": { "Scientist": 1 },
+        "specialistSlots": {
+            "Scientist": 1
+        },
         "uniques": [
             "[+1 Happiness] from every [Colosseum] <in this city>",
             "[+1 Happiness] from every [Theatre] <in this city>",
@@ -770,7 +793,9 @@
         "cost": 660,
         "hurryCostModifier": 160,
         "science": 4,
-        "specialistSlots": { "Scientist": 1 },
+        "specialistSlots": {
+            "Scientist": 1
+        },
         "requiredBuilding": "Server Hub",
         "requiredTech": "Distributed Computing"
     },
@@ -788,7 +813,9 @@
         "cost": 500,
         "hurryCostModifier": 160,
         "production": 5,
-        "percentStatBonus": { "production": 15 },
+        "percentStatBonus": {
+            "production": 15
+        },
         "uniques": [
             "Must be next to [Coast]",
             "Only available <in cities without a [Solar Plant]>",
@@ -834,7 +861,7 @@
             "[+1 Production] from [Grassland] tiles [in this city]",
             "Only available <in cities without a [Autoplant]>",
             "Only available <in cities without a [Drone Hive]>",
-            "Only available <in cities without a [Utility Fog Generator]>"
+            "Only available <in cities without a [Utility ,Fog Generator]>"
         ],
         "requiredBuilding": "Factory",
         "requiredTech": "Ecotheory"
@@ -855,8 +882,10 @@
         "name": "Implant Clinic",
         "cost": 660,
         "hurryCostModifier": 160,
-        "percentStatBonus": { "production": 15 },
-        "percentStatBonus": { "gold": 25 },
+        "percentStatBonus": {
+            "production": 15,
+            "gold": 25
+        },
         "requiredBuilding": "Hospital",
         "requiredTech": "Implants"
     },
@@ -881,7 +910,9 @@
         "name": "Undersea Mining Platform",
         "cost": 660,
         "hurryCostModifier": 160,
-        "specialistSlots": { "Engineer": 1 },
+        "specialistSlots": {
+            "Engineer": 1
+        },
         "uniques": [
             "[+2 Production] from [Coast] tiles [in this city]",
             "[+2 Production] from [Ocean] tiles [in this city]",
@@ -894,7 +925,8 @@
         "name": "Converter",
         "cost": 660,
         "hurryCostModifier": 160,
-        "requiredNearbyImprovedResources": ["Coal", "Oil"],
+        "requiredNearbyImprovedResources": ["Coal",
+            "Oil"],
         "uniques": [
             "[+2 Gold] from [Coal] tiles [in this city]",
             "[+2 Gold] from [Oil] tiles [in this city]",
@@ -906,8 +938,12 @@
         "name": "Space Station",
         "cost": 820,
         "hurryCostModifier": 160,
-        "percentStatBonus": { "production": 25 },
-        "percentStatBonus": { "science": 25 },
+        "percentStatBonus": {
+            "production": 25
+        },
+        "percentStatBonus": {
+            "science": 25
+        },
         "requiredBuilding": "Launch Facility",
         "requiredTech": "Orbital Development"
     },
@@ -915,7 +951,9 @@
         "name": "Research Module",
         "cost": 660,
         "hurryCostModifier": 160,
-        "specialistSlots": { "Scientist": 4 },
+        "specialistSlots": {
+            "Scientist": 4
+        },
         "requiredBuilding": "Space Station",
         "requiredTech": "Orbital Development"
     },
@@ -923,7 +961,9 @@
         "name": "Engineering Module",
         "cost": 660,
         "hurryCostModifier": 160,
-        "specialistSlots": { "Engineer": 4 },
+        "specialistSlots": {
+            "Engineer": 4
+        },
         "requiredBuilding": "Space Station",
         "requiredTech": "Orbital Development"
     },
@@ -931,7 +971,9 @@
         "name": "Comm Module",
         "cost": 660,
         "hurryCostModifier": 160,
-        "specialistSlots": { "Merchant": 4 },
+        "specialistSlots": {
+            "Merchant": 4
+        },
         "requiredBuilding": "Space Station",
         "requiredTech": "Orbital Development"
     },
@@ -953,8 +995,12 @@
         "name": "Tidal Array",
         "cost": 660,
         "hurryCostModifier": 160,
-        "percentStatBonus": { "gold": 10 },
-        "percentStatBonus": { "production": 10 },
+        "percentStatBonus": {
+            "gold": 10
+        },
+        "percentStatBonus": {
+            "production": 10
+        },
         "gold": 5,
         "production": 5,
         "uniques": [
@@ -982,8 +1028,12 @@
         "name": "Cyberclinic",
         "cost": 660,
         "hurryCostModifier": 160,
-        "percentStatBonus": { "gold": 25 },
-        "percentStatBonus": { "production": 25 },
+        "percentStatBonus": {
+            "gold": 25
+        },
+        "percentStatBonus": {
+            "production": 25
+        },
         "uniques": [
             "Only available <in cities without a [Bioenhancement Centre]>"
         ],
@@ -995,7 +1045,9 @@
         "cost": 660,
         "hurryCostModifier": 160,
         "production": 8,
-        "specialistSlots": { "Engineer": 1 },
+        "specialistSlots": {
+            "Engineer": 1
+        },
         "uniques": [
             "[+1 Production] from [Generator] tiles [in this city]",
             "[+10]% Production when constructing [All] buildings [in this city]",
@@ -1012,7 +1064,9 @@
         "name": "Distribution Hub",
         "cost": 660,
         "hurryCostModifier": 160,
-        "specialistSlots": { "Engineer": 2 },
+        "specialistSlots": {
+            "Engineer": 2
+        },
         "uniques": [
             "[+1 Production] per [4] population [in this city]",
             "[+1 Production] from [Industrial Complex] tiles [in this city]",
@@ -1028,8 +1082,12 @@
         "name": "Fusion Reactor",
         "cost": 660,
         "hurryCostModifier": 160,
-        "specialistSlots": { "Engineer": 2 },
-        "percentStatBonus": { "production": 20 },
+        "specialistSlots": {
+            "Engineer": 2
+        },
+        "percentStatBonus": {
+            "production": 20
+        },
         "production": 7,
         "uniques": ["[+1 Production] per [4] population [in this city]"],
         "requiredBuilding": "Nuclear Plant",
@@ -1149,7 +1207,9 @@
         "name": "Nanoforge",
         "cost": 780,
         "hurryCostModifier": 160,
-        "specialistSlots": { "Engineer": 2 },
+        "specialistSlots": {
+            "Engineer": 2
+        },
         "uniques": [
             "[+35]% Production when constructing [Military] units [in this city]",
             "Only available <in cities without a [Biofactory]>",
@@ -1180,9 +1240,15 @@
         "name": "Birthing Pods",
         "cost": 780,
         "hurryCostModifier": 160,
-        "percentStatBonus": { "production": 25 },
-        "percentStatBonus": { "gold": 25 },
-        "percentStatBonus": { "science": 25 },
+        "percentStatBonus": {
+            "production": 25
+        },
+        "percentStatBonus": {
+            "gold": 25
+        },
+        "percentStatBonus": {
+            "science": 25
+        },
         "happiness": 2,
         "uniques": [
             "Only available <in cities with a [Implant Clinic]>",
@@ -1227,7 +1293,9 @@
         "name": "Metroplex Hub",
         "cost": 780,
         "hurryCostModifier": 160,
-        "specialistSlots": { "Merchant": 2 },
+        "specialistSlots": {
+            "Merchant": 2
+        },
         "uniques": [
             "[+1 Gold] per [4] population [in this city]",
             "[+1 Gold] from [Arcology] tiles [in this city]",
@@ -1243,7 +1311,9 @@
     {
         "name": "Enrichment Centre",
         "isWonder": true,
-        "percentStatBonus": { "science": 100 },
+        "percentStatBonus": {
+            "science": 100
+        },
         "uniques": ["[+1 Science] per [1] population [in this city]"],
         "requiredTech": "Particle Physics",
         "quote": ""
@@ -1251,7 +1321,10 @@
     {
         "name": "Helios Microwave Power Satellite",
         "isWonder": true,
-        "greatPersonPoints": { "Great Engineer": 2 }, //Damages units next to cities switch a Solar Plant
+        "greatPersonPoints": {
+            "Great Engineer": 2
+        },
+        //Damages units next to cities switch a Solar Plant
         "uniques": [
             "[+1 Gold, +1 Production] from [Desert] tiles [in this city]",
             "[+100]% Yield from every [Solar Plant]",
@@ -1264,7 +1337,9 @@
     {
         "name": "Jurassic Park",
         "isWonder": true,
-        "greatPersonPoints": { "Great Scientist": 2 },
+        "greatPersonPoints": {
+            "Great Scientist": 2
+        },
         "gold": 6,
         "science": 6,
         "happiness": 6,
@@ -1281,10 +1356,15 @@
     {
         "name": "Shanghai Tower",
         "isWonder": true,
-        "specialistSlots": { "Merchant": 2 },
-        "greatPersonPoints": { "Great Merchant": 2 },
+        "specialistSlots": {
+            "Merchant": 2
+        },
+        "greatPersonPoints": {
+            "Great Merchant": 2
+        },
         "culture": 2,
-        "uniques": ["Gain [1000] [Gold]", "[+2 Gold] from every [Merchant]"],
+        "uniques": ["Gain [1000] [Gold]",
+            "[+2 Gold] from every [Merchant]"],
         "requiredTech": "Globalization",
         "quote": ""
     },
@@ -1337,7 +1417,9 @@
     {
         "name": "Kalt Geymsla Data Haven",
         "isWonder": true,
-        "greatPersonPoints": { "Great Scientist": 2 },
+        "greatPersonPoints": {
+            "Great Scientist": 2
+        },
         "uniques": [
             "[+2 Gold] from every [Server Hub]",
             "[+2 Culture, +2 Science] from [Tundra] tiles [in this city]",
@@ -1367,7 +1449,9 @@
     {
         "name": "Orbital Refinery",
         "isWonder": true,
-        "specialistSlots": { "Engineer": 3 },
+        "specialistSlots": {
+            "Engineer": 3
+        },
         "uniques": [
             "[+2 Production] from every [Factory]",
             "[+2 Production] from every [Nanomaterial Plant]",
@@ -1387,7 +1471,9 @@
     {
         "name": "Utsäde Gene Vault",
         "isWonder": true,
-        "greatPersonPoints": { "Great Scientist": 2 },
+        "greatPersonPoints": {
+            "Great Scientist": 2
+        },
         "uniques": [
             "[+2 Science] from every [Nature Preserve]",
             "[+2 Gold] from every [Genocentre]",
@@ -1399,9 +1485,14 @@
     {
         "name": "Virtual Idol",
         "isWonder": true,
-        "greatPersonPoints": { "Great Artist": 2 },
-        "percentStatBonus": { "culture": 75 },
-        "uniques": ["Free [Great Artist] appears", "Comment"],
+        "greatPersonPoints": {
+            "Great Artist": 2
+        },
+        "percentStatBonus": {
+            "culture": 75
+        },
+        "uniques": ["Free [Great Artist] appears",
+            "Comment"],
         "requiredTech": "Cognitive Technology",
         "quote": ""
     },
@@ -1411,7 +1502,9 @@
     {
         "name": "Bionic Tower",
         "isWonder": true,
-        "greatPersonPoints": { "Great Scientist": 2 },
+        "greatPersonPoints": {
+            "Great Scientist": 2
+        },
         "uniques": [
             "[-50]% Food consumption by [Specialists] [in all cities]",
             "[-50]% Unhappiness from [Specialists] [in all cities]",
@@ -1426,7 +1519,9 @@
     {
         "name": "Buenos Aires Forum",
         "isWonder": true,
-        "greatPersonPoints": { "Great Scientist": 2 },
+        "greatPersonPoints": {
+            "Great Scientist": 2
+        },
         //Golden Age Points for every pop. in this city
         "uniques": [
             "Empire enters golden age",
@@ -1442,7 +1537,9 @@
     {
         "name": "Floating Islands",
         "isWonder": true,
-        "greatPersonPoints": { "Great Scientist": 3 },
+        "greatPersonPoints": {
+            "Great Scientist": 3
+        },
         "uniques": [
             "[+3 Culture, +3 Gold] from [Coast] tiles [in this city]",
             "[+3 Culture, +3 Gold] from [Ocean] tiles [in this city]",
@@ -1458,7 +1555,9 @@
     {
         "name": "Shimizu Mega City Pyramid",
         "isWonder": true,
-        "greatPersonPoints": { "Great Engineer": 3 },
+        "greatPersonPoints": {
+            "Great Engineer": 3
+        },
         "production": 20,
         "gold": 20,
         "science": 20,
@@ -1477,7 +1576,9 @@
     {
         "name": "Sky City",
         "isWonder": true,
-        "greatPersonPoints": { "Great Engineer": 2 },
+        "greatPersonPoints": {
+            "Great Engineer": 2
+        },
         "uniques": [
             "[+4 Food, +4 Gold, +2 Happiness] from every [Vertical Farm]",
             "Gain a free [Vertical Farm] [in this city]",
@@ -1491,7 +1592,9 @@
     {
         "name": "Ultima Tower",
         "isWonder": true,
-        "greatPersonPoints": { "Great Engineer": 2 },
+        "greatPersonPoints": {
+            "Great Engineer": 2
+        },
         "happiness": 10,
         "uniques": [
             "[+2] population [in all cities]",
@@ -1508,8 +1611,12 @@
         "name": "Borehole",
         "cost": 125,
         "isNationalWonder": true,
-        "percentStatBonus": { "production": 10 },
-        "specialistSlots": { "Engineer": 2 },
+        "percentStatBonus": {
+            "production": 10
+        },
+        "specialistSlots": {
+            "Engineer": 2
+        },
         "uniques": [
             "[+15]% [Production] from every [Geothermal Plant]",
             "[+1 Production, +1 Gold] from every [Mine]",
@@ -1536,9 +1643,15 @@
         "name": "Launch Facility",
         "cost": 125,
         "isNationalWonder": true,
-        "percentStatBonus": { "gold": 20 },
-        "percentStatBonus": { "science": 20 },
-        "specialistSlots": { "Scientist": 2 },
+        "percentStatBonus": {
+            "gold": 20
+        },
+        "percentStatBonus": {
+            "science": 20
+        },
+        "specialistSlots": {
+            "Scientist": 2
+        },
         "uniques": [
             "[+15]% Production when constructing [Air] units [in this city]",
             "[+15]% Production when constructing [Missile] units [in this city]",
@@ -1552,13 +1665,14 @@
         "name": "Moon Base",
         "cost": 125,
         "isNationalWonder": true,
-        "specialistSlots": { "Scientist": 2 },
+        "specialistSlots": {
+            "Scientist": 2
+        },
         "uniques": [
             "[+6 Science] from every [Research Module]",
             "[+6 Production] from every [Engineering Module]",
             "[+6 Production] from every [Fusion Reactor]",
             "[+6 Gold] from every [Comm Module]",
-            "Consumes [2] [Nanomaterial]",
             "Only available <in cities with a [Space Station]>",
             "Consumes [2] [Nanomaterial]",
             "Cost increases by [30] per owned city"
@@ -1570,7 +1684,9 @@
         "cost": 125,
         "isNationalWonder": true,
         "science": 8,
-        "specialistSlots": { "Scientist": 3 },
+        "specialistSlots": {
+            "Scientist": 3
+        },
         "uniques": [
             "Free [Great Scientist] appears",
             "[+2 Gold] from every [Academy]",
@@ -1671,24 +1787,6 @@
         "requiredTech": "Pottery"
     },
     {
-        "name": "Mala'e",
-        "replaces": "Granary",
-        "uniqueTo": "Tonga",
-        "faith": 1,
-        "food": 2,
-        "maintenance": 1,
-        "hurryCostModifier": 25,
-        "uniques": [
-            "[+1 Food] from [Deer] tiles [in this city]",
-            "[+1 Food] from [Bison] tiles [in this city]",
-            "[+1 Food] from [Bananas] tiles [in this city]",
-            "[+1 Food] from [Wheat] tiles [in this city]",
-            "[+1 Food] from [Maize] tiles [in this city]",
-            "[+2 Food, +2 Culture] <with [3] to [6] neighboring [Coast] tiles>"
-        ],
-        "requiredTech": "Sailing"
-    },
-    {
         "name": "Cacicazgo",
         "uniqueTo": "Colombia",
         "replaces": "Granary",
@@ -1777,7 +1875,9 @@
         "name": "Stone Works",
         "happiness": 1,
         "production": 1,
-        "requiredNearbyImprovedResources": ["Marble", "Stone", "Obsidian"],
+        "requiredNearbyImprovedResources": ["Marble",
+            "Stone",
+            "Obsidian"],
         "maintenance": 1,
         "hurryCostModifier": 0,
         "uniques": [
@@ -2120,7 +2220,7 @@
         "requiredTech": "Bronze Working"
     },
     {
-        "name": "US Army Academy",
+        "name": "US Army cademy",
         "replaces": "Barracks",
         "uniqueTo": "The United States of America",
         "hurryCostModifier": 25,
@@ -2293,7 +2393,9 @@
     {
         "name": "Stable",
         "maintenance": 1,
-        "requiredNearbyImprovedResources": ["Horses", "Sheep", "Cattle"],
+        "requiredNearbyImprovedResources": ["Horses",
+            "Sheep",
+            "Cattle"],
         "hurryCostModifier": 25,
         "uniques": [
             "[+20]% Production when constructing [Mounted] units [in this city]",
@@ -2308,7 +2410,9 @@
         "replaces": "Stable",
         "uniqueTo": "Argentina",
         "maintenance": 1,
-        "requiredNearbyImprovedResources": ["Horses", "Sheep", "Cattle"],
+        "requiredNearbyImprovedResources": ["Horses",
+            "Sheep",
+            "Cattle"],
         "hurryCostModifier": 25,
         "uniques": [
             "[+15]% Production when constructing [Mounted] units [in this city]",
@@ -2322,7 +2426,9 @@
         "name": "Ducal Stable",
         "replaces": "Stable",
         "uniqueTo": "Poland",
-        "requiredNearbyImprovedResources": ["Horses", "Sheep", "Cattle"],
+        "requiredNearbyImprovedResources": ["Horses",
+            "Sheep",
+            "Cattle"],
         "hurryCostModifier": 25,
         "uniques": [
             "[+15]% Production when constructing [Mounted] units [in this city]",
@@ -2338,7 +2444,9 @@
         "replaces": "Stable",
         "uniqueTo": "The Huns",
         "maintenance": 1,
-        "requiredNearbyImprovedResources": ["Horses", "Sheep", "Cattle"],
+        "requiredNearbyImprovedResources": ["Horses",
+            "Sheep",
+            "Cattle"],
         "hurryCostModifier": 25,
         "uniques": [
             "Provides [2] [Horses]",
@@ -2455,6 +2563,7 @@
         "faith": 3,
         "requiredBuilding": "Shrine",
         "maintenance": 2,
+        "cost": 100,
         "hurryCostModifier": 25,
         "requiredTech": "Philosophy"
     },
@@ -2462,6 +2571,8 @@
         "name": "Burial Tomb",
         "replaces": "Temple",
         "uniqueTo": "Egypt",
+        "cost": 100,
+        "maintenance": 2
         "uniques": [
             "[+100]% Gold given to enemy if city is captured <in this city>"
         ],
@@ -2492,6 +2603,7 @@
         "uniqueTo": "Norway",
         "cost": 75,
         "faith": 3,
+        "maintenance": 2,
         "requiredBuilding": "Shrine",
         "hurryCostModifier": 25,
         "requiredTech": "Philosophy",
@@ -2501,20 +2613,11 @@
         ]
     },
     {
-        "name": "Mud Pyramid Mosque",
-        "replaces": "Temple",
-        "uniqueTo": "Songhai",
-        "hurryCostModifier": 25,
-        "culture": 2,
-        "faith": 3,
-        "requiredBuilding": "Shrine",
-        "requiredTech": "Philosophy"
-    },
-    {
         "name": "Ziggurat",
         "replaces": "Temple",
         "uniqueTo": "Sumeria",
         "faith": 3,
+        "cost": 100
         "requiredBuilding": "Shrine",
         "maintenance": 1,
         "hurryCostModifier": 25,
@@ -2856,7 +2959,9 @@
     {
         "name": "Mint",
         "gold": 2,
-        "requiredNearbyImprovedResources": ["Gold Ore", "Silver", "Copper"],
+        "requiredNearbyImprovedResources": ["Gold Ore",
+            "Silver",
+            "Copper"],
         "hurryCostModifier": 25,
         "uniques": [
             "[+2 Gold] from [Gold Ore] tiles [in this city]",
@@ -2973,7 +3078,9 @@
         "cost": 75,
         "culture": 2,
         "maintenance": 1,
-        "requiredNearbyImprovedResources": ["Incense", "Tobacco", "Perfume"],
+        "requiredNearbyImprovedResources": ["Incense",
+            "Tobacco",
+            "Perfume"],
         "hurryCostModifier": 25,
         "uniques": [
             "[+1 Culture] from [Incense] tiles [in this city]",
@@ -3094,12 +3201,6 @@
         "cityHealth": 15,
         "hurryCostModifier": 25,
         "maintenance": 1,
-        "uniques": [
-            "May buy [] units with [Gold] for [1] times their normal Production cost",
-            "May buy [] units with [Gold] for [1] times their normal Production cost",
-            "May buy [] units with [Gold] for [1] times their normal Production cost",
-            "May buy [] units with [Gold] for [1] times their normal Production cost"
-        ],
         "requiredTech": "Civil Service"
     },
     {
@@ -3523,7 +3624,6 @@
             "culture": 20
         },
         "uniques": [
-            "All newly-trained [relevant] units [in all cities] receive the [] promotion",
             "Gain a free [Castle] [in this city]"
         ],
         "requiredTech": "Chivalry",
@@ -3605,7 +3705,7 @@
         "cost": 300,
         "maintenance": 2,
         "uniques": [
-            "New [Military ] units start with [20] XP [in this city]",
+            "New [Military] units start with [20] XP [in this city]",
             "Destroyed when the city is captured"
         ],
         "requiredTech": "Steel"
@@ -4282,7 +4382,10 @@
         "cost": 100,
         "production": 1,
         "maintenance": 2,
-        "requiredNearbyImprovedResources": ["Cotton", "Silk", "Dyes", "Furs"],
+        "requiredNearbyImprovedResources": ["Cotton",
+            "Silk",
+            "Dyes",
+            "Furs"],
         "hurryCostModifier": 25,
         "uniques": [
             "[+2 Production] from [Dyes] tiles [in this city]",
@@ -4797,9 +4900,15 @@
         "name": "Wall street",
         "culture": 1,
         "gold": 10,
-        "percentStatBonus": { "gold": 30 },
-        "greatPersonPoints": { "Great Merchant": 2 },
-        "specialistSlots": { "Merchant": 1 },
+        "percentStatBonus": {
+            "gold": 30
+        },
+        "greatPersonPoints": {
+            "Great Merchant": 2
+        },
+        "specialistSlots": {
+            "Merchant": 1
+        },
         "isWonder": true,
         "requiredTech": "Electricity",
         "uniques": ["Gain a free [Stock Exchange] [in this city]"],
@@ -4977,7 +5086,6 @@
         "maintenance": 2,
         "requiredBuilding": "Castle",
         "requiredTech": "Replaceable Parts",
-        "requiredResource": "",
         "uniques": [
             "Destroyed when the city is captured",
             "May buy [Coastal Barrage] units with [Gold] for [1] times their normal Production cost [in this city]"
@@ -5056,8 +5164,12 @@
         "uniqueTo": "The United States of America",
         "hurryCostModifier": 30,
         "science": 4,
-        "percentStatBonus": { "science": 50 },
-        "specialistSlots": { "Scientist": 1 },
+        "percentStatBonus": {
+            "science": 50
+        },
+        "specialistSlots": {
+            "Scientist": 1
+        },
         "requiredBuilding": "Public School",
         "maintenance": 4,
         "uniques": [
@@ -5223,9 +5335,11 @@
         "name": "Apollo Program",
         "culture": 1,
         "science": 177,
-        "Cost": 1000,
+        "cost": 1000,
         "isNationalWonder": true,
-        "greatPersonPoints": { "Great Scientist": 1 },
+        "greatPersonPoints": {
+            "Great Scientist": 1
+        },
         "uniques": [
             "Space Mission",
             "Triggers a global alert upon completion",
@@ -5242,9 +5356,11 @@
         "name": "Mars Colonization Program",
         "culture": 1,
         "science": 287,
-        "Cost": 2000,
+        "cost": 2000,
         "isNationalWonder": true,
-        "greatPersonPoints": { "Great Scientist": 1 },
+        "greatPersonPoints": {
+            "Great Scientist": 1
+        },
         "uniques": [
             "Space Mission",
             "Triggers a global alert upon build start",
@@ -5261,9 +5377,11 @@
         "name": "Sputnik Program",
         "culture": 1,
         "science": 110,
-        "Cost": 800,
+        "cost": 800,
         "isNationalWonder": true,
-        "greatPersonPoints": { "Great Scientist": 1 },
+        "greatPersonPoints": {
+            "Great Scientist": 1
+        },
         "uniques": [
             "Space Mission",
             "Reveals the entire map",
@@ -5395,5 +5513,4 @@
             "Only available <when [Cultural] Victory is enabled>",
             "Cannot be hurried"
         ]
-    }
-]
+    }]
