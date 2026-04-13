@@ -641,7 +641,9 @@
                 "uniques": [
                     "[+3 Food, +4 Gold] from every [Customs house]",
                     "[+4 Production, +4 Culture, +4 Happiness] from every [East India Company]",
-                    "[+30]% [Gold] [in all cities]", "[+50]% [Production] [in all cities]", "[-1 Happiness] per [5] population [in all cities]",
+                    "[+30]% [Gold] [in all cities]",
+                    "[+50]% [Production] [in all cities]",
+                    "[-1 Happiness] per [5] population [in all cities]",
                     "Provides [1] [Policies]"
                 ],
                 "requires": ["Mercantilism"],
@@ -998,7 +1000,7 @@
             {
                 "name": "Volunteer Army",
                 "uniques": [
-                    "[5] free [Patriots] units appear",
+                    "[5] free [Cog] units appear",
                     "[2] units cost no maintenance",
                     "[Infantry] units gain the [Morale] promotion",
                     "All newly-trained [Infantry] units [in all cities] receive the [Morale] promotion",
@@ -1113,7 +1115,6 @@
                     "[+25]% Production when constructing [Air] units [in all cities]",
                     "[+25]% Production when constructing [Nuclear Missile] units [in all cities]",
                     "[+25]% Strength for cities",
-                    "[Fighter] units gain the [Dogfighting I] promotion",
                     "All newly-trained [Fighter] units [in all cities] receive the [Dogfighting I] promotion",
                     "Provides [-1] [Level 1 Ideology]",
                     "Provides [1] [Level 2 Ideology]",
