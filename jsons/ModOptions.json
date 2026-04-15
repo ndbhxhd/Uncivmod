@@ -7,7 +7,7 @@
         "riverCountMultiplier": 0.015,
         "religionLimitBase": 0,
         "religionLimitMultiplier": 1,
-        "unitSupplyPerPopulation": 10,
+        "unitSupplyPerPopulation": 1,
         "pantheonBase": 23,
         "pantheonGrowth": 0,
         "tributeGlobalModifier": 50,
