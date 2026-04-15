@@ -47,16 +47,6 @@
             "Cultured": 3
         }
     },
-    /*{
-        "name": "Conquer City State",
-        "description": "It's time to erase the City-State of [cityState] from the map. You will be greatly rewarded for conquering them!",
-        "influence": 80,
-        "weightForCityStateType": {
-            "Hostile": 2,
-            "Friendly": 0.2,
-            "Militaristic": 2
-        }
-    },*/
     {
         "name": "Find Player",
         "description": "You have yet to discover where [civName] set up their cities. You will be rewarded for finding their territories.",
@@ -74,7 +64,6 @@
             "Militaristic": 0.5
         }
     },
-    /* G&K */
     {
         "name": "Give Gold",
         "description": "We are suffering great poverty after being robbed by [civName], and unless we receive a sum of Gold, it's only a matter of time before we collapse.",
@@ -150,28 +139,6 @@
             "Mercantile": 3
         }
     },
-    /*{
-        "name": "Bully City State",
-        "description": "We are tired of the pretensions of [cityState]. If someone were to put them in their place by Demanding Tribute from them, they would be rewarded.",
-        "duration": 30,
-        "weightForCityStateType": {
-            "Hostile": 2,
-            "Irrational": 1.5,
-            "Friendly": 0.3
-        }
-    },*/
-    /*{
-        "name": "Denounce Civilization",
-        "description": "We have been forced to pay tribute to [civName]! We need you to tell the world of their ill deeds.",
-        "duration": 30,
-        "weightForCityStateType": {
-            "Cultured": 1.5,
-            "Maritime": 2,
-            "Mercantile": 1.5,
-            "Militaristic": 1.5,
-            "Religious": 2.5
-        }
-    },*/
     {
         "name": "Spread Religion",
         "description": "We have heard the tenets of [religionName] and are most curious. Will you send missionaries to teach us about your religion?",
@@ -179,11 +146,4 @@
             "Religious": 3
         }
     }
-    /* BNW */
-    /*
-    {
-        "name": "Trade Route",
-        "description": ""
-    }
-    */
 ]
