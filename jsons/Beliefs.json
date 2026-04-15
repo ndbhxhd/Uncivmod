@@ -206,7 +206,6 @@
         "uniques": [
             "[+2 Culture] from every [Forest]",
             "[+2 Culture] from every [Jungle]",
-            "[+2 Culture] from every [Hardwood]",
             "[+2 Culture] from every [Rubber]"
         ]
     },
@@ -552,7 +551,7 @@
         "name": "Religious Troubadours",
         "type": "Enhancer",
         "uniques": [
-            "Provides [2] [Trade Route]",
+            "Provides [3] [Trade Route]",
             "[+3 Faith] from [Sea Trade Route (Gold)] tiles [in cities following this religion]",
             "[+3 Faith] from [Land Trade Route (Gold)] tiles [in cities following this religion]"
         ]
@@ -667,4 +666,5 @@
             "Reformation belief",
             "Unavailable"
         ]
-    }]
+    }
+    ]
