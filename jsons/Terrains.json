@@ -11,12 +11,11 @@
     },
     {
         "name": "Canal",
-        "type": "TerrainFeature",
-        "occursOn": ["Coast"],
-        "production": 1,
-        "gold": 2,
-        "movementCost": 3,
-        "RGB": [100, 130, 150],
+        "type":"Water",
+        "movementCost": 1,
+        "RGB": [100,
+            130,
+            150],
         "uniques": ["Doesn't generate naturally",
             "Canal"],
         "civilopediaText": [{
@@ -726,5 +725,4 @@
     //],
     //    "weight": 10
 
-    //}
-    ]
+    //}]
