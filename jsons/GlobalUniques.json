@@ -12,40 +12,18 @@
         "Enables Open Borders agreements",
         "Enables Defensive Pacts",
         // Bonuses
-
         "[+1 Gold] per every [100] [Gold] <after discovering [Banking]>",
         "[+2 Gold] per every [100] [Gold] <after discovering [Economics]>",
         "[+3 Gold] per every [100] [Gold] <starting from the [Industrial era]>",
         "[+4 Gold] per every [100] [Gold] <starting from the [Modern era]>",
         "[+5 Gold] per every [100] [Gold] <starting from the [Atomic era]>",
-
-
-        // Golden Age Bonuses
         "[+5 Gold] per every [100] [Gold] <during a Golden Age> <starting from the [Atomic era]>",
-        // TODO: Implement the uniques below
-        // "[+20]% [Culture] [in all cities] <during a golden age>",
-        // "[+20]% [Production] [in all cities] <during a golden age>",
-
-        // "[+10]% growth [in all cities] <during We Love The King Day>",
-
-        // "Nullifies All Yield <while is in resistance>",
-
-        // "[-25]% [Science] [in pupetted cities]" -- Imo cityFilters should ideally become conditionals anyway
-        // "[-25]% [Culture] [in pupetted cities]"
-
-        // "[+20]% [Production] [in cities connected via railroad]"
-
-        // something something unit supply
-
-
-        // Difficulty settings missing
         "[+0]% Strength <for [{Major} {AI player}] units> <vs [Barbarian] units>",
         "Triggers a [Miracle Harvest!] event <upon discovering [Fertilizer] technology>",
         "Triggers a [Nationalize the Utilities] event <upon discovering [Industrialization] technology>",
         "Triggers a [Subsidize] event <upon discovering [Steam Power] technology>",
         "Triggers a [Codify Laws] event <upon discovering [Philosophy] technology>",
         "Triggers a [Modern Olympics] event <upon discovering [Refrigeration] technology>",
-
         "Triggers a [The United States of America UE] event <for [The United States of America] Civilizations> <upon discovering [Economics] technology>",
         "Triggers a [Arabia UE] event <for [Arabia] Civilizations> <upon discovering [Theology] technology>",
         "Triggers a [Aztecs UE] event <for [Aztecs] Civilizations> <upon discovering [Civil Service] technology>",
@@ -65,7 +43,6 @@
         "Triggers a [Spain UE] event <for [Spain] Civilizations> <upon discovering [Gunpowder] technology>",
         "Triggers a [The Maya UE] event <for [The Maya] Civilizations> <upon discovering [Theology] technology>",
         "Triggers a [The Ottomans UE] event <for [The Ottomans] Civilizations> <upon discovering [Gunpowder] technology>",
-
         "Triggers a [Comet Sighted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Renaissance era]>",
         "Triggers a [Comet Spotted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Renaissance era]> <before the [Modern era]>",
         "Triggers a [Artists Protest the Eiffel Tower] event <for [Major] Civilizations> <if [Eiffel Tower] is constructed>",
@@ -84,13 +61,11 @@
         "Triggers a [Famine] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]> <before discovering [Fertilizer]>",
         "Triggers a [Desertion] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <when at war>",
         "Triggers a [Olympiad] event <for [Major] Civilizations> <upon turn end> <every [8] turns> <with [15]% chance> <if [International Olympic Committee Headquarters] is constructed by anybody>",
-        //It is every 8 turns and not every 4 turns to prevent civs from getting the Olympics back-to-back,
         "Triggers a [Economic Depression] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Modern era]>",
         "Triggers a [Economic Boom] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Modern era]>",
         "Triggers a [Research] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Industrial era]>",
         "Triggers a [Asteroid] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after discovering [Nuclear Fusion]>",
         "Triggers a [Obstacle] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Renaissance era]>",
-
         "When defeating a [Land] unit, earn [10] Gold and recruit it <with [25]% chance> <for units with [Eranshahr]>"
     ]
 }
