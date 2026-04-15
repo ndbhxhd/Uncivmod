@@ -127,20 +127,6 @@
             "Generated on every [5] tiles <in [{Featureless} {Coast}] tiles>"
         ]
     },
-    {
-        "name": "Hardwood",
-        "resourceType": "Bonus",
-        "terrainsCanBeFoundOn": ["Forest"],
-        "production": 1,
-        "improvement": "Lumber mill",
-        "improvementStats": {
-            "production": 1
-        },
-        "uniques": [
-            "Generated on every [22] tiles <in [Forest] tiles>",
-            "Generated on every [22] tiles <in [{non-[Hill]} {Tundra} {Forest}] tiles>"
-        ]
-    },
 
     // Strategic resources
     {
@@ -463,7 +449,7 @@
     {
         "name": "Titanium",
         "resourceType": "Strategic",
-        "revealedBy": "Electronics",
+        "revealedBy": "Electricity",
         "terrainsCanBeFoundOn": ["Tundra",
             "Hill",
             "Snow",
@@ -493,7 +479,7 @@
     {
         "name": "Lithium",
         "resourceType": "Strategic",
-        "revealedBy": "Electronics",
+        "revealedBy": "Electricity",
         "terrainsCanBeFoundOn": ["Tundra",
             "Hill",
             "Snow"],
@@ -1420,69 +1406,6 @@
             "Generated with weight [25] <in [Marsh] Regions>",
             "Generated with weight [20] <in [Hybrid] Regions>",
             "Generated near City States with weight [30]"
-        ]
-    },
-    {
-        "name": "Nutmeg",
-        "gold": 2,
-        "resourceType": "Luxury",
-        "uniques": ["Doesn't generate naturally"]
-    },
-    {
-        "name": "Cloves",
-        "gold": 2,
-        "resourceType": "Luxury",
-        "uniques": ["Doesn't generate naturally"]
-    },
-    {
-        "name": "Pepper",
-        "gold": 2,
-        "resourceType": "Luxury",
-        "uniques": ["Doesn't generate naturally"]
-    },
-    {
-        "name": "Jewelry",
-        "resourceType": "Luxury",
-        "gold": 100,
-        "uniques": ["Can only be created by Mercantile City-States"]
-    },
-    {
-        "name": "Porcelain",
-        "resourceType": "Luxury",
-        "gold": 2,
-        "uniques": ["Can only be created by Mercantile City-States"]
-    },
-    {
-        "name": "Glass",
-        "resourceType": "Luxury",
-        "gold": 2,
-        "uniques": ["Can only be created by Mercantile City-States"]
-    },
-    {
-        "name": "Honey",
-        "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Grassland",
-            "Plains"],
-        "uniques": [
-            "Generated with weight [50] <in [Grassland] Regions>",
-            "Generated with weight [30] <in [Plains] Regions>",
-            "Generated near City States with weight [20]"
-        ]
-    },
-    {
-        "name": "Cocoa Beans",
-        "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Grassland",
-            "Plains",
-            "Jungle"],
-        "food": 2,
-        "improvement": "Plantation",
-        "improvementStats": {
-            "food": 2
-        },
-        "uniques": [
-            "Generated with weight [60] <in [Grassland] Regions>",
-            "Generated with weight [50] <in [Plauns] Regions>"
         ]
     },
     // {
