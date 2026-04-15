@@ -7,35 +7,6 @@
     ]
 },
     {
-        "name": "joinWorker",
-        "notification": "A [Worker] has joined us!",
-        "uniques": [
-            "Free [Worker] found in the ruins",
-            "Only available <for [non-[Ignores ruins]] units>"
-        ],
-        "excludedDifficulties": ["Prince",
-            "King",
-            "Emperor",
-            "Immortal",
-            "Deity",
-            "AI"]
-    },
-    {
-        "name": "joinSettler",
-        "notification": "A [Settler] has joined us!",
-        "uniques": [
-            "Free [Settler] found in the ruins",
-            "Only available <for [non-[Ignores ruins]] units>"
-        ],
-        "excludedDifficulties": ["Warlord",
-            "Prince",
-            "King",
-            "Emperor",
-            "Immortal",
-            "Deity",
-            "AI"]
-    },
-    {
         "name": "freePop",
         "notification": "We have found survivors in the ruins! Population added to [cityName].",
         "uniques": [
@@ -261,7 +232,7 @@
     {
         "name": "advanced weaponry for your explorer",
         "notification": "Our unit finds advanced weaponry hidden in the ruins!",
-        "uniques": ["[This nit] upgrades for free including special upgrades"],
+        "uniques": ["[This Unit] upgrades for free including special upgrades"],
         "color": "#20afe8"
     },
     {
@@ -273,7 +244,7 @@
     {
         "name": "levied wayfarer",
         "notification": "A [Warrior] has joined us!",
-        "uniques": ["Free [Wayfarer] appears"],
+        "uniques": ["Free [Infantry] appears"],
         "color": "#20afe8"
     },
 
