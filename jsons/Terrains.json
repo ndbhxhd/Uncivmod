@@ -55,7 +55,7 @@
             180
         ],
         "movementCost": 1,
-        "defenceBonus": 0,
+        "defenceBonus": 0
     },
     {
         "name": "Grassland",
