@@ -21,13 +21,11 @@
     },
     {
         "name": "Infantry",
-        "movementType": "Land",
-        "uniques": ["Cannot damage [Air] units"]
+        "movementType": "Land"
     },
     {
         "name": "Light Infantry",
-        "movementType": "Land",
-        "uniques": ["Cannot damage [Air] units"]
+        "movementType": "Land"
     },
     {
         "name": "Marines",
@@ -123,7 +121,7 @@
         "uniques": [
             "[+50]% Strength <vs [Aircraft] units>",
             "[+100]% Strength <vs [Helicopter] units>",
-            "Cannot intercept [Ballistic] units"
+            "Cannot intercept [Nuclear Missile] units"
         ],
         "movementType": "Land"
     },
@@ -151,7 +149,7 @@
         "name": "Close Air Support",
         "uniques": [
             "Aircraft",
-            "Cannot intercept [Ballistic] units",
+            "Cannot intercept [Nuclear Missile] units",
             "Cannot intercept [Satellite] units",
             "Can perform Air Sweep"
         ],
