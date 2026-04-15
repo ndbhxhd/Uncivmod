@@ -361,9 +361,6 @@
                     "Free [Great Writer] appears",
                     "[+1 Culture] from every [Great Improvement]",
                     "[+1 Culture] from every [Trading post]",
-                    "[+1 Culture] from every [Brazilwood Camp]",
-                    "[+1 Culture] from every [Caer]",
-                    "[+1 Culture] from every [Moai]",
                     "[+1 Culture] from every [Chateau]",
                     "Provides [1] [Policies]"
                 ],
@@ -600,8 +597,6 @@
             {
                 "name": "Mercenary Army",
                 "uniques": [
-                    "Comment [Allows purchasing [Landsknecht] at [Civil Service]]",
-                    "Comment [Allows purchasing [Foreign Legion] at [Replaceable Parts]]",
                     "Provides [1] [Policies]"
                 ],
                 "row": 1,
@@ -637,7 +632,7 @@
                 "column": 3
             },
             {
-                "name": "Capitalism",
+                "name": "Capitalismm",
                 "uniques": [
                     "[+3 Food, +4 Gold] from every [Customs house]",
                     "[+4 Production, +4 Culture, +4 Happiness] from every [East India Company]",
@@ -655,7 +650,6 @@
                 "uniques": [
                     "[3] free [Great Merchant] units appear",
                     "[+3 Food] from every [Trading post]",
-                    "[+4 Food] from every [Caer]",
                     "[+110]% Gold from Great Merchant trade missions",
                     "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
@@ -687,8 +681,6 @@
                 "uniques": [
                     "[+1 Science] from every [Trading post]",
                     "[+1 Science] from every [Chateau]",
-                    "[+1 Science] from every [Caer]",
-                    "[+1 Science] from every [Brazilwood Camp]",
                     "[+3 Science] from every [Customs house]",
                     "[+5 Science] from every [Academy]",
                     "Provides [1] [Policies]"
@@ -910,7 +902,7 @@
                 "column": 12
             },
             {
-                "name": "Communism",
+                "name": "Communismm",
                 "uniques": [
                     "[+3 Production, +3 Science, +1 Gold] from [Strategic resource] tiles [in all cities]",
                     "Provides [5] [Oil]",
@@ -954,8 +946,6 @@
             },
             {
                 "name": "Order Complete",
-                "uniques": [
-                ]
             }]
     },
     {
@@ -964,7 +954,7 @@
         "uniques": [
             "Comment [Unlocks [Statue of Liberty]]",
             "Only available <before adopting [Autocracy]>",
-            "Only available <before adopting [Order]>",
+            "Only available <before adopting [Communism]>",
             "Only available <after adopting [Ideology]>"
         ],
         "policies": [{
@@ -1115,7 +1105,6 @@
                     "[+25]% Production when constructing [Air] units [in all cities]",
                     "[+25]% Production when constructing [Nuclear Missile] units [in all cities]",
                     "[+25]% Strength for cities",
-                    "All newly-trained [Fighter] units [in all cities] receive the [Dogfighting I] promotion",
                     "Provides [-1] [Level 1 Ideology]",
                     "Provides [1] [Level 2 Ideology]",
                     "Only available <when above [1] [Level 1 Ideology]>",
@@ -1177,8 +1166,6 @@
             },
             {
                 "name": "Freedom Complete",
-                "uniques": [
-                ]
             }]
     },
     {
@@ -1186,7 +1173,7 @@
         "era": "Ancient era",
         "uniques": [
             "Comment [Unlocks [Prora]]",
-            "Only available <before adopting [Order]>",
+            "Only available <before adopting [Communism]>",
             "Only available <before adopting [Freedom]>",
             "Only available <after adopting [Ideology]>"
         ],
