@@ -1,10 +1,11 @@
 [
-    // Bonus resources
     {
         "name": "Cattle",
         "resourceType": "Bonus",
-        "terrainsCanBeFoundOn": ["Grassland",
-            "Plains"],
+        "terrainsCanBeFoundOn": [
+            "Grassland",
+            "Plains"
+        ],
         "food": 2,
         "improvement": "Pasture",
         "improvementStats": {
@@ -18,10 +19,14 @@
     {
         "name": "Bison",
         "resourceType": "Bonus",
-        "terrainsCanBeFoundOn": ["Grassland",
-            "Plains"],
+        "terrainsCanBeFoundOn": [
+            "Grassland",
+            "Plains"
+        ],
         "food": 2,
-        "improvedBy": ["Camp"]
+        "improvedBy": [
+            "Camp"
+        ],
         "improvementStats": {
             "production": 2
         },
@@ -33,7 +38,9 @@
     {
         "name": "Sheep",
         "resourceType": "Bonus",
-        "terrainsCanBeFoundOn": ["Hill"],
+        "terrainsCanBeFoundOn": [
+            "Hill"
+        ],
         "food": 1,
         "improvement": "Pasture",
         "improvementStats": {
@@ -46,11 +53,15 @@
     {
         "name": "Deer",
         "resourceType": "Bonus",
-        "terrainsCanBeFoundOn": ["Forest",
-            "Tundra"],
+        "terrainsCanBeFoundOn": [
+            "Forest",
+            "Tundra"
+        ],
         "food": 1,
-        "improvedBy": ["Camp",
-            "Tipi"],
+        "improvedBy": [
+            "Camp",
+            "Tipi"
+        ],
         "improvementStats": {
             "production": 1
         },
@@ -63,21 +74,26 @@
     {
         "name": "Bananas",
         "resourceType": "Bonus",
-        "terrainsCanBeFoundOn": ["Jungle"],
+        "terrainsCanBeFoundOn": [
+            "Jungle"
+        ],
         "food": 2,
         "improvement": "Plantation",
         "improvementStats": {
             "food": 3
         },
-        "uniques": ["Generated on every [20] tiles <in [Jungle] tiles>"]
+        "uniques": [
+            "Generated on every [20] tiles <in [Jungle] tiles>"
+        ]
     },
     {
         "name": "Wheat",
         "resourceType": "Bonus",
-        "terrainsCanBeFoundOn": ["Plains",
+        "terrainsCanBeFoundOn": [
+            "Plains",
             "Flood plains",
-            "Desert"],
-        // Desert only if fresh water
+            "Desert"
+        ],
         "food": 2,
         "improvement": "Farm",
         "uniques": [
@@ -88,8 +104,10 @@
     {
         "name": "Maize",
         "resourceType": "Bonus",
-        "terrainsCanBeFoundOn": ["Plains",
-            "Grassland"],
+        "terrainsCanBeFoundOn": [
+            "Plains",
+            "Grassland"
+        ],
         "food": 1,
         "improvement": "Farm",
         "uniques": [
@@ -100,9 +118,11 @@
     {
         "name": "Stone",
         "resourceType": "Bonus",
-        "terrainsCanBeFoundOn": ["Grassland",
+        "terrainsCanBeFoundOn": [
+            "Grassland",
             "Desert",
-            "Tundra"],
+            "Tundra"
+        ],
         "production": 1,
         "improvement": "Quarry",
         "improvementStats": {
@@ -117,7 +137,9 @@
     {
         "name": "Fish",
         "resourceType": "Bonus",
-        "terrainsCanBeFoundOn": ["Coast"],
+        "terrainsCanBeFoundOn": [
+            "Coast"
+        ],
         "food": 2,
         "improvementStats": {
             "food": 3
@@ -127,17 +149,16 @@
             "Generated on every [5] tiles <in [{Featureless} {Coast}] tiles>"
         ]
     },
-
-    // Strategic resources
     {
         "name": "Horses",
         "resourceType": "Strategic",
         "revealedBy": "Animal Husbandry",
-        "terrainsCanBeFoundOn": ["Plains",
+        "terrainsCanBeFoundOn": [
+            "Plains",
             "Grassland",
             "Hill",
-            "Tundra"],
-        // Hill only if plains or grassland
+            "Tundra"
+        ],
         "production": 2,
         "improvement": "Pasture",
         "improvementStats": {
@@ -261,8 +282,10 @@
             "Jungle"
         ],
         "production": 2,
-        "improvedBy": ["Oil well",
-            "Offshore Platform"],
+        "improvedBy": [
+            "Oil well",
+            "Offshore Platform"
+        ],
         "improvementStats": {
             "production": 10
         },
@@ -450,10 +473,12 @@
         "name": "Titanium",
         "resourceType": "Strategic",
         "revealedBy": "Electricity",
-        "terrainsCanBeFoundOn": ["Tundra",
+        "terrainsCanBeFoundOn": [
+            "Tundra",
             "Hill",
             "Snow",
-            "Forest"],
+            "Forest"
+        ],
         "production": 5,
         "improvement": "Mine",
         "improvementStats": {
@@ -480,9 +505,11 @@
         "name": "Lithium",
         "resourceType": "Strategic",
         "revealedBy": "Electricity",
-        "terrainsCanBeFoundOn": ["Tundra",
+        "terrainsCanBeFoundOn": [
+            "Tundra",
             "Hill",
-            "Snow"],
+            "Snow"
+        ],
         "production": 6,
         "improvement": "Mine",
         "improvementStats": {
@@ -517,8 +544,10 @@
             "Jungle"
         ],
         "production": 1,
-        "improvedBy": ["Oil well",
-            "Offshore Platform"],
+        "improvedBy": [
+            "Oil well",
+            "Offshore Platform"
+        ],
         "improvementStats": {
             "production": 3
         },
@@ -529,7 +558,6 @@
             "Generated on every [400] tiles <in [Tundra] tiles>",
             "Generated on every [500] tiles <in [Coast] tiles>"
         ],
-
         "majorDepositAmount": {
             "sparse": 5,
             "default": 7,
@@ -541,18 +569,6 @@
             "abundant": 3
         }
     },
-    //{
-    //  "name": "Modern Alloy",
-    //  "resourceType": "Strategic",
-    //   "uniques": ["Can be provided by [Alloys Plant]"]
-    //  },
-    //  {
-    //      "name": "Composite Materials",
-    //    "resourceType": "Strategic",
-    //     "uniques": ["Can be provided by [Modern Chemical Plant]"]
-    //},
-    //
-    // Luxury resources
     {
         "name": "Furs",
         "resourceType": "Luxury",
@@ -587,10 +603,12 @@
     {
         "name": "Cotton",
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Plains",
+        "terrainsCanBeFoundOn": [
+            "Plains",
             "Grassland",
             "Desert",
-            "Hill"],
+            "Hill"
+        ],
         "gold": 2,
         "improvementStats": {
             "production": 1,
@@ -665,12 +683,13 @@
     },
     {
         "name": "Gold Ore",
-        // Not called "Gold" in order to not conflict with siege type units for translations
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Desert",
+        "terrainsCanBeFoundOn": [
+            "Desert",
             "Plains",
             "Grassland",
-            "Hill"],
+            "Hill"
+        ],
         "gold": 100,
         "improvementStats": {
             "gold": 200,
@@ -689,9 +708,11 @@
     {
         "name": "Silver",
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Tundra",
+        "terrainsCanBeFoundOn": [
+            "Tundra",
             "Desert",
-            "Hill"],
+            "Hill"
+        ],
         "gold": 80,
         "improvementStats": {
             "gold": 150,
@@ -813,10 +834,12 @@
     {
         "name": "Salt",
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Tundra",
+        "terrainsCanBeFoundOn": [
+            "Tundra",
             "Desert",
             "Plains",
-            "Hill"],
+            "Hill"
+        ],
         "food": 3,
         "improvement": "Mine",
         "improvementStats": {
@@ -837,9 +860,11 @@
     {
         "name": "Incense",
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Desert",
+        "terrainsCanBeFoundOn": [
+            "Desert",
             "Plains",
-            "Hill"],
+            "Hill"
+        ],
         "gold": 2,
         "improvementStats": {
             "faith": 5,
@@ -860,8 +885,10 @@
     {
         "name": "Ivory",
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Plains",
-            "Hill"],
+        "terrainsCanBeFoundOn": [
+            "Plains",
+            "Hill"
+        ],
         "gold": 2,
         "improvement": "Camp",
         "improvementStats": {
@@ -883,10 +910,12 @@
     {
         "name": "Silk",
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Forest",
+        "terrainsCanBeFoundOn": [
+            "Forest",
             "Plains",
             "Grassland",
-            "Hill"],
+            "Hill"
+        ],
         "gold": 2,
         "improvementStats": {
             "gold": 1,
@@ -938,9 +967,11 @@
     {
         "name": "Wine",
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Plains",
+        "terrainsCanBeFoundOn": [
+            "Plains",
             "Grassland",
-            "Hill"],
+            "Hill"
+        ],
         "gold": 2,
         "improvementStats": {
             "food": 2,
@@ -963,9 +994,11 @@
     {
         "name": "Tea",
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Plains",
+        "terrainsCanBeFoundOn": [
+            "Plains",
             "Grassland",
-            "Hill"],
+            "Hill"
+        ],
         "gold": 2,
         "improvementStats": {
             "gold": 1,
@@ -989,9 +1022,11 @@
     {
         "name": "Coffee",
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Plains",
+        "terrainsCanBeFoundOn": [
+            "Plains",
             "Grassland",
-            "Hill"],
+            "Hill"
+        ],
         "gold": 2,
         "improvementStats": {
             "gold": 1,
@@ -1045,9 +1080,11 @@
     {
         "name": "Tobacco",
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Plains",
+        "terrainsCanBeFoundOn": [
+            "Plains",
             "Grassland",
-            "Hill"],
+            "Hill"
+        ],
         "gold": 2,
         "improvement": "Plantation",
         "improvementStats": {
@@ -1100,9 +1137,11 @@
     {
         "name": "Obsidian",
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Tundra",
+        "terrainsCanBeFoundOn": [
+            "Tundra",
             "Plains",
-            "Hill"],
+            "Hill"
+        ],
         "gold": 2,
         "improvement": "Quarry",
         "improvementStats": {
@@ -1153,9 +1192,11 @@
     {
         "name": "Perfume",
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Plains",
+        "terrainsCanBeFoundOn": [
+            "Plains",
             "Grassland",
-            "Hill"],
+            "Hill"
+        ],
         "gold": 2,
         "improvement": "Plantation",
         "improvementStats": {
@@ -1178,9 +1219,11 @@
     {
         "name": "Olives",
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Plains",
+        "terrainsCanBeFoundOn": [
+            "Plains",
             "Grassland",
-            "Hill"],
+            "Hill"
+        ],
         "food": 1,
         "improvement": "Plantation",
         "improvementStats": {
@@ -1320,7 +1363,9 @@
     {
         "name": "Whales",
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Coast"],
+        "terrainsCanBeFoundOn": [
+            "Coast"
+        ],
         "production": 1,
         "improvementStats": {
             "food": 2,
@@ -1343,7 +1388,9 @@
     {
         "name": "Coral",
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Coast"],
+        "terrainsCanBeFoundOn": [
+            "Coast"
+        ],
         "gold": 2,
         "improvementStats": {
             "faith": 1,
@@ -1365,7 +1412,9 @@
     {
         "name": "Pearls",
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Coast"],
+        "terrainsCanBeFoundOn": [
+            "Coast"
+        ],
         "culture": 5,
         "improvementStats": {
             "food": 1,
@@ -1388,7 +1437,9 @@
     {
         "name": "Crab",
         "resourceType": "Luxury",
-        "terrainsCanBeFoundOn": ["Coast"],
+        "terrainsCanBeFoundOn": [
+            "Coast"
+        ],
         "food": 1,
         "improvementStats": {
             "gold": 1,
@@ -1408,120 +1459,103 @@
             "Generated near City States with weight [30]"
         ]
     },
-    // {
-    //    "name": "Premium Fabric",
-    //     "resourceType": "Luxury",
-    //      "gold": 50
-    //   },
-    //   {
-    //     "name": "Milk",
-    //      "resourceType": "Luxury",       "gold": 5
-    //  },
-    //  {
-    //     "name": "Cheese",
-    //  "resourceType": "Luxury",
-    //  "gold": 3
-    //},
-    //   {
-    //    "name": "Premium Food",
-    //   "resourceType": "Luxury",   "gold": 6
-},
-
-// Ingame Mechanics
-{
-    "name": "Antiquity Site",
-    "resourceType": "Bonus",
-    "revealedBy": "Archaeology",
-    "terrainsCanBeFoundOn": [
-        "Plains",
-        "Grassland",
-        "Desert",
-        "Hill",
-        "Tundra",
-        "Forest",
-        "Jungle",
-        "Flood plains",
-        "Marsh",
-        "Snow"
-    ],
-    "improvement": "Archaeological Dig",
-    "uniques": ["Generated on every [150] tiles"]
-},
-{
-    "name": "Trade Route",
-    "resourceType": "Strategic",
-    "uniques": [
-        "Cannot be traded",
-        "Excluded from map editor",
-        "Doesn't generate naturally"
-    ]
-},
-{
-    "name": "Factories",
-    "resourceType": "Strategic",
-    "uniques": [
-        "Not shown on world screen",
-        "Cannot be traded",
-        "Excluded from map editor",
-        "Doesn't generate naturally"
-    ]
-},
-{
-    "name": "Policies",
-    "resourceType": "Strategic",
-    "uniques": [
-        "Cannot be traded",
-        "Excluded from map editor",
-        "Doesn't generate naturally"
-    ]
-},
-{
-    "name": "Level 1 Ideology",
-    "resourceType": "Strategic",
-    "uniques": [
-        "Not shown on world screen",
-        "Cannot be traded",
-        "Excluded from map editor",
-        "Doesn't generate naturally"
-    ]
-},
-{
-    "name": "Level 2 Ideology",
-    "resourceType": "Strategic",
-    "uniques": [
-        "Not shown on world screen",
-        "Cannot be traded",
-        "Excluded from map editor",
-        "Doesn't generate naturally"
-    ]
-},
-{
-    "name": "Great Work of Writing",
-    "resourceType": "Strategic",
-    "uniques": [
-        "Cannot be traded",
-        "Stockpiled",
-        "Excluded from map editor",
-        "Doesn't generate naturally"
-    ]
-},
-{
-    "name": "Great Work of Art",
-    "resourceType": "Strategic",
-    "uniques": [
-        "Cannot be traded",
-        "Stockpiled",
-        "Excluded from map editor",
-        "Doesn't generate naturally"
-    ]
-},
-{
-    "name": "Great Work of Music",
-    "resourceType": "Strategic",
-    "uniques": [
-        "Cannot be traded <hidden from users>",
-        "Stockpiled",
-        "Excluded from map editor",
-        "Doesn't generate naturally"
-    ]
-}]
+    {
+        "name": "Antiquity Site",
+        "resourceType": "Bonus",
+        "revealedBy": "Archaeology",
+        "terrainsCanBeFoundOn": [
+            "Plains",
+            "Grassland",
+            "Desert",
+            "Hill",
+            "Tundra",
+            "Forest",
+            "Jungle",
+            "Flood plains",
+            "Marsh",
+            "Snow"
+        ],
+        "improvement": "Archaeological Dig",
+        "uniques": [
+            "Generated on every [150] tiles"
+        ]
+    },
+    {
+        "name": "Trade Route",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Excluded from map editor",
+            "Doesn't generate naturally"
+        ]
+    },
+    {
+        "name": "Factories",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Not shown on world screen",
+            "Cannot be traded",
+            "Excluded from map editor",
+            "Doesn't generate naturally"
+        ]
+    },
+    {
+        "name": "Policies",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Excluded from map editor",
+            "Doesn't generate naturally"
+        ]
+    },
+    {
+        "name": "Level 1 Ideology",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Not shown on world screen",
+            "Cannot be traded",
+            "Excluded from map editor",
+            "Doesn't generate naturally"
+        ]
+    },
+    {
+        "name": "Level 2 Ideology",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Not shown on world screen",
+            "Cannot be traded",
+            "Excluded from map editor",
+            "Doesn't generate naturally"
+        ]
+    },
+    {
+        "name": "Great Work of Writing",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Stockpiled",
+            "Excluded from map editor",
+            "Doesn't generate naturally"
+        ]
+    },
+    {
+        "name": "Great Work of Art",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded",
+            "Stockpiled",
+            "Excluded from map editor",
+            "Doesn't generate naturally"
+        ]
+    },
+    {
+        "name": "Great Work of Music",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Cannot be traded <hidden from users>",
+            "Stockpiled",
+            "Excluded from map editor",
+            "Doesn't generate naturally"
+        ]
+    }
+]
