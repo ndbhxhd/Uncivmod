@@ -1779,7 +1779,7 @@
         "hurryCostModifier": 25,
         "maintenance": 1,
         "uniques": [
-            "New [Military] units start with [20] Experience [in this city]",
+            "New [Military] units start with [20] XP [in this city]",
             "Destroyed when the city is captured"
         ],
         "requiredTech": "Bronze Working"
@@ -3054,7 +3054,6 @@
         "requiredTech": "Banking",
         "uniqueTo": "The United States of America",
         "uniques": [
-            "Doubles Gold given to enemy if city is captured",
             "Destroyed when the city is captured",
             "All newly-trained [Military] units [in this city] receive the [Combat Pay] promotion"
         ]
@@ -3726,7 +3725,7 @@
         "cost": 300,
         "maintenance": 1,
         "uniques": [
-            "New [Military] units start with [25] Experience [in this city]",
+            "New [Military] units start with [25] XP [in this city]",
             "Destroyed when the city is captured"
         ],
         "requiredTech": "Military Science"
@@ -4062,7 +4061,7 @@
         "culture": 1,
         "isWonder": true,
         "uniques": [
-            "[+60]% Production when constructing [Heavy Cava] units [in all cities]",
+            "[+60]% Production when constructing [Heavy Cavalry] units [in all cities]",
             "Free Social Policy",
             "Only available <after adopting [Communism]>"
         ],
@@ -4114,7 +4113,7 @@
         "requiredBuilding": "Public School",
         "maintenance": 4,
         "uniques": [
-            "New [Military] units start with [20] Experience [in this city]",
+            "New [Military] units start with [20] XP [in this city]",
             "Destroyed when the city is captured"
         ]
     },
