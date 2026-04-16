@@ -1136,7 +1136,7 @@
                     "text": "Our trade routes have made our people some of the wealthiest in the world. The wonder of our riches should be what we are known for!",
                     "uniques": [
                         "Gain a free [Bazaar] [in this city] <upon founding a city>",
-                        "3] free [Great Merchant] units appear"
+                        "[3] free [Great Merchant] units appear"
                     ]
                 }
             ]
@@ -1360,7 +1360,7 @@
                         "Rebel units may spawn <for [30] turns>",
                         "[5] [Rifleman]s rebel <hidden from users>",
                         "[2] [Cavalry]s rebel <hidden from users>",
-                        "[2] Ironclad]s rebel <hidden from users>",
+                        "[2] [Ironclad]s rebel <hidden from users>",
                         "Nullifies [Science] [in all cities] <for [2] turns>",
                         "Nullifies [Culture] [in all cities] <for [2] turns>",
                         "[2] Free Social Policies",
