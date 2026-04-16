@@ -2081,7 +2081,7 @@
             "[+1 Science, +1 Production] from every [Workshop]",
             "[+1 Science, +1 Production] from every [Factory]",
             "[+1 Science, +1 Production] from every [Hydro Plant]",
-            "[Great ineer] is earned [33]% faster"
+            "[Great Engineer] is earned [33]% faster"
         ],
         "cities": [
             "Berlin",
@@ -2544,7 +2544,6 @@
         "startBias": [
             "Avoid [Coast]"
         ],
-        "preferredVictoryType": "",
         "startIntroPart1": "Behold Fulk V, King of Jerusalem and defender of the Holy Land. A crusader and a statesman, you sought to bring stability and strength to a kingdom forged in fire and faith.",
         "startIntroPart2": "Noble Fulk, shall the kingdom rise once more, bathed in justice and guarded by sword and scripture? Can you build a civilization that will stand the test of time?",
         "declaringWar": "By cross and crown, I will bring judgment upon you.",
@@ -5725,78 +5724,8 @@
             "[+2] Movement <for [Scout] units>",
             "[+50]% Strength <for [All] units>",
             "[Scout] units gain the [Seek and Capture] promotion",
-            "[{Military} {Land}] units gain the [Terrorist Strength] promotion",
-            "[+10]% Strength <within [2] tiles of a [Terrorist Hideout]>",
-            "[+15]% Strength <in [Terrorist Hideout] tiles> <for [Melee] units>"
-        ]
-    },
-    {
-        "name": "Terrorist",
-        "outerColor": [
-            0,
-            0,
-            0
-        ],
-        "innerColor": [
-            184,
-            0,
-            0
-        ],
-        "uniques": [
-            "Can only heal by pillaging",
-            "[+2] Sight <for [Scout] units>",
-            "[+2] Movement <for [Scout] units>",
-            "[+50]% Strength <for [All] units>",
-            "[Scout] units gain the [Seek and Capture] promotion",
-            "[{Military} {Land}] units gain the [Terrorist Strength] promotion",
-            "[+10]% Strength <within [2] tiles of a [Terrorist Hideout]>",
-            "[+15]% Strength <in [Terrorist Hideout] tiles> <for [Melee] units>"
-        ]
-    },
-    {
-        "name": "Cartel",
-        "outerColor": [
-            0,
-            0,
-            0
-        ],
-        "innerColor": [
-            184,
-            0,
-            0
-        ],
-        "uniques": [
-            "Can only heal by pillaging",
-            "[+2] Sight <for [Scout] units>",
-            "[+2] Movement <for [Scout] units>",
-            "[+50]% Strength <for [All] units>",
-            "[Scout] units gain the [Seek and Capture] promotion",
-            "[{Military} {Land}] units gain the [Terrorist Strength] promotion",
-            "[+10]% Strength <within [2] tiles of a [Terrorist Hideout]>",
-            "[+15]% Strength <in [Terrorist Hideout] tiles> <for [Melee] units>"
-        ]
-    },
-    {
-        "name": "Pirates",
-        "outerColor": [
-            0,
-            0,
-            0
-        ],
-        "innerColor": [
-            184,
-            0,
-            0
-        ],
-        "uniques": [
-            "Can only heal by pillaging",
-            "[+2] Sight <for [Scout] units>",
-            "[+2] Movement <for [Scout] units>",
-            "[+50]% Strength <for [All] units>",
-            "[Scout] units gain the [Seek and Capture] promotion",
-            "[{Military} {Land}] units gain the [Terrorist Strength] promotion",
-            "[+10]% Strength <within [2] tiles of a [Terrorist Hideout]>",
-            "[+15]% Strength <in [Terrorist Hideout] tiles> <for [Melee] units>"
+            "[+10]% Strength <within [2] tiles of a [Terrorist hideout]>",
+            "[+15]% Strength <in [Terrorist hideout] tiles> <for [Melee] units>"
         ]
     }
 ]
