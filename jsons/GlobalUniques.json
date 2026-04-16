@@ -34,8 +34,6 @@
         "Triggers a [Mongolia UE] event <for [Mongolia] Civilizations> <upon discovering [Chivalry] technology>",
         "Triggers a [Russia UE] event <for [Russia] Civilizations> <upon discovering [Military Science] technology>",
         "Triggers a [Spain UE] event <for [Spain] Civilizations> <upon discovering [Gunpowder] technology>",
-        "Triggers a [The Maya UE] event <for [The Maya] Civilizations> <upon discovering [Theology] technology>",
-        "Triggers a [The Ottomans UE] event <for [The Ottomans] Civilizations> <upon discovering [Gunpowder] technology>",
         "Triggers a [Comet Sighted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <after turn number [5]> <before the [Renaissance era]>",
         "Triggers a [Comet Spotted] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <starting from the [Renaissance era]> <before the [Modern era]>",
         "Triggers a [Artists Protest the Eiffel Tower] event <for [Major] Civilizations> <if [Eiffel Tower] is constructed>",
