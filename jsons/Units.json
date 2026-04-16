@@ -1194,7 +1194,6 @@
             "[+20]% Strength <vs [Ranged Cavalry] units> <when attacking>",
             "[+20]% Strength <vs [Counter Cavalry] units>",
             "Can move immediately once bought",
-            "Earn [100]% of the damage done to [cities] as [Gold]",
             "[+50]% Strength <vs cities>"
         ],
         "obsoleteTech": "Rifling",
@@ -1411,7 +1410,7 @@
         "upgradesTo": "Fluyt",
         "uniques": [
             "No defensive terrain bonus",
-            "Gain [100] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [Capital Marker]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
+            "Gain [100] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [in all cities]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
             "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"
         ]
     },
@@ -1425,7 +1424,7 @@
         "upgradesTo": "Collier",
         "uniques": [
             "No defensive terrain bonus",
-            "Gain [150] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [Capital Marker]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
+            "Gain [150] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [in all cities]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
             "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"
         ]
     },
@@ -1440,7 +1439,7 @@
         "upgradesTo": "Container ship",
         "uniques": [
             "No defensive terrain bonus",
-            "Gain [200] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [Capital Marker]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
+            "Gain [200] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [in all cities]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
             "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"
         ]
     },
@@ -1452,7 +1451,7 @@
         "requiredTech": "Combustion",
         "uniques": [
             "No defensive terrain bonus",
-            "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [Capital Marker]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
+            "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [in all cities]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
             "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"
         ]
     },
@@ -1468,7 +1467,7 @@
         "requiredTech": "Flight",
         "uniques": [
             "No defensive terrain bonus",
-            "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [Capital Marker]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
+            "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [in all cities]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
             "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"
         ]
     },
@@ -1482,7 +1481,7 @@
         "requiredTech": "Radar",
         "uniques": [
             "No defensive terrain bonus",
-            "Gain [350] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [Capital Marker]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
+            "Gain [350] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [in all cities]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
             "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"
         ]
     },
@@ -1535,7 +1534,7 @@
         "religiousStrength": 500
     },
     {
-        "name": "MC",
+        "name": "PMC",
         "unitType": "Mercenary",
         "movement": 3,
         "cost": 700,
@@ -5292,7 +5291,6 @@
         "movement": 1,
         "uniques": [
             "Unbuildable",
-            "Used to build Spaceship parts",
             "Can only be built <if [Apollo Program] is constructed>"
         ],
         "requiredTech": "Robotics"
