@@ -1646,7 +1646,6 @@
         "requiredResource": "Great Work of Writing",
         "uniques": [
             "Great Work",
-            "GW Writing",
             "Only available <in cities with a [The Great Library]>",
             "Provides [1] [Great Work of Writing]",
             "Instantly consumes [1] [Great Work of Writing]",
@@ -1918,7 +1917,7 @@
             "[+1 Production, +1 Gold] from [Cattle] tiles [in this city]",
             "[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
             "[+1 Production, +1 Gold] from [Sheep] tiles [in this city]",
-            "New [Light Calvary] units start with [15] XP [in this city]"
+            "New [Light Cavalry] units start with [15] XP [in this city]"
         ],
         "requiredTech": "Horseback Riding"
     },
@@ -2381,7 +2380,7 @@
         "culture": 1,
         "isNationalWonder": true,
         "uniques": [
-            "All newly-trained [Military units] [in all cities] receive the [Morale] promotion",
+            "All newly-trained [Military] units [in all cities] receive the [Morale] promotion",
             "Cost increases by [30] per owned city",
             "Comment [Has 1 Great Work of Writing Slot]"
         ],
@@ -4063,7 +4062,7 @@
         "culture": 1,
         "isWonder": true,
         "uniques": [
-            "[+60]% Production when constructing [Heavy Calvary] units [in all cities]",
+            "[+60]% Production when constructing [Heavy Cava] units [in all cities]",
             "Free Social Policy",
             "Only available <after adopting [Communism]>"
         ],
@@ -4327,7 +4326,6 @@
             "Great Scientist": 1
         },
         "uniques": [
-            "Space Mission",
             "Reveals the entire map",
             "[+42 Science] [in foreign cities]",
             "Triggers a global alert upon completion",
