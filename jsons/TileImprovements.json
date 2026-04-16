@@ -848,7 +848,7 @@
         "terrainsCanBeBuiltOn": ["Land"],
         "uniques": [
             "Unpillagable",
-            "Unbuildable",
+            "Unbuildable"
         ],
         "civilopediaText": [{
             "text": "A bleak reminder of the destruction wreaked by War"
