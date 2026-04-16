@@ -245,9 +245,6 @@
         "requiredTech": "Steam Power",
         "upgradesTo": "Dreadnought",
         "obsoleteTech": "Electronics",
-        "promotions": [
-            "Indirect Fire"
-        ],
         "uniques": [
             "Consumes [1] [Iron]",
             "Consumes [1] [Coal]",
@@ -881,7 +878,6 @@
         "requiredTech": "Military Science",
         "obsoleteTech": "Combustion",
         "requiredResource": "Horses",
-        "upgradesTo": "Motorized Infantry",
         "uniques": [
             "Can move after attacking",
             "No defensive terrain bonus",
@@ -4000,9 +3996,6 @@
             "Can see invisible [Naval Submarine] units",
             "[100]% chance to intercept air attacks",
             "Can carry [4] [Missile] units"
-        ],
-        "promotions": [
-            "Indirect Fire"
         ],
         "attackSound": "shipguns"
     },
