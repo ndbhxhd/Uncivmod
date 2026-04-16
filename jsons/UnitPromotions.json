@@ -103,7 +103,7 @@
     {
         "name": "Offshore Operation",
         "uniques": [
-            "Defense bonus when embarked"
+           "[+100]% Strength when embarked"
         ],
         "unitTypes": [
             "Marines"
@@ -325,7 +325,7 @@
         "name": "Battle Recon",
         "uniques": [
             "Ignores Zone of Control",
-            "May withdraw before melee ([50]%)"
+            "Withdraws before melee combat"
         ],
         "prerequisites": [
             "Infiltration"
@@ -578,7 +578,7 @@
     {
         "name": "Skirmisher Tactics",
         "uniques": [
-            "May withdraw before melee ([40]%)"
+            "Withdraws before melee combat"
         ],
         "prerequisites": [
             "Mantlet"
@@ -839,7 +839,7 @@
         "name": "Commando Cavalry",
         "uniques": [
             "Ignores Zone of Control",
-            "May withdraw before melee ([40]%)"
+            "Withdraws before melee combat"
         ],
         "prerequisites": [
             "Pursuit",
@@ -956,7 +956,7 @@
     {
         "name": "Evasive Tactic",
         "uniques": [
-            "May withdraw before melee ([40]%)"
+            "Withdraws before melee combat"
         ],
         "prerequisites": [
             "Harassing Fire"
@@ -1516,7 +1516,7 @@
     {
         "name": "Veteran Raider",
         "uniques": [
-            "May withdraw before melee ([35]%)",
+            "Withdraws before melee combat",
             "[+35]% Strength <when attacking>"
         ],
         "prerequisites": [
@@ -2076,12 +2076,6 @@
         ]
     },
     {
-        "name": "Slinger Withdraw",
-        "uniques": [
-            "May withdraw before melee ([80]%)"
-        ]
-    },
-    {
         "name": "Ignore terrain cost",
         "uniques": [
             "Ignores terrain cost"
@@ -2505,8 +2499,7 @@
             "[+25]% Strength <in [Atoll] tiles>"
         ],
         "prerequisites": [
-            "Reinforced Hull",
-            "Damage Control"
+            "Reinforced Hull"
         ],
         "unitTypes": [
             "Naval Melee"
@@ -2518,8 +2511,7 @@
             "May heal outside of friendly territory"
         ],
         "prerequisites": [
-            "Observation Tower",
-            "Green Water Navy"
+            "Observation Tower"
         ],
         "unitTypes": [
             "Naval Melee"
@@ -2874,7 +2866,7 @@
     {
         "name": "Veteran Raider",
         "uniques": [
-            "May withdraw before melee ([35]%)",
+            "Withdraws before melee combat",
             "[+35]% Strength <when attacking>"
         ],
         "prerequisites": [
@@ -3633,7 +3625,7 @@
     {
         "name": "Slinger Withdraw",
         "uniques": [
-            "May withdraw before melee ([80]%)"
+            "Withdraws before melee combat"
         ]
     },
     {
