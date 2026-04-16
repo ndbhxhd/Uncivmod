@@ -1040,7 +1040,7 @@
                     "uniques": [
                         "[-80]% growth [in all cities] <for [10] turns>",
                         "[-50]% [Production] [in all cities] <for [10] turns>",
-                        "[+25]% [Culture] <in cities with a Bomb Shelter]> <for [10] turns>",
+                        "[+25]% [Culture] <in cities with a [Bomb Shelter]> <for [10] turns>",
                         "[-25]% [Culture] <in cities without a [Bomb Shelter]> <for [10] turns>",
                         "[+5 Happiness] <in cities with a [Bomb Shelter]> <for [10] turns>",
                         "[-5 Happiness] <in cities without a [Bomb Shelter]> <for [10] turns>"
