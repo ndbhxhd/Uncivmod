@@ -103,7 +103,6 @@
     {
         "name": "Offshore Operation",
         "uniques": [
-           "[+100]% Strength when embarked"
         ],
         "unitTypes": [
             "Marines"
