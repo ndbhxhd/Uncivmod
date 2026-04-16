@@ -690,7 +690,7 @@
         "upgradesTo": "Trade Ship",
         "uniques": [
             "No defensive terrain bonus",
-            "Gain [50] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [City Center]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
+            "Gain [50] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [City center]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
             "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"
         ]
     },
@@ -864,7 +864,7 @@
         "requiredTech": "Telecommunications",
         "uniques": [
             "[+100]% Strength <vs cities>",
-            "May Paradrop to [Land] tiles up to [10] tiles away ",
+            "May Paradrop to [Land] tiles up to [10] tiles away",
             "Never appears as a Barbarian unit"
         ],
         "attackSound": "shot"
@@ -1009,7 +1009,7 @@
         "uniques": [
             "[60]% chance to intercept air attacks",
             "Never appears as a Barbarian unit",
-            "May withdraw before melee ([20]%)"
+            "Withdraws before melee combat <with [20]% chance>"
         ],
         "upgradesTo": "Missile Cruiser",
         "attackSound": "shipguns"
@@ -1410,7 +1410,7 @@
         "upgradesTo": "Fluyt",
         "uniques": [
             "No defensive terrain bonus",
-            "Gain [100] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [City Center]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
+            "Gain [100] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [City center]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
             "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"
         ]
     },
@@ -1424,7 +1424,7 @@
         "upgradesTo": "Collier",
         "uniques": [
             "No defensive terrain bonus",
-            "Gain [150] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [City Center]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
+            "Gain [150] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [City center]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
             "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"
         ]
     },
@@ -1439,7 +1439,7 @@
         "upgradesTo": "Container ship",
         "uniques": [
             "No defensive terrain bonus",
-            "Gain [200] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [City Center]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
+            "Gain [200] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [City center]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
             "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"
         ]
     },
@@ -1451,7 +1451,7 @@
         "requiredTech": "Combustion",
         "uniques": [
             "No defensive terrain bonus",
-            "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [City Center]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
+            "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [City center]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
             "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"
         ]
     },
@@ -1467,7 +1467,7 @@
         "requiredTech": "Flight",
         "uniques": [
             "No defensive terrain bonus",
-            "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [City Center]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
+            "Gain [250] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [City center]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
             "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"
         ]
     },
@@ -1481,7 +1481,7 @@
         "requiredTech": "Radar",
         "uniques": [
             "No defensive terrain bonus",
-            "Gain [350] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [City Center]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
+            "Gain [350] [Gold] <in [Friendly Land] tiles> <in [non-[your]] tiles> <in [Major] tiles> <within [3] tiles of a [City center]> <for all movement> <removing the [Loaded] promotion/status> <for [Loaded] units>",
             "[This Unit] gains the [Loaded] promotion <in [Your] cities> <for all movement> <for [non-[Loaded]] units>"
         ]
     },
@@ -4758,7 +4758,7 @@
             "Can see invisible [Naval Raider] units",
             "Can carry [5] [Missile] units",
             "Never appears as a Barbarian unit",
-            "May withdraw before melee ([70]%)"
+            "Withdraws before melee combat <with [70]% chance>"
         ],
         "attackSound": "shipguns"
     },
@@ -4954,7 +4954,7 @@
             "Ignore terrain cost"
         ],
         "uniques": [
-            "May Paradrop to [Land] tiles up to [100] tiles away ",
+            "May Paradrop to [Land] tiles up to [100] tiles away",
             "Never appears as a Barbarian unit",
             "No damage penalty for wounded units",
             "Heals [20] damage if it kills a unit"
