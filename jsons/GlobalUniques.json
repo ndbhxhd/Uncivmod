@@ -21,10 +21,7 @@
         "Triggers a [Miracle Harvest!] event <upon discovering [Fertilizer] technology>",
         "Triggers a [Nationalize the Utilities] event <upon discovering [Industrialization] technology>",
         "Triggers a [Subsidize] event <upon discovering [Steam Power] technology>",
-        "Triggers a [Codify Laws] event <upon discovering [Philosophy] technology>",
-        "Triggers a [Modern Olympics] event <upon discovering [Refrigeration] technology>",
         "Triggers a [The United States of America UE] event <for [The United States of America] Civilizations> <upon discovering [Economics] technology>",
-        "Triggers a [Arabia UE] event <for [Arabia] Civilizations> <upon discovering [Theology] technology>",
         "Triggers a [Aztecs UE] event <for [Aztecs] Civilizations> <upon discovering [Civil Service] technology>",
         "Triggers a [Babylon UE] event <for [Babylon] Civilizations> <upon discovering [Writing] technology>",
         "Triggers a [Byzantium UE] event <for [Byzantium] Civilizations> <upon discovering [Theology] technology>",
@@ -34,10 +31,7 @@
         "Triggers a [Germany UE] event <for [Germany] Civilizations> <upon discovering [Civil Service] technology>",
         "Triggers a [India UE] event <for [India] Civilizations> <upon discovering [Education] technology>",
         "Triggers a [Japan UE] event <for [Japan] Civilizations> <upon discovering [Gunpowder] technology>",
-        "Triggers a [Korea UE] event <for [Korea] Civilizations> <upon discovering [Physics] technology>",
         "Triggers a [Mongolia UE] event <for [Mongolia] Civilizations> <upon discovering [Chivalry] technology>",
-        "Triggers a [Persia UE] event <for [Persia] Civilizations> <upon discovering [Banking] technology>",
-        "Triggers a [Rome UE] event <for [Rome] Civilizations> <upon discovering [Construction] technology>",
         "Triggers a [Russia UE] event <for [Russia] Civilizations> <upon discovering [Military Science] technology>",
         "Triggers a [Spain UE] event <for [Spain] Civilizations> <upon discovering [Gunpowder] technology>",
         "Triggers a [The Maya UE] event <for [The Maya] Civilizations> <upon discovering [Theology] technology>",
@@ -59,12 +53,10 @@
         "Triggers a [Harvest] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]> <before discovering [Fertilizer]>",
         "Triggers a [Famine] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after turn number [5]> <before discovering [Fertilizer]>",
         "Triggers a [Desertion] event <for [Major] Civilizations> <upon turn end> <with [2]% chance> <when at war>",
-        "Triggers a [Olympiad] event <for [Major] Civilizations> <upon turn end> <every [8] turns> <with [15]% chance> <if [International Olympic Committee Headquarters] is constructed by anybody>",
         "Triggers a [Economic Depression] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Modern era]>",
         "Triggers a [Economic Boom] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Modern era]>",
         "Triggers a [Research] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Industrial era]>",
         "Triggers a [Asteroid] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <after discovering [Nuclear Fusion]>",
-        "Triggers a [Obstacle] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Renaissance era]>",
-        "When defeating a [Land] unit, earn [10] Gold and recruit it <with [25]% chance> <for units with [Eranshahr]>"
+        "Triggers a [Obstacle] event <for [Major] Civilizations> <upon turn end> <with [1]% chance> <starting from the [Renaissance era]>"
     ]
 }
