@@ -264,7 +264,7 @@
     {
         "name": "Woodlander",
         "uniques": [
-            "ouble movement in [Forest]",
+            "Double movement in [Forest]",
             "Double movement in [Jungle]",
             "[+20]% Strength <in [Forest] tiles>",
             "[+20]% Strength <in [Jungle] tiles>"
@@ -1228,8 +1228,7 @@
             "[+25]% Strength <in [Atoll] tiles>"
         ],
         "prerequisites": [
-            "Reinforced Hull",
-            "Damage Control"
+            "Reinforced Hull"
         ],
         "unitTypes": [
             "Naval Melee"
@@ -3339,7 +3338,7 @@
         ],
         "unitTypes": [
             "Atomic Bomber",
-            "Nuke Missile"
+            "Nuclear Missile"
         ]
     },
     {
@@ -3358,7 +3357,7 @@
         ],
         "unitTypes": [
             "Missile",
-            "Nuke Missile"
+            "Nuclear Missile"
         ]
     },
     {
