@@ -698,9 +698,7 @@
         "cost": 820,
         "hurryCostModifier": 160,
         "percentStatBonus": {
-            "production": 25
-        },
-        "percentStatBonus": {
+            "production": 25,
             "science": 25
         },
         "requiredBuilding": "Launch Facility",
@@ -755,9 +753,7 @@
         "cost": 660,
         "hurryCostModifier": 160,
         "percentStatBonus": {
-            "gold": 10
-        },
-        "percentStatBonus": {
+            "gold": 10,
             "production": 10
         },
         "gold": 5,
@@ -788,9 +784,7 @@
         "cost": 660,
         "hurryCostModifier": 160,
         "percentStatBonus": {
-            "gold": 25
-        },
-        "percentStatBonus": {
+            "gold": 25,
             "production": 25
         },
         "uniques": [
@@ -993,12 +987,8 @@
         "cost": 780,
         "hurryCostModifier": 160,
         "percentStatBonus": {
-            "production": 25
-        },
-        "percentStatBonus": {
-            "gold": 25
-        },
-        "percentStatBonus": {
+            "production": 25,
+            "gold": 25,
             "science": 25
         },
         "happiness": 2,
@@ -1378,9 +1368,7 @@
         "cost": 125,
         "isNationalWonder": true,
         "percentStatBonus": {
-            "gold": 20
-        },
-        "percentStatBonus": {
+            "gold": 20,
             "science": 20
         },
         "specialistSlots": {
