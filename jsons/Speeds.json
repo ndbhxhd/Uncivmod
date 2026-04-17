@@ -9,18 +9,18 @@
     "improvementBuildLengthModifier": 1.0,
     "barbarianModifier": 1.0,
     "goldGiftModifier": 1.0,
-    "cityStateTributeScalingInterval": 3,
+    "cityStateTributeScalingInterval": 2,
     "goldenAgeLengthModifier": 1.0,
     "religiousPressureAdjacentCity": 7,
     "peaceDealDuration": 1,
     "dealDuration": 40,
     "startYear": -5000,
     "turns": [{
-        "yearsPerTurn": 50,
+        "yearsPerTurn": 10,
         "untilTurn": 150
     },
         {
-            "yearsPerTurn": 25,
+            "yearsPerTurn": 15,
             "untilTurn": 500
         }]
 }]
