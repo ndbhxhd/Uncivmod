@@ -3,20 +3,14 @@
         "name": "Altars of Worship",
         "type": "Pantheon",
         "uniques": [
-            "[+25]% Production when constructing [All] wonders [in cities following this religion]"
+            "[+15]% Production when constructing [All] wonders [in cities following this religion]"
         ]
-        // ToDo: Should only be ancient/classical era wonders, but implementing that is another can of worms
-        // For that we really should need an era.matchesFilter(), so we could write something like:
-        //"uniques": ["[+15]% Production when constructing [Ancient era] wonders [in cities following this religion]",
-        // "[+15]% Production when constructing [Classical era] wonders [in cities following this religion]"]
-        // For now this feels like overkill, but I'll leave this here for the future
-        // Alternatively, we could approximate this with "[+15]% Production when constructing [All] wonders [in cities following this religion] <during the [Ancient era]>"
     },
     {
         "name": "Ancestor Worship",
         "type": "Pantheon",
         "uniques": [
-            "[+3 Culture] from every [Shrine]"
+            "[+2 Culture] from every [Shrine]"
         ]
     },
     {
@@ -61,7 +55,7 @@
         "name": "God of Craftsman",
         "type": "Pantheon",
         "uniques": [
-            "[+5 Production] [in cities following this religion]"
+            "[+3 Production] [in cities following this religion]"
         ]
     },
     {
@@ -87,9 +81,9 @@
         "name": "God of War",
         "type": "Pantheon",
         "uniques": [
-            "[+5 Production] from every [Barracks]",
+            "[+3 Production] from every [Barracks]",
             "[+3 Food] from every [Barracks]",
-            "New [Military] units start with [20] XP [in this city]"
+            "New [Military] units start with [15] XP [in this city]"
         ]
     },
     {
@@ -105,7 +99,7 @@
         "name": "Goddess of Love",
         "type": "Pantheon",
         "uniques": [
-            "[+5 Happiness] [in cities following this religion] <in cities with at least [2] [Population]>"
+            "[+3 Happiness] [in cities following this religion] <in cities with at least [2] [Population]>"
         ]
     },
     {
@@ -130,15 +124,15 @@
         "name": "Goddess of the Hunt",
         "type": "Pantheon",
         "uniques": [
-            "[+4 Food] from every [Camp]"
+            "[+2 Food] from every [Camp]"
         ]
     },
     {
         "name": "Harvest Festival",
         "type": "Pantheon",
         "uniques": [
-            "[+4 Food] from every [Wheat]",
-            "[+4 Food] from every [Maize]"
+            "[+2 Food] from every [Wheat]",
+            "[+2 Food] from every [Maize]"
         ]
     },
     {
@@ -163,14 +157,14 @@
         "type": "Pantheon",
         "uniques": [
             "[+2 Production] from every [Fishing Boats]",
-            "[+4 Production] from every [Atoll]"
+            "[+2 Production] from every [Atoll]"
         ]
     },
     {
         "name": "One with Nature",
         "type": "Pantheon",
         "uniques": [
-            "[+5 Faith] from every [Natural Wonder]"
+            "[+3 Faith] from every [Natural Wonder]"
         ]
     },
     {
@@ -201,7 +195,7 @@
         "name": "Religious Settlements",
         "type": "Pantheon",
         "uniques": [
-            "[-25]% Culture cost of natural border growth [in cities following this religion]",
+            "[-15]% Culture cost of natural border growth [in cities following this religion]",
             "[+3 Food] [in cities following this religion]"
         ]
     },
@@ -328,7 +322,6 @@
             "[+2 Happiness] for each global city following this religion"
         ]
     },
-    //TODO +1 Global Happiness per 2 Cities following this Religion; +1 Local Happiness in the Palace
     {
         "name": "Church Property",
         "type": "Founder",
@@ -340,7 +333,7 @@
         "name": "Dawah",
         "type": "Founder",
         "uniques": [
-            "[+3 Culture, +4 Faith] [in capital]"
+            "[+2 Culture, +2 Faith] [in capital]"
         ]
     },
     {
@@ -354,15 +347,15 @@
         "name": "Messiah",
         "type": "Founder",
         "uniques": [
-            "[+30]% Spread Religion Strength <for [Great Prophet] units>",
-            "[-40]% Faith cost of generating Great Prophet equivalents"
+            "[+50]% Spread Religion Strength <for [Great Prophet] units>",
+            "[-50]% Faith cost of generating Great Prophet equivalents"
         ]
     },
     {
         "name": "Missionary Zeal",
         "type": "Founder",
         "uniques": [
-            "[Faith] cost of purchasing [Missionary] units [-40]%",
+            "[Faith] cost of purchasing [Missionary] units [-30]%",
             "All newly-trained [Missionary] units [in this city] receive the [Missionary Zeal] promotion"
         ]
     },
@@ -378,21 +371,21 @@
         "type": "Founder",
         "uniques": [
             "[+80]% Natural religion spread [in City-State cities]",
-            "Resting point for Influence with City-States following this religion [+45]"
+            "Resting point for Influence with City-States following this religion [+55]"
         ]
     },
     {
         "name": "Reliquary",
         "type": "Founder",
         "uniques": [
-            "Gain [100] [Faith] <upon expending a [Great Person] unit>"
+            "Gain [200] [Faith] <upon expending a [Great Person] unit>"
         ]
     },
     {
         "name": "Salat",
         "type": "Founder",
         "uniques": [
-            "[+10 Production] [in capital]"
+            "[+8 Production] [in capital]"
         ]
     },
     {
@@ -413,10 +406,9 @@
         "name": "Zakat",
         "type": "Founder",
         "uniques": [
-            "[+10 Gold] [in capital]"
+            "[+8 Gold] [in capital]"
         ]
     },
-    ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {
         "name": "Cathedrals",
         "type": "Follower",
@@ -428,14 +420,14 @@
         "name": "Choral Music",
         "type": "Follower",
         "uniques": [
-            "[+3 Culture] from every [Temple]"
+            "[+2 Culture] from every [Temple]"
         ]
     },
     {
         "name": "Devoted Elite",
         "type": "Follower",
         "uniques": [
-            "[+4 Production, +2 Gold, +2 Happiness] [in cities following this religion] <in cities with at least [10] [Population]>"
+            "[+3 Production, +2 Gold, +2 Happiness] [in cities following this religion] <in cities with at least [10] [Population]>"
         ]
     },
     {
@@ -467,12 +459,12 @@
         "name": "Followers of Refined Crafts",
         "type": "Follower",
         "uniques": [
-            "[+1 Culture, +2 Gold] from every [Mint]",
-            "[+1 Culture, +2 Gold] from every [Gemcutter]",
-            "[+1 Culture, +2 Gold] from every [Brewery]",
-            "[+1 Culture, +2 Gold] from every [Grocer]",
-            "[+1 Culture, +2 Gold] from every [Censer Maker]",
-            "[+1 Culture, +2 Gold] from every [Textile Mill]"
+            "[+2 Culture, +2 Gold] from every [Mint]",
+            "[+2 Culture, +2 Gold] from every [Gemcutter]",
+            "[+2 Culture, +2 Gold] from every [Brewery]",
+            "[+2 Culture, +2 Gold] from every [Grocer]",
+            "[+2 Culture, +2 Gold] from every [Censer Maker]",
+            "[+2 Culture, +2 Gold] from every [Textile Mill]"
         ]
     },
     {
@@ -500,8 +492,8 @@
         "name": "Liturgical Drama",
         "type": "Follower",
         "uniques": [
-            "[+2 Faith, +1 Culture] from every [Amphitheater]",
-            "[+2 Faith, +1 Culture] from every [Opera House]"
+            "[+2 Faith, +2 Culture] from every [Amphitheater]",
+            "[+2 Faith, +2 Culture] from every [Opera House]"
         ]
     },
     {
@@ -537,7 +529,7 @@
         "name": "Religious Art",
         "type": "Follower",
         "uniques": [
-            "[+8 Culture, +8 Faith] from every [Hermitage]"
+            "[+8 Culture, +5 Faith] from every [Hermitage]"
         ]
     },
     {
@@ -576,20 +568,18 @@
             "Comment [Unlocks [Vihara] [in cities following this religion]]"
         ]
     },
-    ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
     {
         "name": "Defender of the Faith",
         "type": "Enhancer",
         "uniques": [
-            "[+35]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
+            "[+30]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"
         ]
-        // TODO: Should only be friendly territory of cities that follow this religion
     },
     {
         "name": "Dharma",
         "type": "Enhancer",
         "uniques": [
-            "[+15 Science] from every [Grand Temple]"
+            "[+10 Science] from every [Grand Temple]"
         ]
     },
     {
@@ -610,16 +600,15 @@
         "name": "Jizya",
         "type": "Enhancer",
         "uniques": [
-            "[+9 Production, +8 Gold] from every [Grand Temple]"
+            "[+8 Production, +8 Gold] from every [Grand Temple]"
         ]
     },
     {
         "name": "Just War",
         "type": "Enhancer",
         "uniques": [
-            "[+30]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"
+            "[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"
         ]
-        // TODO: Should only be enemy territory of cities that follow this religion
     },
     {
         "name": "Karma",
@@ -635,8 +624,6 @@
             "[+10 Happiness] [in capital]"
         ]
     },
-    //Pilgrimage: Gain +4 Faith and +3 Culture for every foreign City that follows this Religion
-    //Promised Land: Religion spreads twice as fast to friendly Cities and Cities that already follow this Religion
     {
         "name": "Religious Troubadours",
         "type": "Enhancer",
@@ -660,7 +647,6 @@
             "[+5 Faith, +3 Production, +3 Culture] from every [Holy site]"
         ]
     },
-    ////////////////////////////////////// Reformation beliefs ///////////////////////////////////////
     {
         "name": "Apostolic Palace",
         "type": "Follower",
@@ -673,7 +659,7 @@
         "name": "City of God",
         "type": "Follower",
         "uniques": [
-            "[+3 Food, +2 Science] from every [Holy site]",
+            "[+3 Food, +3 Science] from every [Holy site]",
             "Free [Great Prophet] appears",
             "Unavailable"
         ]
