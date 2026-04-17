@@ -175,10 +175,10 @@
             "Gain a free [Great Admiral purchased] [in all cities] <hidden from users>"
         ]
     },
-    // Religious buildings
     {
         "name": "Cathedral",
         "culture": 10,
+        "faith": 10,
         "uniques": [
             "Unbuildable",
             "Unsellable",
@@ -269,7 +269,6 @@
             "Only available <in cities with a [Mandirs] religion>"
         ]
     },
-    // Uniques
     {
         "name": "Art Hall",
         "culture": 5,
@@ -282,7 +281,7 @@
     {
         "name": "Writing Auditorium",
         "culture": 3,
-        "science": 2,
+        "science": 3,
         "uniques": [
             "Unbuildable",
             "Unsellable"
@@ -291,7 +290,7 @@
     {
         "name": "Vocal Chamber",
         "culture": 4,
-        "happiness": 1,
+        "happiness": 3,
         "specialistSlots": {
             "Musician": 1
         },
@@ -315,16 +314,6 @@
             "Never destroyed when the city is captured"
         ]
     },
-    /*{
-        "name": "~limit",
-        "gold": 2,
-        "cost": -1,
-        "uniques": [
-            "Never destroyed when the city is captured",
-            "Will not be displayed in Civilopedia",
-            "Unbuildable", "Unsellable"
-        ]
-    },*/
     {
         "name": "~CS",
         "uniques": [
@@ -355,14 +344,12 @@
             "Gain control over [6] tiles [in this city] <upon founding a city>"
         ]
     },
-    // Ancient Era
-    // Always available
     {
         "name": "Palace",
         "isNationalWonder": true,
-        "production": 3,
-        "science": 3,
-        "gold": 3,
+        "production": 1,
+        "science": 1,
+        "gold": 1,
         "culture": 1,
         "cityStrength": 2,
         "cost": 0,
@@ -383,7 +370,6 @@
             "Instantly consumes [1] [Great Work of Writing]"
         ]
     },
-    //Information era
     {
         "name": "Autoplant",
         "cost": 660,
@@ -393,7 +379,7 @@
             "Engineer": 1
         },
         "uniques": [
-            "[+1 Gold] from every [E-Commerce Server]",
+            "[+5 Gold] from every [E-Commerce Server]",
             "Only available <in cities without a [Genejack Facility]>",
             "Only available <in cities without a [Biofactory]>",
             "Only available <in cities without a [Biogenesis Pod]>"
@@ -435,7 +421,7 @@
         "name": "E-Commerce Server",
         "cost": 500,
         "hurryCostModifier": 160,
-        "gold": 4,
+        "gold": 5,
         "percentStatBonus": {
             "gold": 25
         },
@@ -541,7 +527,7 @@
         "uniques": [
             "[+2 Production] from [Oil] tiles [in this city]",
             "[+2 Production] from [Coal] tiles [in this city]",
-            "Provides [4] [Nanomaterial]"
+            "Provides [2] [Nanomaterial]"
         ],
         "requiredTech": "Nanomaterials"
     },
@@ -549,7 +535,7 @@
         "name": "Research Server",
         "cost": 660,
         "hurryCostModifier": 160,
-        "science": 4,
+        "science": 5,
         "specialistSlots": {
             "Scientist": 1
         },
@@ -603,12 +589,11 @@
         "cost": 660,
         "hurryCostModifier": 160,
         "uniques": [
-            "New [Military] units start with [25] XP [in this city]"
+            "New [Military] units start with [20] XP [in this city]"
         ],
         "requiredBuilding": "Military Academy",
         "requiredTech": "Memetics"
     },
-    //Future era
     {
         "name": "Biofactory",
         "cost": 660,
@@ -803,7 +788,7 @@
         },
         "uniques": [
             "[+1 Production] from [Generator] tiles [in this city]",
-            "[+10]% Production when constructing [All] buildings [in this city]",
+            "[+15]% Production when constructing [All] buildings [in this city]",
             "Only available <in cities without a [Biofactory]>",
             "Only available <in cities without a [Genejack Facility]>",
             "Only available <in cities without a [Biogenesis Pod]>"
@@ -850,8 +835,7 @@
         "name": "Aerospace Complex",
         "hurryCostModifier": 25,
         "uniques": [
-            "Can carry [6] extra [Air] units",
-            "[+25]% Production when constructing [Suborbital Bomber] units [in this city]"
+            "Can carry [6] extra [Air] units"
         ],
         "requiredTech": "Arcologies"
     },
@@ -876,7 +860,6 @@
         "cost": 780,
         "hurryCostModifier": 160,
         "gold": 2,
-        // Land units gain Gengineered promotion
         "uniques": [
             "[+1 Production] from [Forest] tiles [in this city]",
             "[+15]% Production when constructing [Bio-Titan] units [in this city]",
@@ -892,7 +875,6 @@
         "name": "Bioenhancement Centre",
         "cost": 780,
         "hurryCostModifier": 160,
-        // Melee, Gun, Ranged, and Scout units receive the Biomod promotion
         "uniques": [
             "[+25]% Production when constructing [Biotrooper] units [in this city]",
             "Only available <in cities without a [Cyberclinic]>",
@@ -1048,7 +1030,6 @@
         "requiredBuilding": "Distribution Hub",
         "requiredTech": "Hyperstructures"
     },
-    //Wonders
     {
         "name": "Enrichment Centre",
         "isWonder": true,
@@ -1056,7 +1037,7 @@
             "science": 100
         },
         "uniques": [
-            "[+1 Science] per [1] population [in this city]"
+            "[+1 Science] per [3] population [in this city]"
         ],
         "requiredTech": "Particle Physics"
     },
@@ -1066,7 +1047,6 @@
         "greatPersonPoints": {
             "Great Engineer": 2
         },
-        //Damages units next to cities switch a Solar Plant
         "uniques": [
             "[+1 Gold, +1 Production] from [Desert] tiles [in this city]",
             "[+100]% Yield from every [Solar Plant]",
@@ -1194,7 +1174,6 @@
         ],
         "requiredTech": "Human Augmentation"
     },
-    //Pholus Mutagen
     {
         "name": "Skynet",
         "isWonder": true,
@@ -1230,7 +1209,6 @@
         ],
         "requiredTech": "Cognitive Technology"
     },
-    //Hyperstructures
     {
         "name": "Bionic Tower",
         "isWonder": true,
@@ -1253,7 +1231,6 @@
         "greatPersonPoints": {
             "Great Scientist": 2
         },
-        //Golden Age Points for every pop. in this city
         "uniques": [
             "Empire enters golden age",
             "[+50]% Golden Age length",
@@ -1331,7 +1308,6 @@
         ],
         "requiredTech": "Hyperstructures"
     },
-    //National Wonders
     {
         "name": "Borehole",
         "cost": 125,
@@ -1437,11 +1413,9 @@
         "cost": 30,
         "maintenance": 1,
         "uniques": [
-            "Destroyed when the city is captured",
-            "[+10]% Production when constructing [Civilian] units [in this city]"
+            "Destroyed when the city is captured"
         ]
     },
-    // Column 1
     {
         "name": "Granary",
         "food": 2,
@@ -1510,7 +1484,6 @@
         "maintenance": 1,
         "requiredTech": "Pottery",
         "uniques": [
-            "[+10]% Production when constructing [Civilian] units [in this city]",
             "Destroyed when the city is captured"
         ]
     },
@@ -1542,7 +1515,6 @@
         "requiredTech": "Archery",
         "quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson"
     },
-    // Column 2
     {
         "name": "Stone Works",
         "happiness": 1,
@@ -1594,8 +1566,7 @@
         "cost": 30,
         "maintenance": 1,
         "uniques": [
-            "[+1 Science] per [2] population [in this city]",
-            "[+15]% Production when constructing [Civilian] units [in this city]"
+            "[+1 Science] per [2] population [in this city]"
         ],
         "requiredTech": "Writing"
     },
@@ -1823,8 +1794,6 @@
         "requiredTech": "Bronze Working",
         "quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad"
     },
-    // Classical Era
-    // Column 3
     {
         "name": "Lighthouse",
         "cost": 75,
@@ -2010,7 +1979,6 @@
         ],
         "quote": "'Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.' - Sun Tzu"
     },
-    // Column 4
     {
         "name": "Temple",
         "faith": 3,
@@ -2417,8 +2385,6 @@
         "requiredTech": "Iron Working",
         "quote": "'Why man, he doth bestride the narrow world like a colossus, and we petty men walk under his huge legs, and peep about to find ourselves dishonorable graves.' - William Shakespeare, Julius Caesar"
     },
-    // Medieval Era
-    // Column 5
     {
         "name": "Censer Maker",
         "cost": 75,
@@ -2656,7 +2622,6 @@
         ],
         "requiredTech": "Metal Casting"
     },
-    // Column 6
     {
         "name": "Harbor",
         "cost": 120,
@@ -2923,8 +2888,6 @@
         ],
         "requiredTech": "Metal Casting"
     },
-    // Renaissance Era
-    // Column 7
     {
         "name": "Observatory",
         "maintenance": 1,
@@ -3071,7 +3034,6 @@
             "gold": 25,
             "production": 25
         },
-        //"uniques": ["+5% Production for every Trade Route with a City-State in the empire"],
         "requiredBuilding": "Market",
         "requiredTech": "Banking"
     },
@@ -3194,7 +3156,6 @@
         "requiredTech": "Gunpowder",
         "quote": "'Bushido is realized in the presence of death. This means choosing death whenever there is a choice between life and death. There is no other reasoning.' - Yamamoto Tsunetomo"
     },
-    // Column 8
     {
         "name": "Seaport",
         "hurryCostModifier": 25,
@@ -3207,22 +3168,6 @@
         ],
         "requiredTech": "Navigation"
     },
-    //    {
-    //        "name": "Arsenal of Venice",
-    //        "cost": 500,
-    //        "culture": 3,
-    //        "greatPersonPoints": {"Great Engineer": 2},
-    //        "cityStrength": 5,
-    //        "cityHealth": 25,
-    //        "isWonder": true,
-    //        "uniques": [
-    //            "Must be next to [Coast]",
-    //        ],
-    //        "requiredTech": "Navigation"
-    //    },
-    //TODO: reuired new uniq
-    //Naval Units in the city are 33% more expensive to construct
-    //Provides a second naval unit for each Naval Unit built with Production in the city
     {
         "name": "Hermitage",
         "cost": 125,
@@ -3434,8 +3379,6 @@
         "requiredTech": "Metallurgy",
         "quote": "'When we build, let us think that we build forever.' - John Ruskin"
     },
-    // Industrial Era
-    // Column 9
     {
         "name": "Arms-Factory",
         "uniqueTo": "The United States of America",
@@ -3739,12 +3682,11 @@
         "isWonder": true,
         "uniques": [
             "Free [Great General] appears",
-            "New [Military] units start with [35] XP [in all cities]"
+            "New [Military] units start with [30] XP [in all cities]"
         ],
         "requiredTech": "Military Science",
         "quote": "'Pale Death beats equally at the poor man's gate and at the palaces of kings.' - Horace"
     },
-    // Column 10
     {
         "name": "Hospital",
         "food": 5,
@@ -3854,8 +3796,6 @@
         ],
         "quote": "'Greed, for lack of a better word, is good.'— Gordon Gekko"
     },
-    // Modern Era
-    // Column 11
     {
         "name": "Stadium",
         "happiness": 2,
@@ -3875,15 +3815,6 @@
         ],
         "requiredTech": "Electricity"
     },
-    /*{
-        "name": "Hotel",
-        "cost": 300,
-        "culture": 1,
-        "maintenance": 5,
-        "hurryCostModifier": 25,
-        "requiredTech": "Refrigeration",
-        "uniques": ["[+1 Culture] from [Oasis] tiles [in this city]","[+1 Culture] from [Lakes] tiles [in this city]","[+1 Culture] from every [Great Work] <in this city>","[+25]% [Culture] from every [Improvement] <in this city>"]
-    },*/
     {
         "name": "Broadcast Tower",
         "culture": 2,
@@ -4009,7 +3940,7 @@
     {
         "name": "Military Base",
         "cityStrength": 12,
-        "cityHealth": 25,
+        "cityHealth": 45,
         "hurryCostModifier": 25,
         "requiredBuilding": "Arsenal",
         "requiredTech": "Replaceable Parts",
@@ -4037,7 +3968,7 @@
         "happiness": 6,
         "isWonder": true,
         "uniques": [
-            "[+6] population [in all cities]",
+            "[+7] population [in all cities]",
             "Free Social Policy",
             "Only available <after adopting [Freedom]>"
         ],
@@ -4083,7 +4014,6 @@
         ],
         "requiredTech": "Railroads"
     },
-    // Column 12
     {
         "name": "Research Lab",
         "science": 4,
@@ -4113,7 +4043,7 @@
         "requiredBuilding": "Public School",
         "maintenance": 4,
         "uniques": [
-            "New [Military] units start with [20] XP [in this city]",
+            "New [Military] units start with [15] XP [in this city]",
             "Destroyed when the city is captured"
         ]
     },
@@ -4127,8 +4057,6 @@
         "requiredTech": "Plastics",
         "quote": "'Come to me, all who labor and are heavy burdened, and I will give you rest.' - New Testament, Matthew 11:28"
     },
-    // Atomic Era
-    // Column 13
     {
         "name": "Medical Lab",
         "requiredBuilding": "Hospital",
@@ -4162,14 +4090,6 @@
         ],
         "requiredTech": "Atomic Theory"
     },
-    /*{
-        "name": "Airport",
-        "cost": 400,
-        "maintenance": 5,
-        "hurryCostModifier": 0,
-        "requiredTech": "Radar",
-        "uniques": ["[+1 Culture] from every [Great Work] <in this city>","[+25]% [Culture] from every [Improvement] <in this city>"]
-    },*/
     {
         "name": "CN Tower",
         "isWonder": true,
@@ -4198,7 +4118,6 @@
         "requiredTech": "Combined Arms",
         "quote": "'In preparing for battle I have always found that plans are useless, but planning is indispensable.' - Dwight D. Eisenhower"
     },
-    // Column 14
     {
         "name": "Solar Plant",
         "production": 5,
@@ -4381,8 +4300,6 @@
             "Provides [3] [Secret Project]"
         ]
     },
-    // Information Era
-    // Column 15
     {
         "name": "Bomb Shelter",
         "cost": 300,
@@ -4392,13 +4309,6 @@
             "Population loss from nuclear attacks [-80]% [in this city]"
         ]
     },
-    /*{
-        "name": "National Visitor's Center",
-        "cost": 400,
-        "isNationalWonder": true,
-        "requiredTech": "Telecommunications",
-        "uniques": ["[+2 Culture] from every [Great Work] <in this city>","[+50]% [Culture] from every [Improvement] <in this city>","Requires a [Hotel] in all cities", "Cost increases by [30] per owned city"]
-    },*/
     {
         "name": "Hubble Space Telescope",
         "science": 10,
@@ -4420,7 +4330,6 @@
         "requiredBuilding": "Factory",
         "requiredTech": "Robotics"
     },
-    // Column 16
     {
         "name": "United Nations",
         "isWonder": true,
@@ -4436,7 +4345,6 @@
         ],
         "quote": "'More than ever before in human history, we share a common destiny. We can master it only if we face it together. And that is why we have the United Nations.' - Kofi Annan"
     },
-    // All Eras
     {
         "name": "Utopia Project",
         "cost": 1500,
