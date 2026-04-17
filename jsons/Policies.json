@@ -64,7 +64,7 @@
             {
                 "name": "Monarchy",
                 "uniques": [
-                    "[+2 Gold, +1 Happiness] per [2] population [in capital]",
+                    "[+1 Gold, +1 Happiness] per [2] population [in capital]",
                     "Provides [1] [Policies]"
                 ],
                 "requires": [
@@ -144,7 +144,7 @@
                 "uniques": [
                     "[+25]% [Gold] from Trade Routes",
                     "[+3 Happiness] [in all cities connected to capital]",
-                    "[-7]% Unhappiness from [Population] [in all non-occupied cities]",
+                    "[-17]% Unhappiness from [Population] [in all non-occupied cities]",
                     "Provides [1] [Policies]"
                 ],
                 "requires": [
@@ -185,7 +185,7 @@
         "name": "Honor",
         "era": "Ancient era",
         "uniques": [
-            "[+15]% Strength <vs [Barbarian] units>",
+            "[+5]% Strength <vs [Barbarian] units>",
             "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
             "Comment [Unlocks [Temple of Artemis]]",
             "Provides [1] [Policies]"
@@ -274,7 +274,7 @@
         "uniques": [
             "[+100]% Production when constructing [Temple] buildings [in all cities]",
             "[+100]% Production when constructing [Shrine] buildings [in all cities]",
-            "[+1 Culture, +1 Faith] [in capital]",
+            "[+1 Culture, +2 Faith] [in capital]",
             "Comment [Unlocks [Great Mosque of Djenne]]",
             "Provides [1] [Policies]"
         ],
@@ -293,8 +293,8 @@
             {
                 "name": "Organized Religion",
                 "uniques": [
-                    "[+1 Culture, +1 Faith] from every [Shrine]",
-                    "[+1 Culture, +1 Faith] from every [Temple]",
+                    "[+1 Culture, +2 Faith] from every [Shrine]",
+                    "[+1 Culture, +2 Faith] from every [Temple]",
                     "Provides [1] [Policies]"
                 ],
                 "row": 1,
@@ -304,8 +304,8 @@
                 "name": "Theocracy",
                 "uniques": [
                     "[+35]% [Gold] from every [Grand Temple]",
-                    "[+1 Gold] from every [Temple]",
-                    "[+1 Gold] from every [Shrine]",
+                    "[+2 Gold] from every [Temple]",
+                    "[+2 Gold] from every [Shrine]",
                     "[+3 Gold] from every [Holy site]",
                     "Provides [1] [Policies]"
                 ],
@@ -330,7 +330,7 @@
             {
                 "name": "Religious Tolerance",
                 "uniques": [
-                    "[+1 Culture, +1 Faith] [in all cities]",
+                    "[+1 Culture, +2 Faith] [in all cities]",
                     "[+20]% [Science] from every [Grand Temple]",
                     "[+2 Science] from every [Temple]",
                     "Provides [1] [Policies]"
@@ -586,7 +586,7 @@
                 "name": "Navigation School",
                 "uniques": [
                     "[+3 Science] [in all cities]",
-                    "[+15]% Strength <for [Water] units>",
+                    "[+10]% Strength <for [Water] units>",
                     "Provides [1] [Policies]"
                 ],
                 "requires": [
@@ -666,7 +666,7 @@
             {
                 "name": "Mercantilism",
                 "uniques": [
-                    "[Gold] cost of purchasing items in cities [-20]%",
+                    "[Gold] cost of purchasing items in cities [-10]%",
                     "[+2 Science] from every [Market]",
                     "[+2 Science] from every [Bank]",
                     "[+2 Science] from every [Stock Exchange]",
@@ -683,7 +683,7 @@
                 "uniques": [
                     "[+3 Food, +4 Gold] from every [Customs house]",
                     "[+4 Production, +4 Culture, +4 Happiness] from every [East India Company]",
-                    "[+30]% [Gold] [in all cities]",
+                    "[+20]% [Gold] [in all cities]",
                     "[+50]% [Production] [in all cities]",
                     "[-1 Happiness] per [5] population [in all cities]",
                     "Provides [1] [Policies]"
@@ -829,7 +829,7 @@
             {
                 "name": "Double Agents",
                 "uniques": [
-                    "[-100]% enemy spy effectiveness [in all cities connected to capital]",
+                    "[-160]% enemy spy effectiveness [in all cities connected to capital]",
                     "Provides [1] [Level 1 Ideology]",
                     "Provides [1] [Policies]"
                 ],
@@ -965,7 +965,7 @@
                     "Provides [5] [Aluminum]",
                     "Provides [5] [Coal]",
                     "Provides [5] [Iron]",
-                    "Provides [4] [Uranium]",
+                    "Provides [5] [Uranium]",
                     "Provides [-1] [Level 2 Ideology]",
                     "Only available <when above [1] [Level 2 Ideology]>",
                     "Provides [1] [Policies]"
@@ -1017,7 +1017,7 @@
             {
                 "name": "Avant Garde",
                 "uniques": [
-                    "[+30]% Great Person generation [in all cities]",
+                    "[+20]% Great Person generation [in all cities]",
                     "Provides [1] [Level 1 Ideology]",
                     "Provides [1] [Policies]"
                 ],
@@ -1047,7 +1047,7 @@
             {
                 "name": "Volunteer Army",
                 "uniques": [
-                    "[5] free [Cog] units appear",
+                    "[5] free [Infantry] units appear",
                     "[2] units cost no maintenance",
                     "[Infantry] units gain the [Morale] promotion",
                     "All newly-trained [Infantry] units [in all cities] receive the [Morale] promotion",
@@ -1060,7 +1060,7 @@
             {
                 "name": "Covert Action",
                 "uniques": [
-                    "[+100]% spy effectiveness [in City-State cities]",
+                    "[+170]% spy effectiveness [in City-State cities]",
                     "Gain an extra spy",
                     "Provides [1] [Level 1 Ideology]",
                     "Provides [1] [Policies]"
@@ -1074,7 +1074,7 @@
                     "[+1 Happiness] from every [Market]",
                     "[+1 Happiness] from every [Bank]",
                     "[+1 Happiness] from every [Stock Exchange]",
-                    "[+30]% [Gold] [in all cities]",
+                    "[+10]% [Gold] [in all cities]",
                     "Provides [3] [Trade Route]",
                     "Provides [1] [Level 1 Ideology]",
                     "Provides [1] [Policies]"
@@ -1085,7 +1085,7 @@
             {
                 "name": "Economic Union",
                 "uniques": [
-                    "[+20]% [Gold] [in all cities]",
+                    "[+10]% [Gold] [in all cities]",
                     "Provides [2] [Trade Route]",
                     "Provides [1] [Level 1 Ideology]",
                     "Provides [1] [Policies]"
@@ -1113,9 +1113,9 @@
                     "[Great Artist] is earned [35]% faster",
                     "[Great Writer] is earned [35]% faster",
                     "[Great Musician] is earned [35]% faster",
-                    "[+20]% [Gold] <in cities with a [Zoo]>",
-                    "[+20]% [Gold] <in cities with a [Museum]>",
-                    "[+20]% [Gold] <in cities with a [Broadcast Tower]>",
+                    "[+10]% [Gold] <in cities with a [Zoo]>",
+                    "[+10]% [Gold] <in cities with a [Museum]>",
+                    "[+10]% [Gold] <in cities with a [Broadcast Tower]>",
                     "Provides [-1] [Level 1 Ideology]",
                     "Provides [1] [Level 2 Ideology]",
                     "Only available <when above [1] [Level 1 Ideology]>",
@@ -1141,7 +1141,7 @@
                 "name": "New Deal",
                 "uniques": [
                     "[+5 Science] from every [Academy]",
-                    "[+10 Production] from every [Manufactory]",
+                    "[+5 Production] from every [Manufactory]",
                     "[+5 Production] from every [Dry Dock]",
                     "[+5 Faith] from every [Holy site]",
                     "[+5 Culture] from every [Landmark]",
@@ -1281,7 +1281,7 @@
             {
                 "name": "Industrial Espionage",
                 "uniques": [
-                    "[+100]% spy effectiveness [in all cities]",
+                    "[+160]% spy effectiveness [in all cities]",
                     "Provides [1] [Level 1 Ideology]",
                     "Provides [1] [Policies]"
                 ],
@@ -1377,7 +1377,7 @@
                 "name": "Total War",
                 "uniques": [
                     "[+30]% Production when constructing [Military] units [in all cities]",
-                    "New [Military] units start with [36] XP [in all cities]",
+                    "New [Military] units start with [30] XP [in all cities]",
                     "Provides [-1] [Level 1 Ideology]",
                     "Provides [1] [Level 2 Ideology]",
                     "Only available <when above [1] [Level 1 Ideology]>",
