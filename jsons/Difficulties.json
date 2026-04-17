@@ -5,7 +5,7 @@
     "researchCostModifier": 1,
     "unitCostModifier": 1,
     "unitSupplyBase": 3,
-    "unitSupplyPerCity": 2,
+    "unitSupplyPerCity": 1,
     "buildingCostModifier": 1,
     "policyCostModifier": 1,
     "unhappinessModifier": 1,
