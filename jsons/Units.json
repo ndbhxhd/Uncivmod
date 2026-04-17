@@ -3796,6 +3796,7 @@
         "name": "Iowa cl. battleship",
         "unitType": "Naval Ranged",
         "replaces": "Battleship",
+        "uniqueTo":"The United States of America",
         "movement": 4,
         "strength": 65,
         "rangedStrength": 65,
